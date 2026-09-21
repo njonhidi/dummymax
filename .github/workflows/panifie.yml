@@ -17,7 +17,7 @@ jobs:
 
       # 2. Donner les droits d'exécution au script (si nécessaire)
       - name: Rendre le script exécutable
-        run: chmod 775 ./dummymax.sh
+        run: chmod +x ./dummymax.sh
 
       # 3. Exécuter le script Bash
       - name: Lancer le script Bash
