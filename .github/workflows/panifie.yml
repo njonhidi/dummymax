@@ -1,0 +1,24 @@
+name: Planifier un script Bash
+
+on:
+  schedule:
+    # Toutes les heures
+    - cron: '0 */3 * * *'
+  # Permet aussi de lancer le script manuellement depuis l'onglet "Actions" de GitHub
+  workflow_dispatch:
+
+jobs:
+  run-bash-script:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Télécharger le dépôt sur le serveur virtuel
+      - name: Code checkout
+        uses: actions/checkout@v4
+
+      # 2. Donner les droits d'exécution au script (si nécessaire)
+      - name: Rendre le script exécutable
+        run: chmod 775 ./github/dummymax.sh
+
+      # 3. Exécuter le script Bash
+      - name: Lancer le script Bash
+        run: ./github/dummymax.sh
