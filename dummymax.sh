@@ -45,8 +45,8 @@ declare -a a38=("Max FR 38" "MAX FR 38" "Sport Live" "Creative Program Descripti
 declare -a a39=("Max FR 39" "MAX FR 39" "Sport Live" "Creative Program Description")
 declare -a a40=("Max FR 40" "MAX FR 40" "Sport Live" "Creative Program Description")
 
-starttimes=("000000" "030000" "060000" "090000" "120000 "150000" "180000" "210000")
-endtimes=("030000" "060000" "090000" "120000 "150000" "180000" "210000" "235900")
+starttimes=("000000" "030000" "060000" "090000" "120000" "150000" "180000" "210000")
+endtimes=("030000" "060000" "090000" "120000" "150000" "180000" "210000" "235900")
 BASEPATH="E:\"
 DUMMYFILENAME=dummy.xml
 
