@@ -47,7 +47,7 @@ declare -a a40=("Max FR 40" "MAX FR 40" "Sport Live" "Creative Program Descripti
 
 starttimes=("000000" "030000" "060000" "090000" "120000 "150000" "180000" "210000")
 endtimes=("030000" "060000" "090000" "120000 "150000" "180000" "210000" "235900")
-BASEPATH="/your/folder/path"
+BASEPATH="E:/"
 DUMMYFILENAME=dummy.xml
 
 		today=$(date +%d%m%Y)
