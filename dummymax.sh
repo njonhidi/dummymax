@@ -8,7 +8,7 @@ declare -a a1=("tvg-id-channel1" "Name Channel 1" "Program Tittle" "Creative Pro
 
 starttimes=("000000" "060000" "120000" "180000")
 endtimes=("060000" "120000" "180000" "235900")
-BASEPATH="E:/"
+BASEPATH="E:"
 DUMMYFILENAME=dummy.xml
 
 		today=$(date +%Y%m%d)
