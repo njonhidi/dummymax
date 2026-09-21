@@ -48,13 +48,13 @@ declare -a a40=("Max FR 40" "MAX FR 40" "Sport Live" "Creative Program Descripti
 starttimes=("000000" "030000" "060000" "090000" "120000" "150000" "180000" "210000")
 endtimes=("030000" "060000" "090000" "120000" "150000" "180000" "210000" "235900")
 ##BASEPATH="E:/"
-DUMMYFILENAME=dummymax.xml
+##DUMMYFILENAME=dummymax.xml
 
 		today=$(date +%d%m%Y)
 		tomorrow=$(date --date="+1 day" +%d%m%Y)
 		# tomorrow=$(date -v+1d +%Y%m%d)  ## if running on MAC or BSD
 		echo '<?xml version="1.0" encoding="UTF-8"?>' > /$DUMMYFILENAME
-		echo '<tv generator-info-name="mydummy" generator-info-url="https://null.null/">' >> /$DUMMYFILENAME
+		echo '<tv generator-info-name="mydummy" generator-info-url="https://null.null/">' > dummymax.xml
         numberofiterations=$(($numberofchannels - 1))
         echo "Creating Dummy Epg ..."
 
@@ -62,9 +62,9 @@ DUMMYFILENAME=dummymax.xml
 		for i in $(seq 0 $numberofiterations); do # Number of Dummys -1 
 			tvgid=a$i[0]
 			name=a$i[1]
-			echo '    <channel id="'${!tvgid}'">' >> /$DUMMYFILENAME
-			echo '        <display-name>'${!name}'</display-name>' >> /$DUMMYFILENAME
-			echo '    </channel>' >> /$DUMMYFILENAME
+			echo '    <channel id="'${!tvgid}'">' > dummymax.xml
+			echo '        <display-name>'${!name}'</display-name>' > dummymax.xml
+			echo '    </channel>' > dummymax.xml
 		done
 
 		for i in $(seq 0 $numberofiterations) ;do
@@ -72,20 +72,20 @@ DUMMYFILENAME=dummymax.xml
 			title=a$i[2]
 			desc=a$i[3]
 			for j in {0..3}; do
-					echo '    <programme start="'$today${starttimes[$j]}' +0000" stop="'$today${endtimes[$j]}' +0000" channel="'${!tvgid}'">' >> /$DUMMYFILENAME
-					echo '        <title>'${!title}'</title>' >> /$DUMMYFILENAME
-					echo '        <desc>'${!desc}'</desc>' >> /$DUMMYFILENAME
-					echo '    </programme>' >> /$DUMMYFILENAME
+					echo '    <programme start="'$today${starttimes[$j]}' +0000" stop="'$today${endtimes[$j]}' +0000" channel="'${!tvgid}'">' > dummymax.xml
+					echo '        <title>'${!title}'</title>' > dummymax.xml
+					echo '        <desc>'${!desc}'</desc>' > dummymax.xml
+					echo '    </programme>' > dummymax.xml
 			done
 			for j in {0..3}; do
-					echo '    <programme start="'$tomorrow${starttimes[$j]}' +0000" stop="'$tomorrow${endtimes[$j]}' +0000" channel="'${!tvgid}'">' >> /$DUMMYFILENAME
-					echo '        <title>'${!title}'</title>' >> /$DUMMYFILENAME
-					echo '        <desc>'${!desc}'</desc>' >> /$DUMMYFILENAME
-					echo '    </programme>' >> /$DUMMYFILENAME
+					echo '    <programme start="'$tomorrow${starttimes[$j]}' +0000" stop="'$tomorrow${endtimes[$j]}' +0000" channel="'${!tvgid}'">' > dummymax.xml
+					echo '        <title>'${!title}'</title>' > dummymax.xml
+					echo '        <desc>'${!desc}'</desc>' > dummymax.xml
+					echo '    </programme>' > dummymax.xml
 			done
 		done
 
-		echo '</tv>' >> /$DUMMYFILENAME
+		echo '</tv>' > dummymax.xml
 
 echo "Done!"
 sleep 2
