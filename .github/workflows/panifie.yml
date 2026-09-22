@@ -13,7 +13,7 @@ jobs:
     steps:
       # 1. Télécharger le dépôt sur le serveur virtuel
       - name: Code checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       # 2. Donner les droits d'exécution au script (si nécessaire)
       - name: Rendre le script exécutable
