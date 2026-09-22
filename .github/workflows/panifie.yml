@@ -9,7 +9,7 @@ on:
 
 jobs:
   run-bash-script:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     steps:
       # 1. Télécharger le dépôt sur le serveur virtuel
       - name: Code checkout
