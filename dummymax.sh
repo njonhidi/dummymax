@@ -48,12 +48,12 @@ declare -a a40=("Max FR 40" "MAX FR 40" "Sport Live" "Creative Program Descripti
 starttimes=("000000" "030000" "060000" "090000" "120000" "150000" "180000" "210000")
 endtimes=("030000" "060000" "090000" "120000" "150000" "180000" "210000" "235900")
 ##BASEPATH="E:/"
-##DUMMYFILENAME=dummymax.xml
+DUMMYFILENAME=dummymax.xml
 
 		today=$(date +%Y%m%d)
 		tomorrow=$(date --date="+1 day" +%Y%m%d)
 		# tomorrow=$(date -v+1d +%Y%m%d)  ## if running on MAC or BSD
-		echo '<?xml version="1.0" encoding="UTF-8"?>' > /$DUMMYFILENAME
+		echo '<?xml version="1.0" encoding="UTF-8"?>' > $DUMMYFILENAME
 		echo '<tv generator-info-name="mydummy" generator-info-url="https://null.null/">' >> dummymax.xml
         numberofiterations=$(($numberofchannels - 1))
         echo "Creating Dummy Epg ..."
