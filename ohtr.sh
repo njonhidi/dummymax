@@ -1,5 +1,5 @@
 #!/bin/bash
 
-		echo '<?xml version="1.0" encoding="UTF-8"?>' >> E:/github/Dummymax/ohtr.txt
+		echo 'Essai OK' > E:/github/Dummymax/ohtr.txt
 
 		
