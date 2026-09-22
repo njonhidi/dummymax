@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="mydummy" generator-info-url="https://null.null/">
-    <channel id="tvg-id-channel1">
-        <display-name>Name Channel 1</display-name>
-    </channel>
     <channel id="Max FR 01">
         <display-name>MAX FR 01</display-name>
     </channel>
@@ -123,38 +120,6 @@
     <channel id="Max FR 40">
         <display-name>MAX FR 40</display-name>
     </channel>
-    <programme start="22092026000000 +0000" stop="22092026030000 +0000" channel="tvg-id-channel1">
-        <title>Program Tittle</title>
-        <desc>Creative Program Description</desc>
-    </programme>
-    <programme start="22092026030000 +0000" stop="22092026060000 +0000" channel="tvg-id-channel1">
-        <title>Program Tittle</title>
-        <desc>Creative Program Description</desc>
-    </programme>
-    <programme start="22092026060000 +0000" stop="22092026090000 +0000" channel="tvg-id-channel1">
-        <title>Program Tittle</title>
-        <desc>Creative Program Description</desc>
-    </programme>
-    <programme start="22092026090000 +0000" stop="22092026120000 +0000" channel="tvg-id-channel1">
-        <title>Program Tittle</title>
-        <desc>Creative Program Description</desc>
-    </programme>
-    <programme start="23092026000000 +0000" stop="23092026030000 +0000" channel="tvg-id-channel1">
-        <title>Program Tittle</title>
-        <desc>Creative Program Description</desc>
-    </programme>
-    <programme start="23092026030000 +0000" stop="23092026060000 +0000" channel="tvg-id-channel1">
-        <title>Program Tittle</title>
-        <desc>Creative Program Description</desc>
-    </programme>
-    <programme start="23092026060000 +0000" stop="23092026090000 +0000" channel="tvg-id-channel1">
-        <title>Program Tittle</title>
-        <desc>Creative Program Description</desc>
-    </programme>
-    <programme start="23092026090000 +0000" stop="23092026120000 +0000" channel="tvg-id-channel1">
-        <title>Program Tittle</title>
-        <desc>Creative Program Description</desc>
-    </programme>
     <programme start="22092026000000 +0000" stop="22092026030000 +0000" channel="Max FR 01">
         <title>Sport Live</title>
         <desc>Creative Program Description</desc>
