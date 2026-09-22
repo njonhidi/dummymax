@@ -52,7 +52,7 @@ DUMMYFILENAME=dummymax.xml
 
 		today=$(date +%d%m%Y)
 		tomorrow=$(date --date="+1 day" +%d%m%Y)
-		# tomorrow=$(date -v+1d +%Y%m%d)  ## if running on MAC or BSD
+		# tomorrow=$(date -v+1d +%d%m%Y)  ## if running on MAC or BSD
 		echo '<?xml version="1.0" encoding="UTF-8"?>' > $BASEPATH/$DUMMYFILENAME
 		echo '<tv generator-info-name="mydummy" generator-info-url="https://null.null/">' >> $BASEPATH/$DUMMYFILENAME
         numberofiterations=$(($numberofchannels - 1))
