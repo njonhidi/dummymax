@@ -17,8 +17,8 @@ jobs:
 
       # 2. Donner les droits d'exécution au script (si nécessaire)
       - name: Rendre le script exécutable
-        run: chmod +x ./essai.sh
+        run: chmod +x ./andrana.sh
 
       # 3. Exécuter le script Bash
       - name: Lancer le script Bash
-        run: ./essai.sh
+        run: ./andrana.sh
