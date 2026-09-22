@@ -2,7 +2,7 @@ name: Planifier un script Bash
 
 on:
   schedule:
-    # Toutes les heures
+    # Toutes les 3 heures
     - cron: '0 */3 * * *'
   # Permet aussi de lancer le script manuellement depuis l'onglet "Actions" de GitHub
   workflow_dispatch:
