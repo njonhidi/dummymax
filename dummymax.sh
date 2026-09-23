@@ -169,7 +169,7 @@ DUMMYFILENAME=dummymax.xml
 					echo '    <programme channel="'${!tvgid}'" start="'$tomorrow${starttimes[$j]}' +0000" stop="'$tomorrow${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
-					echo '	      <icon src="https://lo1.in/fr/AMAZON%20PRIME.png"/>' >> $BASEPATH/$DUMMYFILENAME
+					echo '        <icon src="https://lo1.in/fr/AMAZON%20PRIME.png"/>' >> $BASEPATH/$DUMMYFILENAME
 					echo '    </programme>' >> $BASEPATH/$DUMMYFILENAME
 			done
 		done
