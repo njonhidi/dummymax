@@ -135,10 +135,11 @@ endtimes=("030000" "060000" "090000" "120000" "150000" "180000" "210000" "235900
 BASEPATH="E:/Github/Dummymax"
 DUMMYFILENAME=dummymax.xml
 
-		today=$(date +%d%m%Y)
-		tomorrow=$(date --date="+1 day" +%d%m%Y)
-		# tomorrow=$(date -v+1d +%d%m%Y)  ## if running on MAC or BSD
+		today=$(date +%Y%m%d)
+		tomorrow=$(date --date="+1 day" +%Y%m%d)
+		# tomorrow=$(date -v+1d +%Y%m%d)  ## if running on MAC or BSD
 		echo '<?xml version="1.0" encoding="UTF-8"?>' > $BASEPATH/$DUMMYFILENAME
+		echo '<!DOCTYPE tv SYSTEM "xmltv.dtd">' >> $BASEPATH/$DUMMYFILENAME
 		echo '<tv generator-info-name="mydummy" generator-info-url="https://null.null/">' >> $BASEPATH/$DUMMYFILENAME
         numberofiterations=$(($numberofchannels - 1))
         echo "Creating Dummy Epg ..."
@@ -149,6 +150,7 @@ DUMMYFILENAME=dummymax.xml
 			name=a$i[1]
 			echo '    <channel id="'${!tvgid}'">' >> $BASEPATH/$DUMMYFILENAME
 			echo '        <display-name>'${!name}'</display-name>' >> $BASEPATH/$DUMMYFILENAME
+			echo '        <icon src="https://lo1.in/fr/AMAZON%20PRIME.png"/>' >> $BASEPATH/$DUMMYFILENAME
 			echo '    </channel>' >> $BASEPATH/$DUMMYFILENAME
 		done
 
@@ -157,15 +159,17 @@ DUMMYFILENAME=dummymax.xml
 			title=ttl$i
 ###			desc=dscrpt$i
 			for j in {0..7}; do
-					echo '    <programme start="'$today${starttimes[$j]}' +0000" stop="'$today${endtimes[$j]}' +0000" channel="'${!tvgid}'">' >> $BASEPATH/$DUMMYFILENAME
+					echo '    <programme channel="'${!tvgid}'" start="'$today${starttimes[$j]}' +0000" stop="'$today${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
+					echo '        <icon src="https://lo1.in/fr/AMAZON%20PRIME.png"/>' >> $BASEPATH/$DUMMYFILENAME
 					echo '    </programme>' >> $BASEPATH/$DUMMYFILENAME
 			done
 			for j in {0..7}; do
-					echo '    <programme start="'$tomorrow${starttimes[$j]}' +0000" stop="'$tomorrow${endtimes[$j]}' +0000" channel="'${!tvgid}'">' >> $BASEPATH/$DUMMYFILENAME
+					echo '    <programme channel="'${!tvgid}'" start="'$tomorrow${starttimes[$j]}' +0000" stop="'$tomorrow${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
+					echo '	      <icon src="https://lo1.in/fr/AMAZON%20PRIME.png"/>' >> $BASEPATH/$DUMMYFILENAME
 					echo '    </programme>' >> $BASEPATH/$DUMMYFILENAME
 			done
 		done
