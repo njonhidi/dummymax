@@ -2,7 +2,7 @@
 
 ## VARIABLES
 ### Your channels go here. add more channels as you want
-numberofchannels=40
+numberofchannels=60
 ##declare     ("tvg-id-channel1" "Name Channel 1" "Program Tittle" "Creative Program Description")
 declare -a a0=("Max FR 01" "MAX FR 01")
 declare -a a1=("Max FR 02" "MAX FR 02")
@@ -44,6 +44,26 @@ declare -a a36=("Max FR 37" "MAX FR 37")
 declare -a a37=("Max FR 38" "MAX FR 38")
 declare -a a38=("Max FR 39" "MAX FR 39")
 declare -a a39=("Max FR 40" "MAX FR 40")
+declare -a a40=("Max FR 41" "MAX FR 41")
+declare -a a41=("Max FR 42" "MAX FR 42")
+declare -a a42=("Max FR 43" "MAX FR 43")
+declare -a a43=("Max FR 44" "MAX FR 44")
+declare -a a44=("Max FR 45" "MAX FR 45")
+declare -a a45=("Max FR 46" "MAX FR 46")
+declare -a a46=("Max FR 47" "MAX FR 47")
+declare -a a47=("Max FR 48" "MAX FR 48")
+declare -a a48=("Max FR 49" "MAX FR 49")
+declare -a a49=("Max FR 50" "MAX FR 50")
+declare -a a50=("Disney FR 01" "DISNEY FR 01")
+declare -a a51=("Disney FR 02" "DISNEY FR 02")
+declare -a a52=("Disney FR 03" "DISNEY FR 03")
+declare -a a53=("Disney FR 04" "DISNEY FR 04")
+declare -a a54=("Disney FR 05" "DISNEY FR 05")
+declare -a a55=("Disney FR 06" "DISNEY FR 06")
+declare -a a56=("Disney FR 07" "DISNEY FR 07")
+declare -a a57=("Disney FR 08" "DISNEY FR 08")
+declare -a a58=("Disney FR 09" "DISNEY FR 09")
+declare -a a59=("Disney FR 10" "DISNEY FR 10")
 
 ##declare Program Tittle
 declare -a ttl0="Daniel Wells - Oliver Sykes Open d'Ecosse | Qualifications (23-09-2026 11:58)"
@@ -86,6 +106,26 @@ declare -a ttl36="Multiplex : Journée 9 (03-10-2026 21:28)"
 declare -a ttl37="Thionville vs. La Roche (26-09-2026 21:28)"
 declare -a ttl38="Versailles vs. Valenciennes (03-10-2026 21:28)"
 declare -a ttl39="TAIF Racing Season 2026 - Week 10, Day 2 (26-09-2026 16:23)"
+declare -a ttl40="Gaston vs. Smith (28-08-2026 19:52)"
+declare -a ttl41="Yuan vs. Stoiana (28-08-2026 19:58)"
+declare -a ttl42="Storm vs. Valkyries (20-09-2026 03:58)"
+declare -a ttl43="Semenistaja vs. Hunter (28-08-2026 17:58)"
+declare -a ttl44="TAIF Racing Season 2026 - Week 6, Day 1 (28-08-2026 16:03)"
+declare -a ttl45="Köln vs. Hoffenheim (28-08-2026 19:17)"
+declare -a ttl46="Santander vs. Elche (28-08-2026 19:36)"
+declare -a ttl47="Lille vs. PSG (28-08-2026 20:43)"
+declare -a ttl48="Preseason: Commanders vs. Ravens (29-08-2026 00:53)"
+declare -a ttl49="Preseason: Falcons vs. Dolphins (29-08-2026 01:53)"
+declare -a ttl50="UEFA Women's Champions League - The Hangout (23-09-2026 19:00)"
+declare -a ttl51="L'Équipe de Greg (23-09-2026 19:30)"
+declare -a ttl52="L'Équipe du soir (25-09-2026 00:00)"
+declare -a ttl53="L'Équipe de choc (24-09-2026 18:00)"
+declare -a ttl54="NCAA Women's Soccer - Memphis vs. South Florida (25-09-2026 01:00)"
+declare -a ttl55="NCAA - Football - Benedict vs. Tuskegee (25-09-2026 02:00)"
+declare -a ttl56="L'Équipe du soir 100% BUTS (24-09-2026 23:45)"
+declare -a ttl57="NCAA Women's Soccer - Mississippi State vs. #9 Tennessee (25-09-2026 03:00)"
+declare -a ttl58="L'Équipe de Greg (24-09-2026 19:30)"
+declare -a ttl59="NCAA Women's Soccer - Kentucky vs. #17 South Carolina (25-09-2026 02:00)"
 
 
 ##declare Program Desription
@@ -150,7 +190,7 @@ DUMMYFILENAME=dummymax.xml
 			name=a$i[1]
 			echo '    <channel id="'${!tvgid}'">' >> $BASEPATH/$DUMMYFILENAME
 			echo '        <display-name>'${!name}'</display-name>' >> $BASEPATH/$DUMMYFILENAME
-			echo '        <icon src="https://lo1.in/fr/AMAZON%20PRIME.png"/>' >> $BASEPATH/$DUMMYFILENAME
+##			echo '        <icon src="https://lo1.in/fr/AMAZON%20PRIME.png"/>' >> $BASEPATH/$DUMMYFILENAME
 			echo '    </channel>' >> $BASEPATH/$DUMMYFILENAME
 		done
 
@@ -162,14 +202,14 @@ DUMMYFILENAME=dummymax.xml
 					echo '    <programme channel="'${!tvgid}'" start="'$today${starttimes[$j]}' +0000" stop="'$today${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
-					echo '        <icon src="https://lo1.in/fr/AMAZON%20PRIME.png"/>' >> $BASEPATH/$DUMMYFILENAME
+##					echo '        <icon src="https://lo1.in/fr/AMAZON%20PRIME.png"/>' >> $BASEPATH/$DUMMYFILENAME
 					echo '    </programme>' >> $BASEPATH/$DUMMYFILENAME
 			done
 			for j in {0..7}; do
 					echo '    <programme channel="'${!tvgid}'" start="'$tomorrow${starttimes[$j]}' +0000" stop="'$tomorrow${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
-					echo '        <icon src="https://lo1.in/fr/AMAZON%20PRIME.png"/>' >> $BASEPATH/$DUMMYFILENAME
+##					echo '        <icon src="https://lo1.in/fr/AMAZON%20PRIME.png"/>' >> $BASEPATH/$DUMMYFILENAME
 					echo '    </programme>' >> $BASEPATH/$DUMMYFILENAME
 			done
 		done
