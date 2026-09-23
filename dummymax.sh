@@ -171,7 +171,7 @@ declare -a dscrpt38="Creative Program Description"
 declare -a dscrpt39="Creative Program Description"
 
 starttimes=("000000" "030000" "060000" "090000" "120000" "150000" "180000" "210000")
-endtimes=("030000" "060000" "090000" "120000" "150000" "180000" "210000" "235900")
+endtimes=("030000" "060000" "090000" "120000" "150000" "180000" "210000" "000000")
 BASEPATH="E:/Github/Dummymax"
 DUMMYFILENAME=dummymax.xml
 
@@ -190,7 +190,6 @@ DUMMYFILENAME=dummymax.xml
 			name=a$i[1]
 			echo '    <channel id="'${!tvgid}'">' >> $BASEPATH/$DUMMYFILENAME
 			echo '        <display-name>'${!name}'</display-name>' >> $BASEPATH/$DUMMYFILENAME
-##			echo '        <icon src="https://lo1.in/fr/AMAZON%20PRIME.png"/>' >> $BASEPATH/$DUMMYFILENAME
 			echo '    </channel>' >> $BASEPATH/$DUMMYFILENAME
 		done
 
@@ -202,14 +201,12 @@ DUMMYFILENAME=dummymax.xml
 					echo '    <programme channel="'${!tvgid}'" start="'$today${starttimes[$j]}' +0000" stop="'$today${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
-##					echo '        <icon src="https://lo1.in/fr/AMAZON%20PRIME.png"/>' >> $BASEPATH/$DUMMYFILENAME
 					echo '    </programme>' >> $BASEPATH/$DUMMYFILENAME
 			done
 			for j in {0..7}; do
 					echo '    <programme channel="'${!tvgid}'" start="'$tomorrow${starttimes[$j]}' +0000" stop="'$tomorrow${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
-##					echo '        <icon src="https://lo1.in/fr/AMAZON%20PRIME.png"/>' >> $BASEPATH/$DUMMYFILENAME
 					echo '    </programme>' >> $BASEPATH/$DUMMYFILENAME
 			done
 		done
