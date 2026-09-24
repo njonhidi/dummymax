@@ -1,7 +1,8 @@
 #!/bin/bash
 
-source ./config_name.sh
-source ./config_title.sh
+
+source /e/Github/Dummymax/config_name.sh
+source /e/Github/Dummymax/config_title.sh
 
 starttimes=("000000" "030000" "060000" "090000" "120000" "150000" "180000" "210000")
 endtimes=("030000" "060000" "090000" "120000" "150000" "180000" "210000" "000000")
