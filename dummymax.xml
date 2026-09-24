@@ -181,49 +181,154 @@
     <channel id="Disney FR 10">
         <display-name>DISNEY FR 10</display-name>
     </channel>
+    <channel id="MLS 01">
+        <display-name>MLS 01</display-name>
+    </channel>
+    <channel id="MLS 02">
+        <display-name>MLS 02</display-name>
+    </channel>
+    <channel id="MLS 03">
+        <display-name>MLS 03</display-name>
+    </channel>
+    <channel id="MLS 04">
+        <display-name>MLS 04</display-name>
+    </channel>
+    <channel id="MLS 05">
+        <display-name>MLS 05</display-name>
+    </channel>
+    <channel id="MLS 06">
+        <display-name>MLS 06</display-name>
+    </channel>
+    <channel id="MLS 07">
+        <display-name>MLS 07</display-name>
+    </channel>
+    <channel id="MLS 08">
+        <display-name>MLS 08</display-name>
+    </channel>
+    <channel id="MLS 09">
+        <display-name>MLS 09</display-name>
+    </channel>
+    <channel id="MLS 10">
+        <display-name>MLS 10</display-name>
+    </channel>
+    <channel id="MLS 11">
+        <display-name>MLS 11</display-name>
+    </channel>
+    <channel id="MLS 12">
+        <display-name>MLS 12</display-name>
+    </channel>
+    <channel id="MLS 13">
+        <display-name>MLS 13</display-name>
+    </channel>
+    <channel id="MLS 14">
+        <display-name>MLS 14</display-name>
+    </channel>
+    <channel id="MLS 15">
+        <display-name>MLS 15</display-name>
+    </channel>
+    <channel id="MLS 16">
+        <display-name>MLS 16</display-name>
+    </channel>
+    <channel id="MLS 17">
+        <display-name>MLS 17</display-name>
+    </channel>
+    <channel id="MLS 18">
+        <display-name>MLS 18</display-name>
+    </channel>
+    <channel id="MLS 19">
+        <display-name>MLS 19</display-name>
+    </channel>
+    <channel id="MLS 20">
+        <display-name>MLS 20</display-name>
+    </channel>
+    <channel id="MLS 21">
+        <display-name>MLS 21</display-name>
+    </channel>
+    <channel id="MLS 22">
+        <display-name>MLS 22</display-name>
+    </channel>
+    <channel id="MLS 23">
+        <display-name>MLS 23</display-name>
+    </channel>
+    <channel id="MLS 24">
+        <display-name>MLS 24</display-name>
+    </channel>
+    <channel id="MLS 25">
+        <display-name>MLS 25</display-name>
+    </channel>
+    <channel id="MLS 26">
+        <display-name>MLS 26</display-name>
+    </channel>
+    <channel id="MLS 27">
+        <display-name>MLS 27</display-name>
+    </channel>
+    <channel id="MLS 28">
+        <display-name>MLS 28</display-name>
+    </channel>
+    <channel id="MLS 29">
+        <display-name>MLS 29</display-name>
+    </channel>
+    <channel id="MLS 30">
+        <display-name>MLS 30</display-name>
+    </channel>
+    <channel id="MLS 31">
+        <display-name>MLS 31</display-name>
+    </channel>
+    <channel id="MLS 32">
+        <display-name>MLS 32</display-name>
+    </channel>
+    <channel id="MLS 33">
+        <display-name>MLS 33</display-name>
+    </channel>
+    <channel id="MLS 34">
+        <display-name>MLS 34</display-name>
+    </channel>
+    <channel id="MLS 35">
+        <display-name>MLS 35</display-name>
+    </channel>
     <programme channel="Prime FR 01" start="20260924000000 +0000" stop="20260924030000 +0000">
-        <title>Cui vs. Vallejo (24-09-2026 13:14)</title>
-        <desc>Cui vs. Vallejo (24-09-2026 13:14)</desc>
+        <title>Cui vs. Vallejo (24-09-2026 12:59)</title>
+        <desc>Cui vs. Vallejo (24-09-2026 12:59)</desc>
     </programme>
     <programme channel="Prime FR 01" start="20260924030000 +0000" stop="20260924060000 +0000">
-        <title>Cui vs. Vallejo (24-09-2026 13:14)</title>
-        <desc>Cui vs. Vallejo (24-09-2026 13:14)</desc>
+        <title>Cui vs. Vallejo (24-09-2026 12:59)</title>
+        <desc>Cui vs. Vallejo (24-09-2026 12:59)</desc>
     </programme>
     <programme channel="Prime FR 01" start="20260924060000 +0000" stop="20260924090000 +0000">
-        <title>Cui vs. Vallejo (24-09-2026 13:14)</title>
-        <desc>Cui vs. Vallejo (24-09-2026 13:14)</desc>
+        <title>Cui vs. Vallejo (24-09-2026 12:59)</title>
+        <desc>Cui vs. Vallejo (24-09-2026 12:59)</desc>
     </programme>
     <programme channel="Prime FR 01" start="20260924090000 +0000" stop="20260924120000 +0000">
-        <title>Cui vs. Vallejo (24-09-2026 13:14)</title>
-        <desc>Cui vs. Vallejo (24-09-2026 13:14)</desc>
+        <title>Cui vs. Vallejo (24-09-2026 12:59)</title>
+        <desc>Cui vs. Vallejo (24-09-2026 12:59)</desc>
     </programme>
     <programme channel="Prime FR 01" start="20260924120000 +0000" stop="20260924150000 +0000">
-        <title>Cui vs. Vallejo (24-09-2026 13:14)</title>
-        <desc>Cui vs. Vallejo (24-09-2026 13:14)</desc>
+        <title>Cui vs. Vallejo (24-09-2026 12:59)</title>
+        <desc>Cui vs. Vallejo (24-09-2026 12:59)</desc>
     </programme>
     <programme channel="Prime FR 01" start="20260924150000 +0000" stop="20260924180000 +0000">
-        <title>Cui vs. Vallejo (24-09-2026 13:14)</title>
-        <desc>Cui vs. Vallejo (24-09-2026 13:14)</desc>
+        <title>Cui vs. Vallejo (24-09-2026 12:59)</title>
+        <desc>Cui vs. Vallejo (24-09-2026 12:59)</desc>
     </programme>
     <programme channel="Prime FR 01" start="20260924180000 +0000" stop="20260924210000 +0000">
-        <title>Cui vs. Vallejo (24-09-2026 13:14)</title>
-        <desc>Cui vs. Vallejo (24-09-2026 13:14)</desc>
+        <title>Cui vs. Vallejo (24-09-2026 12:59)</title>
+        <desc>Cui vs. Vallejo (24-09-2026 12:59)</desc>
     </programme>
     <programme channel="Prime FR 01" start="20260924210000 +0000" stop="20260924000000 +0000">
-        <title>Cui vs. Vallejo (24-09-2026 13:14)</title>
-        <desc>Cui vs. Vallejo (24-09-2026 13:14)</desc>
+        <title>Cui vs. Vallejo (24-09-2026 12:59)</title>
+        <desc>Cui vs. Vallejo (24-09-2026 12:59)</desc>
     </programme>
     <programme channel="Prime FR 01" start="20260925000000 +0000" stop="20260925030000 +0000">
-        <title>Cui vs. Vallejo (24-09-2026 13:14)</title>
-        <desc>Cui vs. Vallejo (24-09-2026 13:14)</desc>
+        <title>Cui vs. Vallejo (24-09-2026 12:59)</title>
+        <desc>Cui vs. Vallejo (24-09-2026 12:59)</desc>
     </programme>
     <programme channel="Prime FR 01" start="20260925030000 +0000" stop="20260925060000 +0000">
-        <title>Cui vs. Vallejo (24-09-2026 13:14)</title>
-        <desc>Cui vs. Vallejo (24-09-2026 13:14)</desc>
+        <title>Cui vs. Vallejo (24-09-2026 12:59)</title>
+        <desc>Cui vs. Vallejo (24-09-2026 12:59)</desc>
     </programme>
     <programme channel="Prime FR 01" start="20260925060000 +0000" stop="20260925090000 +0000">
-        <title>Cui vs. Vallejo (24-09-2026 13:14)</title>
-        <desc>Cui vs. Vallejo (24-09-2026 13:14)</desc>
+        <title>Cui vs. Vallejo (24-09-2026 12:59)</title>
+        <desc>Cui vs. Vallejo (24-09-2026 12:59)</desc>
     </programme>
     <programme channel="Prime FR 02" start="20260924000000 +0000" stop="20260924030000 +0000">
         <title>Vienna - GCL Round 2 (25-09-2026 20:58)</title>
@@ -358,48 +463,48 @@
         <desc>Shang vs. Mannarino (24-09-2026 11:44)</desc>
     </programme>
     <programme channel="Prime FR 05" start="20260924000000 +0000" stop="20260924030000 +0000">
-        <title>Bu vs. Zheng (24-09-2026 11:14)</title>
-        <desc>Bu vs. Zheng (24-09-2026 11:14)</desc>
+        <title>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</title>
+        <desc>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</desc>
     </programme>
     <programme channel="Prime FR 05" start="20260924030000 +0000" stop="20260924060000 +0000">
-        <title>Bu vs. Zheng (24-09-2026 11:14)</title>
-        <desc>Bu vs. Zheng (24-09-2026 11:14)</desc>
+        <title>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</title>
+        <desc>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</desc>
     </programme>
     <programme channel="Prime FR 05" start="20260924060000 +0000" stop="20260924090000 +0000">
-        <title>Bu vs. Zheng (24-09-2026 11:14)</title>
-        <desc>Bu vs. Zheng (24-09-2026 11:14)</desc>
+        <title>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</title>
+        <desc>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</desc>
     </programme>
     <programme channel="Prime FR 05" start="20260924090000 +0000" stop="20260924120000 +0000">
-        <title>Bu vs. Zheng (24-09-2026 11:14)</title>
-        <desc>Bu vs. Zheng (24-09-2026 11:14)</desc>
+        <title>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</title>
+        <desc>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</desc>
     </programme>
     <programme channel="Prime FR 05" start="20260924120000 +0000" stop="20260924150000 +0000">
-        <title>Bu vs. Zheng (24-09-2026 11:14)</title>
-        <desc>Bu vs. Zheng (24-09-2026 11:14)</desc>
+        <title>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</title>
+        <desc>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</desc>
     </programme>
     <programme channel="Prime FR 05" start="20260924150000 +0000" stop="20260924180000 +0000">
-        <title>Bu vs. Zheng (24-09-2026 11:14)</title>
-        <desc>Bu vs. Zheng (24-09-2026 11:14)</desc>
+        <title>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</title>
+        <desc>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</desc>
     </programme>
     <programme channel="Prime FR 05" start="20260924180000 +0000" stop="20260924210000 +0000">
-        <title>Bu vs. Zheng (24-09-2026 11:14)</title>
-        <desc>Bu vs. Zheng (24-09-2026 11:14)</desc>
+        <title>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</title>
+        <desc>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</desc>
     </programme>
     <programme channel="Prime FR 05" start="20260924210000 +0000" stop="20260924000000 +0000">
-        <title>Bu vs. Zheng (24-09-2026 11:14)</title>
-        <desc>Bu vs. Zheng (24-09-2026 11:14)</desc>
+        <title>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</title>
+        <desc>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</desc>
     </programme>
     <programme channel="Prime FR 05" start="20260925000000 +0000" stop="20260925030000 +0000">
-        <title>Bu vs. Zheng (24-09-2026 11:14)</title>
-        <desc>Bu vs. Zheng (24-09-2026 11:14)</desc>
+        <title>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</title>
+        <desc>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</desc>
     </programme>
     <programme channel="Prime FR 05" start="20260925030000 +0000" stop="20260925060000 +0000">
-        <title>Bu vs. Zheng (24-09-2026 11:14)</title>
-        <desc>Bu vs. Zheng (24-09-2026 11:14)</desc>
+        <title>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</title>
+        <desc>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</desc>
     </programme>
     <programme channel="Prime FR 05" start="20260925060000 +0000" stop="20260925090000 +0000">
-        <title>Bu vs. Zheng (24-09-2026 11:14)</title>
-        <desc>Bu vs. Zheng (24-09-2026 11:14)</desc>
+        <title>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</title>
+        <desc>Championnats du Monde UCI: Montreal : course en ligne - dames élite (24-09-2026 16:58)</desc>
     </programme>
     <programme channel="Prime FR 06" start="20260924000000 +0000" stop="20260924030000 +0000">
         <title>La Roche vs. Aubagne AB (03-10-2026 21:28)</title>
@@ -446,48 +551,48 @@
         <desc>La Roche vs. Aubagne AB (03-10-2026 21:28)</desc>
     </programme>
     <programme channel="Prime FR 07" start="20260924000000 +0000" stop="20260924030000 +0000">
-        <title>Cerundolo vs. Zhou (24-09-2026 15:44)</title>
-        <desc>Cerundolo vs. Zhou (24-09-2026 15:44)</desc>
+        <title>Cerundolo vs. Zhou (24-09-2026 15:46)</title>
+        <desc>Cerundolo vs. Zhou (24-09-2026 15:46)</desc>
     </programme>
     <programme channel="Prime FR 07" start="20260924030000 +0000" stop="20260924060000 +0000">
-        <title>Cerundolo vs. Zhou (24-09-2026 15:44)</title>
-        <desc>Cerundolo vs. Zhou (24-09-2026 15:44)</desc>
+        <title>Cerundolo vs. Zhou (24-09-2026 15:46)</title>
+        <desc>Cerundolo vs. Zhou (24-09-2026 15:46)</desc>
     </programme>
     <programme channel="Prime FR 07" start="20260924060000 +0000" stop="20260924090000 +0000">
-        <title>Cerundolo vs. Zhou (24-09-2026 15:44)</title>
-        <desc>Cerundolo vs. Zhou (24-09-2026 15:44)</desc>
+        <title>Cerundolo vs. Zhou (24-09-2026 15:46)</title>
+        <desc>Cerundolo vs. Zhou (24-09-2026 15:46)</desc>
     </programme>
     <programme channel="Prime FR 07" start="20260924090000 +0000" stop="20260924120000 +0000">
-        <title>Cerundolo vs. Zhou (24-09-2026 15:44)</title>
-        <desc>Cerundolo vs. Zhou (24-09-2026 15:44)</desc>
+        <title>Cerundolo vs. Zhou (24-09-2026 15:46)</title>
+        <desc>Cerundolo vs. Zhou (24-09-2026 15:46)</desc>
     </programme>
     <programme channel="Prime FR 07" start="20260924120000 +0000" stop="20260924150000 +0000">
-        <title>Cerundolo vs. Zhou (24-09-2026 15:44)</title>
-        <desc>Cerundolo vs. Zhou (24-09-2026 15:44)</desc>
+        <title>Cerundolo vs. Zhou (24-09-2026 15:46)</title>
+        <desc>Cerundolo vs. Zhou (24-09-2026 15:46)</desc>
     </programme>
     <programme channel="Prime FR 07" start="20260924150000 +0000" stop="20260924180000 +0000">
-        <title>Cerundolo vs. Zhou (24-09-2026 15:44)</title>
-        <desc>Cerundolo vs. Zhou (24-09-2026 15:44)</desc>
+        <title>Cerundolo vs. Zhou (24-09-2026 15:46)</title>
+        <desc>Cerundolo vs. Zhou (24-09-2026 15:46)</desc>
     </programme>
     <programme channel="Prime FR 07" start="20260924180000 +0000" stop="20260924210000 +0000">
-        <title>Cerundolo vs. Zhou (24-09-2026 15:44)</title>
-        <desc>Cerundolo vs. Zhou (24-09-2026 15:44)</desc>
+        <title>Cerundolo vs. Zhou (24-09-2026 15:46)</title>
+        <desc>Cerundolo vs. Zhou (24-09-2026 15:46)</desc>
     </programme>
     <programme channel="Prime FR 07" start="20260924210000 +0000" stop="20260924000000 +0000">
-        <title>Cerundolo vs. Zhou (24-09-2026 15:44)</title>
-        <desc>Cerundolo vs. Zhou (24-09-2026 15:44)</desc>
+        <title>Cerundolo vs. Zhou (24-09-2026 15:46)</title>
+        <desc>Cerundolo vs. Zhou (24-09-2026 15:46)</desc>
     </programme>
     <programme channel="Prime FR 07" start="20260925000000 +0000" stop="20260925030000 +0000">
-        <title>Cerundolo vs. Zhou (24-09-2026 15:44)</title>
-        <desc>Cerundolo vs. Zhou (24-09-2026 15:44)</desc>
+        <title>Cerundolo vs. Zhou (24-09-2026 15:46)</title>
+        <desc>Cerundolo vs. Zhou (24-09-2026 15:46)</desc>
     </programme>
     <programme channel="Prime FR 07" start="20260925030000 +0000" stop="20260925060000 +0000">
-        <title>Cerundolo vs. Zhou (24-09-2026 15:44)</title>
-        <desc>Cerundolo vs. Zhou (24-09-2026 15:44)</desc>
+        <title>Cerundolo vs. Zhou (24-09-2026 15:46)</title>
+        <desc>Cerundolo vs. Zhou (24-09-2026 15:46)</desc>
     </programme>
     <programme channel="Prime FR 07" start="20260925060000 +0000" stop="20260925090000 +0000">
-        <title>Cerundolo vs. Zhou (24-09-2026 15:44)</title>
-        <desc>Cerundolo vs. Zhou (24-09-2026 15:44)</desc>
+        <title>Cerundolo vs. Zhou (24-09-2026 15:46)</title>
+        <desc>Cerundolo vs. Zhou (24-09-2026 15:46)</desc>
     </programme>
     <programme channel="Prime FR 08" start="20260924000000 +0000" stop="20260924030000 +0000">
         <title>Dijon vs. Strasbourg (25-09-2026 20:47)</title>
@@ -710,48 +815,48 @@
         <desc>Vienna - Longines Champions Tour Grand Prix (27-09-2026 21:05)</desc>
     </programme>
     <programme channel="Prime FR 13" start="20260924000000 +0000" stop="20260924030000 +0000">
-        <title>Griekspoor vs. Shapovalov (24-09-2026 07:57)</title>
-        <desc>Griekspoor vs. Shapovalov (24-09-2026 07:57)</desc>
+        <title>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</title>
+        <desc>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</desc>
     </programme>
     <programme channel="Prime FR 13" start="20260924030000 +0000" stop="20260924060000 +0000">
-        <title>Griekspoor vs. Shapovalov (24-09-2026 07:57)</title>
-        <desc>Griekspoor vs. Shapovalov (24-09-2026 07:57)</desc>
+        <title>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</title>
+        <desc>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</desc>
     </programme>
     <programme channel="Prime FR 13" start="20260924060000 +0000" stop="20260924090000 +0000">
-        <title>Griekspoor vs. Shapovalov (24-09-2026 07:57)</title>
-        <desc>Griekspoor vs. Shapovalov (24-09-2026 07:57)</desc>
+        <title>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</title>
+        <desc>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</desc>
     </programme>
     <programme channel="Prime FR 13" start="20260924090000 +0000" stop="20260924120000 +0000">
-        <title>Griekspoor vs. Shapovalov (24-09-2026 07:57)</title>
-        <desc>Griekspoor vs. Shapovalov (24-09-2026 07:57)</desc>
+        <title>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</title>
+        <desc>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</desc>
     </programme>
     <programme channel="Prime FR 13" start="20260924120000 +0000" stop="20260924150000 +0000">
-        <title>Griekspoor vs. Shapovalov (24-09-2026 07:57)</title>
-        <desc>Griekspoor vs. Shapovalov (24-09-2026 07:57)</desc>
+        <title>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</title>
+        <desc>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</desc>
     </programme>
     <programme channel="Prime FR 13" start="20260924150000 +0000" stop="20260924180000 +0000">
-        <title>Griekspoor vs. Shapovalov (24-09-2026 07:57)</title>
-        <desc>Griekspoor vs. Shapovalov (24-09-2026 07:57)</desc>
+        <title>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</title>
+        <desc>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</desc>
     </programme>
     <programme channel="Prime FR 13" start="20260924180000 +0000" stop="20260924210000 +0000">
-        <title>Griekspoor vs. Shapovalov (24-09-2026 07:57)</title>
-        <desc>Griekspoor vs. Shapovalov (24-09-2026 07:57)</desc>
+        <title>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</title>
+        <desc>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</desc>
     </programme>
     <programme channel="Prime FR 13" start="20260924210000 +0000" stop="20260924000000 +0000">
-        <title>Griekspoor vs. Shapovalov (24-09-2026 07:57)</title>
-        <desc>Griekspoor vs. Shapovalov (24-09-2026 07:57)</desc>
+        <title>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</title>
+        <desc>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</desc>
     </programme>
     <programme channel="Prime FR 13" start="20260925000000 +0000" stop="20260925030000 +0000">
-        <title>Griekspoor vs. Shapovalov (24-09-2026 07:57)</title>
-        <desc>Griekspoor vs. Shapovalov (24-09-2026 07:57)</desc>
+        <title>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</title>
+        <desc>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</desc>
     </programme>
     <programme channel="Prime FR 13" start="20260925030000 +0000" stop="20260925060000 +0000">
-        <title>Griekspoor vs. Shapovalov (24-09-2026 07:57)</title>
-        <desc>Griekspoor vs. Shapovalov (24-09-2026 07:57)</desc>
+        <title>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</title>
+        <desc>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</desc>
     </programme>
     <programme channel="Prime FR 13" start="20260925060000 +0000" stop="20260925090000 +0000">
-        <title>Griekspoor vs. Shapovalov (24-09-2026 07:57)</title>
-        <desc>Griekspoor vs. Shapovalov (24-09-2026 07:57)</desc>
+        <title>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</title>
+        <desc>Championnats du monde | Course en ligne U23 (F) 2026 UCI Road World Championships – Montréal (24-09-2026 15:48)</desc>
     </programme>
     <programme channel="Prime FR 14" start="20260924000000 +0000" stop="20260924030000 +0000">
         <title>TAIF Racing Season 2026 - Week 10, Day 1 (25-09-2026 16:18)</title>
@@ -974,48 +1079,48 @@
         <desc>Valenciennes vs. Le Puy (26-09-2026 21:28)</desc>
     </programme>
     <programme channel="Prime FR 19" start="20260924000000 +0000" stop="20260924030000 +0000">
-        <title>Shevchenko vs. Hurkacz (24-09-2026 13:44)</title>
-        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:44)</desc>
+        <title>Shevchenko vs. Hurkacz (24-09-2026 13:46)</title>
+        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:46)</desc>
     </programme>
     <programme channel="Prime FR 19" start="20260924030000 +0000" stop="20260924060000 +0000">
-        <title>Shevchenko vs. Hurkacz (24-09-2026 13:44)</title>
-        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:44)</desc>
+        <title>Shevchenko vs. Hurkacz (24-09-2026 13:46)</title>
+        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:46)</desc>
     </programme>
     <programme channel="Prime FR 19" start="20260924060000 +0000" stop="20260924090000 +0000">
-        <title>Shevchenko vs. Hurkacz (24-09-2026 13:44)</title>
-        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:44)</desc>
+        <title>Shevchenko vs. Hurkacz (24-09-2026 13:46)</title>
+        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:46)</desc>
     </programme>
     <programme channel="Prime FR 19" start="20260924090000 +0000" stop="20260924120000 +0000">
-        <title>Shevchenko vs. Hurkacz (24-09-2026 13:44)</title>
-        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:44)</desc>
+        <title>Shevchenko vs. Hurkacz (24-09-2026 13:46)</title>
+        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:46)</desc>
     </programme>
     <programme channel="Prime FR 19" start="20260924120000 +0000" stop="20260924150000 +0000">
-        <title>Shevchenko vs. Hurkacz (24-09-2026 13:44)</title>
-        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:44)</desc>
+        <title>Shevchenko vs. Hurkacz (24-09-2026 13:46)</title>
+        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:46)</desc>
     </programme>
     <programme channel="Prime FR 19" start="20260924150000 +0000" stop="20260924180000 +0000">
-        <title>Shevchenko vs. Hurkacz (24-09-2026 13:44)</title>
-        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:44)</desc>
+        <title>Shevchenko vs. Hurkacz (24-09-2026 13:46)</title>
+        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:46)</desc>
     </programme>
     <programme channel="Prime FR 19" start="20260924180000 +0000" stop="20260924210000 +0000">
-        <title>Shevchenko vs. Hurkacz (24-09-2026 13:44)</title>
-        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:44)</desc>
+        <title>Shevchenko vs. Hurkacz (24-09-2026 13:46)</title>
+        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:46)</desc>
     </programme>
     <programme channel="Prime FR 19" start="20260924210000 +0000" stop="20260924000000 +0000">
-        <title>Shevchenko vs. Hurkacz (24-09-2026 13:44)</title>
-        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:44)</desc>
+        <title>Shevchenko vs. Hurkacz (24-09-2026 13:46)</title>
+        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:46)</desc>
     </programme>
     <programme channel="Prime FR 19" start="20260925000000 +0000" stop="20260925030000 +0000">
-        <title>Shevchenko vs. Hurkacz (24-09-2026 13:44)</title>
-        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:44)</desc>
+        <title>Shevchenko vs. Hurkacz (24-09-2026 13:46)</title>
+        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:46)</desc>
     </programme>
     <programme channel="Prime FR 19" start="20260925030000 +0000" stop="20260925060000 +0000">
-        <title>Shevchenko vs. Hurkacz (24-09-2026 13:44)</title>
-        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:44)</desc>
+        <title>Shevchenko vs. Hurkacz (24-09-2026 13:46)</title>
+        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:46)</desc>
     </programme>
     <programme channel="Prime FR 19" start="20260925060000 +0000" stop="20260925090000 +0000">
-        <title>Shevchenko vs. Hurkacz (24-09-2026 13:44)</title>
-        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:44)</desc>
+        <title>Shevchenko vs. Hurkacz (24-09-2026 13:46)</title>
+        <desc>Shevchenko vs. Hurkacz (24-09-2026 13:46)</desc>
     </programme>
     <programme channel="Prime FR 20" start="20260924000000 +0000" stop="20260924030000 +0000">
         <title>Davies vs. Collins: Press Conference (24-09-2026 14:55)</title>
@@ -1062,48 +1167,48 @@
         <desc>Davies vs. Collins: Press Conference (24-09-2026 14:55)</desc>
     </programme>
     <programme channel="Prime FR 21" start="20260924000000 +0000" stop="20260924030000 +0000">
-        <title>Zhang vs. Wong (24-09-2026 15:14)</title>
-        <desc>Zhang vs. Wong (24-09-2026 15:14)</desc>
+        <title>Zhang vs. Wong (24-09-2026 14:59)</title>
+        <desc>Zhang vs. Wong (24-09-2026 14:59)</desc>
     </programme>
     <programme channel="Prime FR 21" start="20260924030000 +0000" stop="20260924060000 +0000">
-        <title>Zhang vs. Wong (24-09-2026 15:14)</title>
-        <desc>Zhang vs. Wong (24-09-2026 15:14)</desc>
+        <title>Zhang vs. Wong (24-09-2026 14:59)</title>
+        <desc>Zhang vs. Wong (24-09-2026 14:59)</desc>
     </programme>
     <programme channel="Prime FR 21" start="20260924060000 +0000" stop="20260924090000 +0000">
-        <title>Zhang vs. Wong (24-09-2026 15:14)</title>
-        <desc>Zhang vs. Wong (24-09-2026 15:14)</desc>
+        <title>Zhang vs. Wong (24-09-2026 14:59)</title>
+        <desc>Zhang vs. Wong (24-09-2026 14:59)</desc>
     </programme>
     <programme channel="Prime FR 21" start="20260924090000 +0000" stop="20260924120000 +0000">
-        <title>Zhang vs. Wong (24-09-2026 15:14)</title>
-        <desc>Zhang vs. Wong (24-09-2026 15:14)</desc>
+        <title>Zhang vs. Wong (24-09-2026 14:59)</title>
+        <desc>Zhang vs. Wong (24-09-2026 14:59)</desc>
     </programme>
     <programme channel="Prime FR 21" start="20260924120000 +0000" stop="20260924150000 +0000">
-        <title>Zhang vs. Wong (24-09-2026 15:14)</title>
-        <desc>Zhang vs. Wong (24-09-2026 15:14)</desc>
+        <title>Zhang vs. Wong (24-09-2026 14:59)</title>
+        <desc>Zhang vs. Wong (24-09-2026 14:59)</desc>
     </programme>
     <programme channel="Prime FR 21" start="20260924150000 +0000" stop="20260924180000 +0000">
-        <title>Zhang vs. Wong (24-09-2026 15:14)</title>
-        <desc>Zhang vs. Wong (24-09-2026 15:14)</desc>
+        <title>Zhang vs. Wong (24-09-2026 14:59)</title>
+        <desc>Zhang vs. Wong (24-09-2026 14:59)</desc>
     </programme>
     <programme channel="Prime FR 21" start="20260924180000 +0000" stop="20260924210000 +0000">
-        <title>Zhang vs. Wong (24-09-2026 15:14)</title>
-        <desc>Zhang vs. Wong (24-09-2026 15:14)</desc>
+        <title>Zhang vs. Wong (24-09-2026 14:59)</title>
+        <desc>Zhang vs. Wong (24-09-2026 14:59)</desc>
     </programme>
     <programme channel="Prime FR 21" start="20260924210000 +0000" stop="20260924000000 +0000">
-        <title>Zhang vs. Wong (24-09-2026 15:14)</title>
-        <desc>Zhang vs. Wong (24-09-2026 15:14)</desc>
+        <title>Zhang vs. Wong (24-09-2026 14:59)</title>
+        <desc>Zhang vs. Wong (24-09-2026 14:59)</desc>
     </programme>
     <programme channel="Prime FR 21" start="20260925000000 +0000" stop="20260925030000 +0000">
-        <title>Zhang vs. Wong (24-09-2026 15:14)</title>
-        <desc>Zhang vs. Wong (24-09-2026 15:14)</desc>
+        <title>Zhang vs. Wong (24-09-2026 14:59)</title>
+        <desc>Zhang vs. Wong (24-09-2026 14:59)</desc>
     </programme>
     <programme channel="Prime FR 21" start="20260925030000 +0000" stop="20260925060000 +0000">
-        <title>Zhang vs. Wong (24-09-2026 15:14)</title>
-        <desc>Zhang vs. Wong (24-09-2026 15:14)</desc>
+        <title>Zhang vs. Wong (24-09-2026 14:59)</title>
+        <desc>Zhang vs. Wong (24-09-2026 14:59)</desc>
     </programme>
     <programme channel="Prime FR 21" start="20260925060000 +0000" stop="20260925090000 +0000">
-        <title>Zhang vs. Wong (24-09-2026 15:14)</title>
-        <desc>Zhang vs. Wong (24-09-2026 15:14)</desc>
+        <title>Zhang vs. Wong (24-09-2026 14:59)</title>
+        <desc>Zhang vs. Wong (24-09-2026 14:59)</desc>
     </programme>
     <programme channel="Prime FR 22" start="20260924000000 +0000" stop="20260924030000 +0000">
         <title>Villefranche vs. Versailles (26-09-2026 21:28)</title>
@@ -2820,5 +2925,1545 @@
     <programme channel="Disney FR 10" start="20260925060000 +0000" stop="20260925090000 +0000">
         <title>NCAA Women's Soccer - Kentucky vs. #17 South Carolina (25-09-2026 02:00)</title>
         <desc>NCAA Women's Soccer - Kentucky vs. #17 South Carolina (25-09-2026 02:00)</desc>
+    </programme>
+    <programme channel="MLS 01" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>MLS La Previa (Spanish) (27-09-2026 01:25)</title>
+        <desc>MLS La Previa (Spanish) (27-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 01" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>MLS La Previa (Spanish) (27-09-2026 01:25)</title>
+        <desc>MLS La Previa (Spanish) (27-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 01" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>MLS La Previa (Spanish) (27-09-2026 01:25)</title>
+        <desc>MLS La Previa (Spanish) (27-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 01" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>MLS La Previa (Spanish) (27-09-2026 01:25)</title>
+        <desc>MLS La Previa (Spanish) (27-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 01" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>MLS La Previa (Spanish) (27-09-2026 01:25)</title>
+        <desc>MLS La Previa (Spanish) (27-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 01" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>MLS La Previa (Spanish) (27-09-2026 01:25)</title>
+        <desc>MLS La Previa (Spanish) (27-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 01" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>MLS La Previa (Spanish) (27-09-2026 01:25)</title>
+        <desc>MLS La Previa (Spanish) (27-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 01" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>MLS La Previa (Spanish) (27-09-2026 01:25)</title>
+        <desc>MLS La Previa (Spanish) (27-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 01" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>MLS La Previa (Spanish) (27-09-2026 01:25)</title>
+        <desc>MLS La Previa (Spanish) (27-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 01" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>MLS La Previa (Spanish) (27-09-2026 01:25)</title>
+        <desc>MLS La Previa (Spanish) (27-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 01" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>MLS La Previa (Spanish) (27-09-2026 01:25)</title>
+        <desc>MLS La Previa (Spanish) (27-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 02" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Philadelphia vs. Orlando (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 02" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Philadelphia vs. Orlando (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 02" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Philadelphia vs. Orlando (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 02" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Philadelphia vs. Orlando (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 02" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Philadelphia vs. Orlando (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 02" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Philadelphia vs. Orlando (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 02" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Philadelphia vs. Orlando (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 02" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Philadelphia vs. Orlando (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 02" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Philadelphia vs. Orlando (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 02" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Philadelphia vs. Orlando (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 02" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Philadelphia vs. Orlando (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 03" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 03" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 03" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 03" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 03" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 03" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 03" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 03" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 03" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 03" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 03" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</title>
+        <desc>Philadelphia vs. Orlando (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 04" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Charlotte vs. Chicago (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 04" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Charlotte vs. Chicago (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 04" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Charlotte vs. Chicago (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 04" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Charlotte vs. Chicago (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 04" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Charlotte vs. Chicago (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 04" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Charlotte vs. Chicago (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 04" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Charlotte vs. Chicago (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 04" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Charlotte vs. Chicago (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 04" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Charlotte vs. Chicago (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 04" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Charlotte vs. Chicago (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 04" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Charlotte vs. Chicago (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 05" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 05" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 05" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 05" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 05" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 05" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 05" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 05" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 05" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 05" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 05" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</title>
+        <desc>Charlotte vs. Chicago (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 06" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>MLS 360 (27-09-2026 02:25)</title>
+        <desc>MLS 360 (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 06" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>MLS 360 (27-09-2026 02:25)</title>
+        <desc>MLS 360 (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 06" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>MLS 360 (27-09-2026 02:25)</title>
+        <desc>MLS 360 (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 06" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>MLS 360 (27-09-2026 02:25)</title>
+        <desc>MLS 360 (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 06" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>MLS 360 (27-09-2026 02:25)</title>
+        <desc>MLS 360 (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 06" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>MLS 360 (27-09-2026 02:25)</title>
+        <desc>MLS 360 (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 06" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>MLS 360 (27-09-2026 02:25)</title>
+        <desc>MLS 360 (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 06" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>MLS 360 (27-09-2026 02:25)</title>
+        <desc>MLS 360 (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 06" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>MLS 360 (27-09-2026 02:25)</title>
+        <desc>MLS 360 (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 06" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>MLS 360 (27-09-2026 02:25)</title>
+        <desc>MLS 360 (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 06" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>MLS 360 (27-09-2026 02:25)</title>
+        <desc>MLS 360 (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 07" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>New_York vs. St. Louis (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 07" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>New_York vs. St. Louis (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 07" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>New_York vs. St. Louis (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 07" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>New_York vs. St. Louis (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 07" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>New_York vs. St. Louis (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 07" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>New_York vs. St. Louis (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 07" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>New_York vs. St. Louis (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 07" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>New_York vs. St. Louis (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 07" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>New_York vs. St. Louis (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 07" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>New_York vs. St. Louis (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 07" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>New_York vs. St. Louis (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 08" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 08" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 08" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 08" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 08" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 08" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 08" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 08" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 08" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 08" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 08" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</title>
+        <desc>New_York vs. St. Louis (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 09" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Atlanta vs. New_York_City (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 09" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Atlanta vs. New_York_City (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 09" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Atlanta vs. New_York_City (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 09" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Atlanta vs. New_York_City (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 09" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Atlanta vs. New_York_City (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 09" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Atlanta vs. New_York_City (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 09" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Atlanta vs. New_York_City (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 09" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Atlanta vs. New_York_City (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 09" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Atlanta vs. New_York_City (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 09" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Atlanta vs. New_York_City (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 09" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Atlanta vs. New_York_City (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 10" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 10" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 10" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 10" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 10" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 10" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 10" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 10" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 10" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 10" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 10" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</title>
+        <desc>Atlanta vs. New_York_City (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 11" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Montréal vs. Cincinnati (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 11" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Montréal vs. Cincinnati (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 11" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Montréal vs. Cincinnati (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 11" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Montréal vs. Cincinnati (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 11" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Montréal vs. Cincinnati (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 11" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Montréal vs. Cincinnati (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 11" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Montréal vs. Cincinnati (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 11" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Montréal vs. Cincinnati (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 11" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Montréal vs. Cincinnati (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 11" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Montréal vs. Cincinnati (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 11" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Montréal vs. Cincinnati (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 12" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 12" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 12" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 12" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 12" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 12" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 12" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 12" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 12" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 12" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 12" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (Spanish) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 13" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 13" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 13" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 13" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 13" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 13" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 13" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 13" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 13" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 13" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 13" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</title>
+        <desc>Montréal vs. Cincinnati (French) (27-09-2026 02:25)</desc>
+    </programme>
+    <programme channel="MLS 14" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Dallas vs. LAFC (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 14" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Dallas vs. LAFC (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 14" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Dallas vs. LAFC (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 14" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Dallas vs. LAFC (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 14" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Dallas vs. LAFC (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 14" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Dallas vs. LAFC (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 14" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Dallas vs. LAFC (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 14" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Dallas vs. LAFC (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 14" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Dallas vs. LAFC (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 14" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Dallas vs. LAFC (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 14" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Dallas vs. LAFC (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 15" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 15" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 15" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 15" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 15" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 15" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 15" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 15" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 15" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 15" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 15" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</title>
+        <desc>Dallas vs. LAFC (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 16" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Nashville vs. Toronto (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 16" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Nashville vs. Toronto (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 16" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Nashville vs. Toronto (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 16" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Nashville vs. Toronto (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 16" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Nashville vs. Toronto (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 16" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Nashville vs. Toronto (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 16" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Nashville vs. Toronto (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 16" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Nashville vs. Toronto (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 16" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Nashville vs. Toronto (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 16" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Nashville vs. Toronto (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 16" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Nashville vs. Toronto (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 17" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 17" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 17" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 17" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 17" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 17" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 17" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 17" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 17" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 17" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 17" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</title>
+        <desc>Nashville vs. Toronto (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 18" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Austin vs. San Diego (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 18" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Austin vs. San Diego (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 18" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Austin vs. San Diego (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 18" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Austin vs. San Diego (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 18" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Austin vs. San Diego (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 18" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Austin vs. San Diego (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 18" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Austin vs. San Diego (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 18" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Austin vs. San Diego (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 18" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Austin vs. San Diego (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 18" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Austin vs. San Diego (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 18" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Austin vs. San Diego (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 19" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 19" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 19" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 19" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 19" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 19" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 19" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 19" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 19" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 19" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 19" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</title>
+        <desc>Austin vs. San Diego (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 20" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Seattle vs. Minnesota (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 20" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Seattle vs. Minnesota (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 20" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Seattle vs. Minnesota (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 20" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Seattle vs. Minnesota (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 20" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Seattle vs. Minnesota (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 20" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Seattle vs. Minnesota (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 20" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Seattle vs. Minnesota (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 20" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Seattle vs. Minnesota (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 20" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Seattle vs. Minnesota (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 20" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Seattle vs. Minnesota (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 20" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Seattle vs. Minnesota (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 21" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 21" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 21" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 21" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 21" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 21" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 21" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 21" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 21" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 21" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 21" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</title>
+        <desc>Seattle vs. Minnesota (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 22" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Houston vs. Kansas City (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 22" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Houston vs. Kansas City (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 22" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Houston vs. Kansas City (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 22" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Houston vs. Kansas City (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 22" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Houston vs. Kansas City (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 22" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Houston vs. Kansas City (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 22" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Houston vs. Kansas City (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 22" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Houston vs. Kansas City (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 22" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Houston vs. Kansas City (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 22" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Houston vs. Kansas City (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 22" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Houston vs. Kansas City (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 23" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 23" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 23" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 23" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 23" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 23" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 23" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 23" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 23" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 23" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 23" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</title>
+        <desc>Houston vs. Kansas City (Spanish) (27-09-2026 03:25)</desc>
+    </programme>
+    <programme channel="MLS 24" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Salt Lake vs. New England (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 24" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Salt Lake vs. New England (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 24" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Salt Lake vs. New England (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 24" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Salt Lake vs. New England (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 24" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Salt Lake vs. New England (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 24" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Salt Lake vs. New England (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 24" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Salt Lake vs. New England (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 24" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Salt Lake vs. New England (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 24" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Salt Lake vs. New England (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 24" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Salt Lake vs. New England (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 24" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Salt Lake vs. New England (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 25" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 25" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 25" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 25" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 25" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 25" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 25" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 25" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 25" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 25" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 25" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</title>
+        <desc>Salt Lake vs. New England (Spanish) (27-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 26" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>San Jose vs. Portland (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 26" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>San Jose vs. Portland (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 26" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>San Jose vs. Portland (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 26" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>San Jose vs. Portland (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 26" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>San Jose vs. Portland (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 26" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>San Jose vs. Portland (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 26" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>San Jose vs. Portland (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 26" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>San Jose vs. Portland (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 26" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>San Jose vs. Portland (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 26" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>San Jose vs. Portland (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 26" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>San Jose vs. Portland (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 27" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 27" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 27" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 27" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 27" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 27" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 27" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 27" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 27" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 27" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 27" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</title>
+        <desc>San Jose vs. Portland (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 28" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>LA vs. Colorado (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 28" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>LA vs. Colorado (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 28" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>LA vs. Colorado (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 28" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>LA vs. Colorado (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 28" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>LA vs. Colorado (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 28" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>LA vs. Colorado (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 28" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>LA vs. Colorado (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 28" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>LA vs. Colorado (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 28" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>LA vs. Colorado (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 28" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>LA vs. Colorado (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 28" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>LA vs. Colorado (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 29" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>LA vs. Colorado (Spanish) (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 29" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>LA vs. Colorado (Spanish) (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 29" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>LA vs. Colorado (Spanish) (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 29" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>LA vs. Colorado (Spanish) (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 29" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>LA vs. Colorado (Spanish) (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 29" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>LA vs. Colorado (Spanish) (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 29" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>LA vs. Colorado (Spanish) (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 29" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>LA vs. Colorado (Spanish) (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 29" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>LA vs. Colorado (Spanish) (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 29" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>LA vs. Colorado (Spanish) (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 29" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>LA vs. Colorado (Spanish) (27-09-2026 05:25)</title>
+        <desc>LA vs. Colorado (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 30" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Vancouver vs. D.C. (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 30" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Vancouver vs. D.C. (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 30" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Vancouver vs. D.C. (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 30" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Vancouver vs. D.C. (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 30" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Vancouver vs. D.C. (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 30" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Vancouver vs. D.C. (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 30" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Vancouver vs. D.C. (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 30" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Vancouver vs. D.C. (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 30" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Vancouver vs. D.C. (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 30" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Vancouver vs. D.C. (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 30" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Vancouver vs. D.C. (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 31" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 31" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 31" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 31" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 31" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 31" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 31" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 31" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 31" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 31" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 31" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</title>
+        <desc>Vancouver vs. D.C. (Spanish) (27-09-2026 05:25)</desc>
+    </programme>
+    <programme channel="MLS 32" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Columbus vs. Miami (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 32" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Columbus vs. Miami (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 32" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Columbus vs. Miami (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 32" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Columbus vs. Miami (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 32" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Columbus vs. Miami (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 32" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Columbus vs. Miami (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 32" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Columbus vs. Miami (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 32" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Columbus vs. Miami (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 32" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Columbus vs. Miami (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 32" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Columbus vs. Miami (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 32" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Columbus vs. Miami (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 33" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 33" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 33" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 33" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 33" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 33" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 33" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 33" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 33" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 33" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 33" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</title>
+        <desc>Columbus vs. Miami (Spanish) (28-09-2026 01:25)</desc>
+    </programme>
+    <programme channel="MLS 34" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>MLS Wrap_Up (28-09-2026 04:25)</title>
+        <desc>MLS Wrap_Up (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 34" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>MLS Wrap_Up (28-09-2026 04:25)</title>
+        <desc>MLS Wrap_Up (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 34" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>MLS Wrap_Up (28-09-2026 04:25)</title>
+        <desc>MLS Wrap_Up (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 34" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>MLS Wrap_Up (28-09-2026 04:25)</title>
+        <desc>MLS Wrap_Up (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 34" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>MLS Wrap_Up (28-09-2026 04:25)</title>
+        <desc>MLS Wrap_Up (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 34" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>MLS Wrap_Up (28-09-2026 04:25)</title>
+        <desc>MLS Wrap_Up (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 34" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>MLS Wrap_Up (28-09-2026 04:25)</title>
+        <desc>MLS Wrap_Up (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 34" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>MLS Wrap_Up (28-09-2026 04:25)</title>
+        <desc>MLS Wrap_Up (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 34" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>MLS Wrap_Up (28-09-2026 04:25)</title>
+        <desc>MLS Wrap_Up (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 34" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>MLS Wrap_Up (28-09-2026 04:25)</title>
+        <desc>MLS Wrap_Up (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 34" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>MLS Wrap_Up (28-09-2026 04:25)</title>
+        <desc>MLS Wrap_Up (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 35" start="20260924000000 +0000" stop="20260924030000 +0000">
+        <title>MLS El Resumen (Spanish) (28-09-2026 04:25)</title>
+        <desc>MLS El Resumen (Spanish) (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 35" start="20260924030000 +0000" stop="20260924060000 +0000">
+        <title>MLS El Resumen (Spanish) (28-09-2026 04:25)</title>
+        <desc>MLS El Resumen (Spanish) (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 35" start="20260924060000 +0000" stop="20260924090000 +0000">
+        <title>MLS El Resumen (Spanish) (28-09-2026 04:25)</title>
+        <desc>MLS El Resumen (Spanish) (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 35" start="20260924090000 +0000" stop="20260924120000 +0000">
+        <title>MLS El Resumen (Spanish) (28-09-2026 04:25)</title>
+        <desc>MLS El Resumen (Spanish) (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 35" start="20260924120000 +0000" stop="20260924150000 +0000">
+        <title>MLS El Resumen (Spanish) (28-09-2026 04:25)</title>
+        <desc>MLS El Resumen (Spanish) (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 35" start="20260924150000 +0000" stop="20260924180000 +0000">
+        <title>MLS El Resumen (Spanish) (28-09-2026 04:25)</title>
+        <desc>MLS El Resumen (Spanish) (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 35" start="20260924180000 +0000" stop="20260924210000 +0000">
+        <title>MLS El Resumen (Spanish) (28-09-2026 04:25)</title>
+        <desc>MLS El Resumen (Spanish) (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 35" start="20260924210000 +0000" stop="20260924000000 +0000">
+        <title>MLS El Resumen (Spanish) (28-09-2026 04:25)</title>
+        <desc>MLS El Resumen (Spanish) (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 35" start="20260925000000 +0000" stop="20260925030000 +0000">
+        <title>MLS El Resumen (Spanish) (28-09-2026 04:25)</title>
+        <desc>MLS El Resumen (Spanish) (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 35" start="20260925030000 +0000" stop="20260925060000 +0000">
+        <title>MLS El Resumen (Spanish) (28-09-2026 04:25)</title>
+        <desc>MLS El Resumen (Spanish) (28-09-2026 04:25)</desc>
+    </programme>
+    <programme channel="MLS 35" start="20260925060000 +0000" stop="20260925090000 +0000">
+        <title>MLS El Resumen (Spanish) (28-09-2026 04:25)</title>
+        <desc>MLS El Resumen (Spanish) (28-09-2026 04:25)</desc>
     </programme>
 </tv>
