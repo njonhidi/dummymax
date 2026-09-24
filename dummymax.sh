@@ -69,22 +69,22 @@ declare -a a59=("Disney FR 10" "DISNEY FR 10")
 declare -a ttl0="Cui vs. Vallejo (24-09-2026 12:28)"
 declare -a ttl1="Vienna - GCL Round 2 (25-09-2026 20:58)"
 declare -a ttl2="Faria vs. Atmane (24-09-2026 08:28)"
-declare -a ttl3="Shang vs. Mannarino (24-09-2026 09:58)"
+declare -a ttl3="Shang vs. Mannarino (24-09-2026 09:57)"
 declare -a ttl4="Bu vs. Zheng (24-09-2026 10:28)"
 declare -a ttl5="La Roche vs. Aubagne AB (03-10-2026 21:28)"
-declare -a ttl6="Cerundolo vs. Zhou (24-09-2026 13:58)"
+declare -a ttl6="Cerundolo vs. Zhou (24-09-2026 13:57)"
 declare -a ttl7="Dijon vs. Strasbourg (25-09-2026 20:47)"
 declare -a ttl8="Monza - Race 3 (27-09-2026 10:38)"
 declare -a ttl9="Orléans vs. Cannes (26-09-2026 21:28)"
 declare -a ttl10="Caen vs. Rouen (24-09-2026 21:13)"
 declare -a ttl11="Vienna - Longines Champions Tour Grand Prix (27-09-2026 21:05)"
-declare -a ttl12="Griekspoor vs. Shapovalov (24-09-2026 07:58)"
+declare -a ttl12="Griekspoor vs. Shapovalov (24-09-2026 07:57)"
 declare -a ttl13="TAIF Racing Season 2026 - Week 10, Day 1 (25-09-2026 16:18)"
 declare -a ttl14="Aubagne AB vs. Fleury (26-09-2026 21:28)"
 declare -a ttl15="Concarneau vs. Paris 13 (03-10-2026 21:28)"
 declare -a ttl16="Rouen vs. Bourg-Péronnas (03-10-2026 21:28)"
 declare -a ttl17="Valenciennes vs. Le Puy (26-09-2026 21:28)"
-declare -a ttl18="Shevchenko vs. Hurkacz (24-09-2026 11:58)"
+declare -a ttl18="Shevchenko vs. Hurkacz (24-09-2026 11:57)"
 declare -a ttl19="Davies vs. Collins: Press Conference (24-09-2026 14:55)"
 declare -a ttl20="Zhang vs. Wong (24-09-2026 14:28)"
 declare -a ttl21="Villefranche vs. Versailles (26-09-2026 21:28)"
@@ -203,7 +203,7 @@ DUMMYFILENAME=dummymax.xml
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
 					echo '    </programme>' >> $BASEPATH/$DUMMYFILENAME
 			done
-			for j in {0..7}; do
+			for j in {0..2}; do
 					echo '    <programme channel="'${!tvgid}'" start="'$tomorrow${starttimes[$j]}' +0000" stop="'$tomorrow${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
