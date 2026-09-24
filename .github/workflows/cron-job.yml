@@ -1,13 +1,13 @@
-name: Scheduled Remote Task
+#name: Scheduled Remote Task
 
-on:
-  schedule:
-    - cron: '0 9 * * *'	# Runs every day at 09:00 UTC  
-jobs:
-  run-task:
-    runs-on: ubuntu-26.04
-    steps:
-      - name: Checkout repository	# Télécharger le dépôt sur le serveur virtuel
-        uses: actions/checkout@v6
-      - name: Run a script
-        run: echo "Automated cloud task executed!"
+#on:
+#  schedule:
+#    - cron: '0 9 * * *'	# Runs every day at 09:00 UTC  
+#jobs:
+#  run-task:
+#    runs-on: ubuntu-26.04
+#    steps:
+#      - name: Checkout repository	# Télécharger le dépôt sur le serveur virtuel
+#        uses: actions/checkout@v6
+#      - name: Run a script
+#        run: echo "Automated cloud task executed!"

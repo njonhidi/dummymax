@@ -66,13 +66,13 @@ declare -a a58=("Disney FR 09" "DISNEY FR 09")
 declare -a a59=("Disney FR 10" "DISNEY FR 10")
 
 ##declare Program Tittle
-declare -a ttl0="Zak Surety - Jamie Clarke Open d'Ecosse | Qualifications (23-09-2026 20:58)"
+declare -a ttl0="Cui vs. Vallejo (24-09-2026 12:28)"
 declare -a ttl1="Vienna - GCL Round 2 (25-09-2026 20:58)"
 declare -a ttl2="Faria vs. Atmane (24-09-2026 08:28)"
 declare -a ttl3="Shang vs. Mannarino (24-09-2026 09:58)"
-declare -a ttl4="Martin O'Donnell - Lun Yuhao Open d'Ecosse | Qualifications (23-09-2026 17:57)"
+declare -a ttl4="Bu vs. Zheng (24-09-2026 10:28)"
 declare -a ttl5="La Roche vs. Aubagne AB (03-10-2026 21:28)"
-declare -a ttl6="Jamie Jones - Zhao Hanyang Open d'Ecosse | Qualifications (23-09-2026 20:58)"
+declare -a ttl6="Cerundolo vs. Zhou (24-09-2026 13:58)"
 declare -a ttl7="Dijon vs. Strasbourg (25-09-2026 20:47)"
 declare -a ttl8="Monza - Race 3 (27-09-2026 10:38)"
 declare -a ttl9="Orléans vs. Cannes (26-09-2026 21:28)"
@@ -84,16 +84,16 @@ declare -a ttl14="Aubagne AB vs. Fleury (26-09-2026 21:28)"
 declare -a ttl15="Concarneau vs. Paris 13 (03-10-2026 21:28)"
 declare -a ttl16="Rouen vs. Bourg-Péronnas (03-10-2026 21:28)"
 declare -a ttl17="Valenciennes vs. Le Puy (26-09-2026 21:28)"
-declare -a ttl18="Matthew Selt - Liam Graham Open d'Ecosse | Qualifications (23-09-2026 18:50)"
+declare -a ttl18="Shevchenko vs. Hurkacz (24-09-2026 11:58)"
 declare -a ttl19="Davies vs. Collins: Press Conference (24-09-2026 14:55)"
-declare -a ttl20="Michael Holt - Ian Burns Open d'Ecosse | Qualifications (23-09-2026 21:05)"
+declare -a ttl20="Zhang vs. Wong (24-09-2026 14:28)"
 declare -a ttl21="Villefranche vs. Versailles (26-09-2026 21:28)"
 declare -a ttl22="Le Puy vs. Thionville (03-10-2026 21:28)"
 declare -a ttl23="BKFC 94: Till vs. Romero - Press Conference (24-09-2026 16:55)"
 declare -a ttl24="Monza - Race 1 (26-09-2026 14:38)"
 declare -a ttl25="Cannes vs. QRM (03-10-2026 21:28)"
 declare -a ttl26="BKFC 94: Till vs. Romero - Weigh-In (25-09-2026 19:55)"
-declare -a ttl27="Liu Hongyu - Jimmy White Open d'Ecosse | Qualifications (23-09-2026 21:02)"
+declare -a ttl27="Cyclisme : CRO Race: 3e étape, Messieurs (24-09-2026 14:58)"
 declare -a ttl28="Paris 13 vs. Bastia (26-09-2026 21:28)"
 declare -a ttl29="Vienna - GCL Round 1 (25-09-2026 16:05)"
 declare -a ttl30="Bourg-Péronnas vs. Concarneau (26-09-2026 21:28)"
@@ -116,8 +116,8 @@ declare -a ttl46="Santander vs. Elche (28-08-2026 19:36)"
 declare -a ttl47="Lille vs. PSG (28-08-2026 20:43)"
 declare -a ttl48="Preseason: Commanders vs. Ravens (29-08-2026 00:53)"
 declare -a ttl49="Preseason: Falcons vs. Dolphins (29-08-2026 01:53)"
-declare -a ttl50="UEFA Women's Champions League - The Hangout (23-09-2026 19:00)"
-declare -a ttl51="L'Équipe de Greg (23-09-2026 19:30)"
+declare -a ttl50="L'Équipe du soir 100% BUTS (25-09-2026 23:45)"
+declare -a ttl51="NCAA Women's Field Hockey - Syracuse vs. Virginia (25-09-2026 23:03)"
 declare -a ttl52="L'Équipe du soir (25-09-2026 00:00)"
 declare -a ttl53="L'Équipe de choc (24-09-2026 18:00)"
 declare -a ttl54="NCAA Women's Soccer - Memphis vs. South Florida (25-09-2026 01:00)"
@@ -182,7 +182,7 @@ DUMMYFILENAME=dummymax.xml
 		echo '<!DOCTYPE tv SYSTEM "xmltv.dtd">' >> $BASEPATH/$DUMMYFILENAME
 		echo '<tv generator-info-name="mydummy" generator-info-url="https://null.null/">' >> $BASEPATH/$DUMMYFILENAME
         numberofiterations=$(($numberofchannels - 1))
-        echo "Creating Dummy Epg ..."
+##        echo "Creating Dummy Epg ..."
 
 
 		for i in $(seq 0 $numberofiterations); do # Number of Dummys -1 
@@ -213,5 +213,5 @@ DUMMYFILENAME=dummymax.xml
 
 		echo '</tv>' >> $BASEPATH/$DUMMYFILENAME
 
-echo "Done!"
-sleep 2
+##echo "Done!"
+##sleep 2
