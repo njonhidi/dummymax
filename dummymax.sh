@@ -3,6 +3,7 @@
 
 source /e/Github/Dummymax/config_name.sh
 source /e/Github/Dummymax/config_title.sh
+source /e/Github/Dummymax/config_time.sh
 
 starttimes=("000000" "030000" "060000" "090000" "120000" "150000" "180000" "210000")
 endtimes=("030000" "060000" "090000" "120000" "150000" "180000" "210000" "000000")
@@ -33,7 +34,7 @@ DUMMYFILENAME=dummymax.xml
 			title=ttl$i
 ###			desc=dscrpt$i
 			today2=$(date +%Y%m%d)
-			for j in {1..7}; do
+			for ((j=$k; j<=7; j++)); do
 					if [ "${endtimes[$j]}" = "000000" ]
 						then
 							today2=$tomorrow
@@ -43,7 +44,7 @@ DUMMYFILENAME=dummymax.xml
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
 					echo '    </programme>' >> $BASEPATH/$DUMMYFILENAME
 			done
-			for j in {0..1}; do
+			for j in {0..2}; do
 					echo '    <programme channel="'${!tvgid}'" start="'$tomorrow${starttimes[$j]}' +0000" stop="'$tomorrow${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
