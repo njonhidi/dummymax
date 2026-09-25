@@ -10,6 +10,7 @@ BASEPATH="E:/Github/Dummymax"
 DUMMYFILENAME=dummymax.xml
 
 		today=$(date +%Y%m%d)
+		today2=$(date +%Y%m%d)
 		tomorrow=$(date --date="+1 day" +%Y%m%d)
 		# tomorrow=$(date -v+1d +%Y%m%d)  ## if running on MAC or BSD
 		echo '<?xml version="1.0" encoding="UTF-8"?>' > $BASEPATH/$DUMMYFILENAME
@@ -31,12 +32,13 @@ DUMMYFILENAME=dummymax.xml
 			tvgid=a$i[0]
 			title=ttl$i
 ###			desc=dscrpt$i
+			today2=$(date +%Y%m%d)
 			for j in {1..7}; do
 					if [ "${endtimes[$j]}" = "000000" ]
 						then
-							$today=$tomorrow
+							today2=$tomorrow
 					fi
-					echo '    <programme channel="'${!tvgid}'" start="'$today${starttimes[$j]}' +0000" stop="'$today${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
+					echo '    <programme channel="'${!tvgid}'" start="'$today${starttimes[$j]}' +0000" stop="'$today2${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
 					echo '    </programme>' >> $BASEPATH/$DUMMYFILENAME
