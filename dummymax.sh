@@ -31,7 +31,7 @@ DUMMYFILENAME=dummymax.xml
 			tvgid=a$i[0]
 			title=ttl$i
 ###			desc=dscrpt$i
-			for j in {0..7}; do
+			for j in {2..7}; do
 					echo '    <programme channel="'${!tvgid}'" start="'$today${starttimes[$j]}' +0000" stop="'$today${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
