@@ -5,8 +5,8 @@ source /e/Github/Dummymax/config_name.sh
 source /e/Github/Dummymax/config_title.sh
 source /e/Github/Dummymax/config_time.sh
 
-starttimes=("000000" "020000" "040000" "060000" "080000" "100000" "120000" "140000" "160000" "180000" "200000" "220000")
-endtimes=("020000" "040000" "060000" "080000" "100000" "120000" "140000" "160000" "180000" "200000" "220000" "000000")
+starttimes=("000000" "010000" "030000" "050000" "070000" "090000" "110000" "130000" "150000" "170000" "190000" "210000" "230000")
+endtimes=("010000" "030000" "050000" "070000" "090000" "110000" "130000" "150000" "170000" "190000" "210000" "230000" "000000")
 BASEPATH="E:/Github/Dummymax"
 DUMMYFILENAME=dummymax.xml
 
@@ -34,15 +34,15 @@ DUMMYFILENAME=dummymax.xml
 			title=ttl$i
 ###			desc=dscrpt$i
 			today2=$(date +%Y%m%d)
-			if [ "$k" -le 8 ]; then
-				for ((j=(k+1); j <= (k + 3); j++)); do
+			if [ "$k" -le 9 ]; then
+				for ((j=(k-1); j <= (k + 1); j++)); do
 					echo '    <programme channel="'${!tvgid}'" start="'$today${starttimes[$j]}' +0000" stop="'$today2${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
 					echo '    </programme>' >> $BASEPATH/$DUMMYFILENAME
 				done
 			else
-				for ((j=(k+1); j<=11; j++)); do
+				for ((j=(k-1); j<=12; j++)); do
 					if [ "${endtimes[$j]}" = "000000" ]
 						then
 							today2=$tomorrow
