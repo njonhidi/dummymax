@@ -34,15 +34,15 @@ DUMMYFILENAME=dummymax.xml
 			title=ttl$i
 ###			desc=dscrpt$i
 			today2=$(date +%Y%m%d)
-			if [ "$k" -le 9 ]; then
-				for ((j=(k-1); j <= (k + 1); j++)); do
+			if [ "$k" -le 8 ]; then
+				for ((j=k; j <= (k + 2); j++)); do
 					echo '    <programme channel="'${!tvgid}'" start="'$today${starttimes[$j]}' +0000" stop="'$today2${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
 					echo '    </programme>' >> $BASEPATH/$DUMMYFILENAME
 				done
 			else
-				for ((j=(k-1); j<=12; j++)); do
+				for ((j=k; j<=12; j++)); do
 					if [ "${endtimes[$j]}" = "000000" ]
 						then
 							today2=$tomorrow
@@ -52,7 +52,7 @@ DUMMYFILENAME=dummymax.xml
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
 					echo '    </programme>' >> $BASEPATH/$DUMMYFILENAME
 				done
-				for j in {0..2}; do
+				for j in {0..1}; do
 					echo '    <programme channel="'${!tvgid}'" start="'$tomorrow${starttimes[$j]}' +0000" stop="'$tomorrow${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <desc>'${!title}'</desc>' >> $BASEPATH/$DUMMYFILENAME
