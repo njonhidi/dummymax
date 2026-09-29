@@ -4,15 +4,15 @@
 
 ##declare Program Tittle
 
-declare -a ttl0="U15 Baseball World Cup 2026 - Day 4 - Beto Avila (28-09-2026 18:16)"
-declare -a ttl1="U15 Baseball World Cup 2026 - Day 4 - Kukulkán (28-09-2026 19:16)"
-declare -a ttl2="Shenzhen Open Shenzhen Open | 2e tour (29-09-2026 08:58)"
-declare -a ttl3="Kyren Wilson - Sam Craigie Shenzhen Open | 2e tour (29-09-2026 04:28)"
-declare -a ttl4="Shenzhen Open Shenzhen Open | 2e tour (29-09-2026 04:28)"
-declare -a ttl5="John Higgins - David Grace Shenzhen Open | 2e tour (29-09-2026 04:28)"
+declare -a ttl0="John Higgins - David Grace Shenzhen Open | 2e tour (29-09-2026 04:27)"
+declare -a ttl1="Lei Peifan - Neil Robertson Shenzhen Open | 3e tour (29-09-2026 14:28)"
+declare -a ttl2="Mark Selby - Andrew Higginson Shenzhen Open | 2e tour (29-09-2026 08:58)"
+declare -a ttl3="ATP 500 Tokyo ATP 500 Tokyo | 1er tour (30-09-2026 07:58)"
+declare -a ttl4="Snooker : Shenzhen Open: 3e tour (29-09-2026 14:28)"
+declare -a ttl5="Scott Donaldson - Pang Junxu Shenzhen Open | 3e tour (29-09-2026 14:28)"
 declare -a ttl6="Wu Yize - Jamie Clarke Shenzhen Open | 2e tour (29-09-2026 08:58)"
-declare -a ttl7="Shenzhen Open Shenzhen Open | 2e tour (29-09-2026 08:58)"
-declare -a ttl8="Shenzhen Open Shenzhen Open | 2e tour (29-09-2026 08:58)"
+declare -a ttl7="Mark Selby - Andrew Higginson Shenzhen Open | 2e tour (29-09-2026 08:58)"
+declare -a ttl8="Xiao Guodong - Michael Holt Shenzhen Open | 2e tour (29-09-2026 08:58)"
 declare -a ttl9="Ding Junhui - Ricky Walden Shenzhen Open | 2e tour (29-09-2026 08:58)"
 declare -a ttl10="Snooker : Shenzhen Open: 2e tour (29-09-2026 08:58)"
 declare -a ttl11="Hurkacz vs. Davidovich Fokina (29-09-2026 13:58)"
