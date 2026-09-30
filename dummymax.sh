@@ -34,7 +34,7 @@ DUMMYFILENAME=dummymax.xml
 			title=ttl$i
 ###			desc=dscrpt$i
 			today2=$(date +%Y%m%d)
-			if [ "$k" -le 7 ]; then
+			if [ "$k" -le 8 ]; then
 				for ((j=k; j <= (k + 2); j++)); do
 					echo '    <programme channel="'${!tvgid}'" start="'$today${starttimes[$j]}' +0000" stop="'$today2${endtimes[$j]}' +0000">' >> $BASEPATH/$DUMMYFILENAME
 					echo '        <title>'${!title}'</title>' >> $BASEPATH/$DUMMYFILENAME
