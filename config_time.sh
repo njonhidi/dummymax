@@ -3,7 +3,7 @@
 timenow=$(date +%H%M%S)
 
 if (( 10#$timenow >= 10#000000 && 10#$timenow < 10#010000 )); then
-    k=0
+    k=1
 elif (( 10#$timenow >= 10#010000 && 10#$timenow < 10#030000 )); then
     k=1
 elif (( 10#$timenow >= 10#030000 && 10#$timenow < 10#050000 )); then
