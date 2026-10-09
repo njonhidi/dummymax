@@ -2,7 +2,7 @@
 
 ## VARIABLES
 ### Your channels go here. add more channels as you want
-numberofchannels=185
+numberofchannels=210
 ##declare     ("tvg-id-channel1" "Name Channel 1" "Program Tittle" "Creative Program Description")
 declare -a a0=("Prime FR 01" "PRIME FR 01")
 declare -a a1=("Prime FR 02" "PRIME FR 02")
