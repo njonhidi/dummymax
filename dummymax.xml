@@ -631,10 +631,6 @@
     <channel id="Wnba 10">
         <display-name>WNBA 10</display-name>
     </channel>
-    <programme channel="Prime FR 01" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tour de Lombardie Bergamo – Como (239km) (10-10-2026 11:33)</title>
-        <desc>Tour de Lombardie Bergamo – Como (239km) (10-10-2026 11:33)</desc>
-    </programme>
     <programme channel="Prime FR 01" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tour de Lombardie Bergamo – Como (239km) (10-10-2026 11:33)</title>
         <desc>Tour de Lombardie Bergamo – Como (239km) (10-10-2026 11:33)</desc>
@@ -662,10 +658,6 @@
     <programme channel="Prime FR 01" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tour de Lombardie Bergamo – Como (239km) (10-10-2026 11:33)</title>
         <desc>Tour de Lombardie Bergamo – Como (239km) (10-10-2026 11:33)</desc>
-    </programme>
-    <programme channel="Prime FR 02" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Cyclisme : Tour de Lombardie: Messieurs (10-10-2026 11:33)</title>
-        <desc>Cyclisme : Tour de Lombardie: Messieurs (10-10-2026 11:33)</desc>
     </programme>
     <programme channel="Prime FR 02" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Cyclisme : Tour de Lombardie: Messieurs (10-10-2026 11:33)</title>
@@ -695,73 +687,61 @@
         <title>Cyclisme : Tour de Lombardie: Messieurs (10-10-2026 11:33)</title>
         <desc>Cyclisme : Tour de Lombardie: Messieurs (10-10-2026 11:33)</desc>
     </programme>
-    <programme channel="Prime FR 03" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Germany vs. Colombia (10-10-2026 12:46)</title>
-        <desc>Germany vs. Colombia (10-10-2026 12:46)</desc>
-    </programme>
     <programme channel="Prime FR 03" start="20261010170000 +0000" stop="20261010190000 +0000">
-        <title>Germany vs. Colombia (10-10-2026 12:46)</title>
-        <desc>Germany vs. Colombia (10-10-2026 12:46)</desc>
+        <title>Les Rois de la Pédale | Le débrief Magazine | Spécial Tour de Lombardie (10-10-2026 18:07)</title>
+        <desc>Les Rois de la Pédale | Le débrief Magazine | Spécial Tour de Lombardie (10-10-2026 18:07)</desc>
     </programme>
     <programme channel="Prime FR 03" start="20261010190000 +0000" stop="20261010210000 +0000">
-        <title>Germany vs. Colombia (10-10-2026 12:46)</title>
-        <desc>Germany vs. Colombia (10-10-2026 12:46)</desc>
+        <title>Les Rois de la Pédale | Le débrief Magazine | Spécial Tour de Lombardie (10-10-2026 18:07)</title>
+        <desc>Les Rois de la Pédale | Le débrief Magazine | Spécial Tour de Lombardie (10-10-2026 18:07)</desc>
     </programme>
     <programme channel="Prime FR 03" start="20261010210000 +0000" stop="20261010230000 +0000">
-        <title>Germany vs. Colombia (10-10-2026 12:46)</title>
-        <desc>Germany vs. Colombia (10-10-2026 12:46)</desc>
+        <title>Les Rois de la Pédale | Le débrief Magazine | Spécial Tour de Lombardie (10-10-2026 18:07)</title>
+        <desc>Les Rois de la Pédale | Le débrief Magazine | Spécial Tour de Lombardie (10-10-2026 18:07)</desc>
     </programme>
     <programme channel="Prime FR 03" start="20261010230000 +0000" stop="20261011000000 +0000">
-        <title>Germany vs. Colombia (10-10-2026 12:46)</title>
-        <desc>Germany vs. Colombia (10-10-2026 12:46)</desc>
+        <title>Les Rois de la Pédale | Le débrief Magazine | Spécial Tour de Lombardie (10-10-2026 18:07)</title>
+        <desc>Les Rois de la Pédale | Le débrief Magazine | Spécial Tour de Lombardie (10-10-2026 18:07)</desc>
     </programme>
     <programme channel="Prime FR 03" start="20261011000000 +0000" stop="20261011010000 +0000">
-        <title>Germany vs. Colombia (10-10-2026 12:46)</title>
-        <desc>Germany vs. Colombia (10-10-2026 12:46)</desc>
+        <title>Les Rois de la Pédale | Le débrief Magazine | Spécial Tour de Lombardie (10-10-2026 18:07)</title>
+        <desc>Les Rois de la Pédale | Le débrief Magazine | Spécial Tour de Lombardie (10-10-2026 18:07)</desc>
     </programme>
     <programme channel="Prime FR 03" start="20261011010000 +0000" stop="20261011030000 +0000">
-        <title>Germany vs. Colombia (10-10-2026 12:46)</title>
-        <desc>Germany vs. Colombia (10-10-2026 12:46)</desc>
+        <title>Les Rois de la Pédale | Le débrief Magazine | Spécial Tour de Lombardie (10-10-2026 18:07)</title>
+        <desc>Les Rois de la Pédale | Le débrief Magazine | Spécial Tour de Lombardie (10-10-2026 18:07)</desc>
     </programme>
     <programme channel="Prime FR 03" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Germany vs. Colombia (10-10-2026 12:46)</title>
-        <desc>Germany vs. Colombia (10-10-2026 12:46)</desc>
-    </programme>
-    <programme channel="Prime FR 04" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</title>
-        <desc>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</desc>
+        <title>Les Rois de la Pédale | Le débrief Magazine | Spécial Tour de Lombardie (10-10-2026 18:07)</title>
+        <desc>Les Rois de la Pédale | Le débrief Magazine | Spécial Tour de Lombardie (10-10-2026 18:07)</desc>
     </programme>
     <programme channel="Prime FR 04" start="20261010170000 +0000" stop="20261010190000 +0000">
-        <title>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</title>
-        <desc>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</desc>
+        <title>MLTT - Week 3: Florida Crocs vs. Atlanta Blazers (10-10-2026 22:58)</title>
+        <desc>MLTT - Week 3: Florida Crocs vs. Atlanta Blazers (10-10-2026 22:58)</desc>
     </programme>
     <programme channel="Prime FR 04" start="20261010190000 +0000" stop="20261010210000 +0000">
-        <title>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</title>
-        <desc>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</desc>
+        <title>MLTT - Week 3: Florida Crocs vs. Atlanta Blazers (10-10-2026 22:58)</title>
+        <desc>MLTT - Week 3: Florida Crocs vs. Atlanta Blazers (10-10-2026 22:58)</desc>
     </programme>
     <programme channel="Prime FR 04" start="20261010210000 +0000" stop="20261010230000 +0000">
-        <title>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</title>
-        <desc>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</desc>
+        <title>MLTT - Week 3: Florida Crocs vs. Atlanta Blazers (10-10-2026 22:58)</title>
+        <desc>MLTT - Week 3: Florida Crocs vs. Atlanta Blazers (10-10-2026 22:58)</desc>
     </programme>
     <programme channel="Prime FR 04" start="20261010230000 +0000" stop="20261011000000 +0000">
-        <title>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</title>
-        <desc>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</desc>
+        <title>MLTT - Week 3: Florida Crocs vs. Atlanta Blazers (10-10-2026 22:58)</title>
+        <desc>MLTT - Week 3: Florida Crocs vs. Atlanta Blazers (10-10-2026 22:58)</desc>
     </programme>
     <programme channel="Prime FR 04" start="20261011000000 +0000" stop="20261011010000 +0000">
-        <title>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</title>
-        <desc>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</desc>
+        <title>MLTT - Week 3: Florida Crocs vs. Atlanta Blazers (10-10-2026 22:58)</title>
+        <desc>MLTT - Week 3: Florida Crocs vs. Atlanta Blazers (10-10-2026 22:58)</desc>
     </programme>
     <programme channel="Prime FR 04" start="20261011010000 +0000" stop="20261011030000 +0000">
-        <title>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</title>
-        <desc>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</desc>
+        <title>MLTT - Week 3: Florida Crocs vs. Atlanta Blazers (10-10-2026 22:58)</title>
+        <desc>MLTT - Week 3: Florida Crocs vs. Atlanta Blazers (10-10-2026 22:58)</desc>
     </programme>
     <programme channel="Prime FR 04" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</title>
-        <desc>Rolex Shanghai Masters | La journée en direct Masters 1000 Shanghai | 2e tour (10-10-2026 12:57)</desc>
-    </programme>
-    <programme channel="Prime FR 05" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Championnats d'Europe | Trap par équipes 2026 European Championship Shotgun (10-10-2026 17:13)</title>
-        <desc>Championnats d'Europe | Trap par équipes 2026 European Championship Shotgun (10-10-2026 17:13)</desc>
+        <title>MLTT - Week 3: Florida Crocs vs. Atlanta Blazers (10-10-2026 22:58)</title>
+        <desc>MLTT - Week 3: Florida Crocs vs. Atlanta Blazers (10-10-2026 22:58)</desc>
     </programme>
     <programme channel="Prime FR 05" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Championnats d'Europe | Trap par équipes 2026 European Championship Shotgun (10-10-2026 17:13)</title>
@@ -791,41 +771,33 @@
         <title>Championnats d'Europe | Trap par équipes 2026 European Championship Shotgun (10-10-2026 17:13)</title>
         <desc>Championnats d'Europe | Trap par équipes 2026 European Championship Shotgun (10-10-2026 17:13)</desc>
     </programme>
-    <programme channel="Prime FR 06" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</title>
-        <desc>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</desc>
-    </programme>
     <programme channel="Prime FR 06" start="20261010170000 +0000" stop="20261010190000 +0000">
-        <title>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</title>
-        <desc>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</desc>
+        <title>MLTT - Week 3: Texas Smash vs. New York Slice (11-10-2026 02:28)</title>
+        <desc>MLTT - Week 3: Texas Smash vs. New York Slice (11-10-2026 02:28)</desc>
     </programme>
     <programme channel="Prime FR 06" start="20261010190000 +0000" stop="20261010210000 +0000">
-        <title>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</title>
-        <desc>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</desc>
+        <title>MLTT - Week 3: Texas Smash vs. New York Slice (11-10-2026 02:28)</title>
+        <desc>MLTT - Week 3: Texas Smash vs. New York Slice (11-10-2026 02:28)</desc>
     </programme>
     <programme channel="Prime FR 06" start="20261010210000 +0000" stop="20261010230000 +0000">
-        <title>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</title>
-        <desc>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</desc>
+        <title>MLTT - Week 3: Texas Smash vs. New York Slice (11-10-2026 02:28)</title>
+        <desc>MLTT - Week 3: Texas Smash vs. New York Slice (11-10-2026 02:28)</desc>
     </programme>
     <programme channel="Prime FR 06" start="20261010230000 +0000" stop="20261011000000 +0000">
-        <title>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</title>
-        <desc>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</desc>
+        <title>MLTT - Week 3: Texas Smash vs. New York Slice (11-10-2026 02:28)</title>
+        <desc>MLTT - Week 3: Texas Smash vs. New York Slice (11-10-2026 02:28)</desc>
     </programme>
     <programme channel="Prime FR 06" start="20261011000000 +0000" stop="20261011010000 +0000">
-        <title>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</title>
-        <desc>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</desc>
+        <title>MLTT - Week 3: Texas Smash vs. New York Slice (11-10-2026 02:28)</title>
+        <desc>MLTT - Week 3: Texas Smash vs. New York Slice (11-10-2026 02:28)</desc>
     </programme>
     <programme channel="Prime FR 06" start="20261011010000 +0000" stop="20261011030000 +0000">
-        <title>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</title>
-        <desc>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</desc>
+        <title>MLTT - Week 3: Texas Smash vs. New York Slice (11-10-2026 02:28)</title>
+        <desc>MLTT - Week 3: Texas Smash vs. New York Slice (11-10-2026 02:28)</desc>
     </programme>
     <programme channel="Prime FR 06" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</title>
-        <desc>Rayo Vallecano vs. Athletic Club (10-10-2026 14:36)</desc>
-    </programme>
-    <programme channel="Prime FR 07" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Navarra - Race 2 (10-10-2026 15:08)</title>
-        <desc>Navarra - Race 2 (10-10-2026 15:08)</desc>
+        <title>MLTT - Week 3: Texas Smash vs. New York Slice (11-10-2026 02:28)</title>
+        <desc>MLTT - Week 3: Texas Smash vs. New York Slice (11-10-2026 02:28)</desc>
     </programme>
     <programme channel="Prime FR 07" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Navarra - Race 2 (10-10-2026 15:08)</title>
@@ -855,10 +827,6 @@
         <title>Navarra - Race 2 (10-10-2026 15:08)</title>
         <desc>Navarra - Race 2 (10-10-2026 15:08)</desc>
     </programme>
-    <programme channel="Prime FR 08" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>RWS: World Championship Superfight Night (10-10-2026 15:08)</title>
-        <desc>RWS: World Championship Superfight Night (10-10-2026 15:08)</desc>
-    </programme>
     <programme channel="Prime FR 08" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>RWS: World Championship Superfight Night (10-10-2026 15:08)</title>
         <desc>RWS: World Championship Superfight Night (10-10-2026 15:08)</desc>
@@ -887,41 +855,33 @@
         <title>RWS: World Championship Superfight Night (10-10-2026 15:08)</title>
         <desc>RWS: World Championship Superfight Night (10-10-2026 15:08)</desc>
     </programme>
-    <programme channel="Prime FR 09" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Baez vs. Vacherot (10-10-2026 15:35)</title>
-        <desc>Baez vs. Vacherot (10-10-2026 15:35)</desc>
-    </programme>
     <programme channel="Prime FR 09" start="20261010170000 +0000" stop="20261010190000 +0000">
-        <title>Baez vs. Vacherot (10-10-2026 15:35)</title>
-        <desc>Baez vs. Vacherot (10-10-2026 15:35)</desc>
+        <title>Championnats du monde | Épreuve (H) 2026 UCI Gravel World Championships (11-10-2026 04:58)</title>
+        <desc>Championnats du monde | Épreuve (H) 2026 UCI Gravel World Championships (11-10-2026 04:58)</desc>
     </programme>
     <programme channel="Prime FR 09" start="20261010190000 +0000" stop="20261010210000 +0000">
-        <title>Baez vs. Vacherot (10-10-2026 15:35)</title>
-        <desc>Baez vs. Vacherot (10-10-2026 15:35)</desc>
+        <title>Championnats du monde | Épreuve (H) 2026 UCI Gravel World Championships (11-10-2026 04:58)</title>
+        <desc>Championnats du monde | Épreuve (H) 2026 UCI Gravel World Championships (11-10-2026 04:58)</desc>
     </programme>
     <programme channel="Prime FR 09" start="20261010210000 +0000" stop="20261010230000 +0000">
-        <title>Baez vs. Vacherot (10-10-2026 15:35)</title>
-        <desc>Baez vs. Vacherot (10-10-2026 15:35)</desc>
+        <title>Championnats du monde | Épreuve (H) 2026 UCI Gravel World Championships (11-10-2026 04:58)</title>
+        <desc>Championnats du monde | Épreuve (H) 2026 UCI Gravel World Championships (11-10-2026 04:58)</desc>
     </programme>
     <programme channel="Prime FR 09" start="20261010230000 +0000" stop="20261011000000 +0000">
-        <title>Baez vs. Vacherot (10-10-2026 15:35)</title>
-        <desc>Baez vs. Vacherot (10-10-2026 15:35)</desc>
+        <title>Championnats du monde | Épreuve (H) 2026 UCI Gravel World Championships (11-10-2026 04:58)</title>
+        <desc>Championnats du monde | Épreuve (H) 2026 UCI Gravel World Championships (11-10-2026 04:58)</desc>
     </programme>
     <programme channel="Prime FR 09" start="20261011000000 +0000" stop="20261011010000 +0000">
-        <title>Baez vs. Vacherot (10-10-2026 15:35)</title>
-        <desc>Baez vs. Vacherot (10-10-2026 15:35)</desc>
+        <title>Championnats du monde | Épreuve (H) 2026 UCI Gravel World Championships (11-10-2026 04:58)</title>
+        <desc>Championnats du monde | Épreuve (H) 2026 UCI Gravel World Championships (11-10-2026 04:58)</desc>
     </programme>
     <programme channel="Prime FR 09" start="20261011010000 +0000" stop="20261011030000 +0000">
-        <title>Baez vs. Vacherot (10-10-2026 15:35)</title>
-        <desc>Baez vs. Vacherot (10-10-2026 15:35)</desc>
+        <title>Championnats du monde | Épreuve (H) 2026 UCI Gravel World Championships (11-10-2026 04:58)</title>
+        <desc>Championnats du monde | Épreuve (H) 2026 UCI Gravel World Championships (11-10-2026 04:58)</desc>
     </programme>
     <programme channel="Prime FR 09" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Baez vs. Vacherot (10-10-2026 15:35)</title>
-        <desc>Baez vs. Vacherot (10-10-2026 15:35)</desc>
-    </programme>
-    <programme channel="Prime FR 10" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Saint-Quentin vs. Le Mans (11-10-2026 16:47)</title>
-        <desc>Saint-Quentin vs. Le Mans (11-10-2026 16:47)</desc>
+        <title>Championnats du monde | Épreuve (H) 2026 UCI Gravel World Championships (11-10-2026 04:58)</title>
+        <desc>Championnats du monde | Épreuve (H) 2026 UCI Gravel World Championships (11-10-2026 04:58)</desc>
     </programme>
     <programme channel="Prime FR 10" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Saint-Quentin vs. Le Mans (11-10-2026 16:47)</title>
@@ -951,73 +911,61 @@
         <title>Saint-Quentin vs. Le Mans (11-10-2026 16:47)</title>
         <desc>Saint-Quentin vs. Le Mans (11-10-2026 16:47)</desc>
     </programme>
-    <programme channel="Prime FR 11" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Genoa vs. Fiorentina (10-10-2026 15:44)</title>
-        <desc>Genoa vs. Fiorentina (10-10-2026 15:44)</desc>
-    </programme>
     <programme channel="Prime FR 11" start="20261010170000 +0000" stop="20261010190000 +0000">
-        <title>Genoa vs. Fiorentina (10-10-2026 15:44)</title>
-        <desc>Genoa vs. Fiorentina (10-10-2026 15:44)</desc>
+        <title>Zhangjiakou | 2e journée UCI BMX Racing World Cup (11-10-2026 06:13)</title>
+        <desc>Zhangjiakou | 2e journée UCI BMX Racing World Cup (11-10-2026 06:13)</desc>
     </programme>
     <programme channel="Prime FR 11" start="20261010190000 +0000" stop="20261010210000 +0000">
-        <title>Genoa vs. Fiorentina (10-10-2026 15:44)</title>
-        <desc>Genoa vs. Fiorentina (10-10-2026 15:44)</desc>
+        <title>Zhangjiakou | 2e journée UCI BMX Racing World Cup (11-10-2026 06:13)</title>
+        <desc>Zhangjiakou | 2e journée UCI BMX Racing World Cup (11-10-2026 06:13)</desc>
     </programme>
     <programme channel="Prime FR 11" start="20261010210000 +0000" stop="20261010230000 +0000">
-        <title>Genoa vs. Fiorentina (10-10-2026 15:44)</title>
-        <desc>Genoa vs. Fiorentina (10-10-2026 15:44)</desc>
+        <title>Zhangjiakou | 2e journée UCI BMX Racing World Cup (11-10-2026 06:13)</title>
+        <desc>Zhangjiakou | 2e journée UCI BMX Racing World Cup (11-10-2026 06:13)</desc>
     </programme>
     <programme channel="Prime FR 11" start="20261010230000 +0000" stop="20261011000000 +0000">
-        <title>Genoa vs. Fiorentina (10-10-2026 15:44)</title>
-        <desc>Genoa vs. Fiorentina (10-10-2026 15:44)</desc>
+        <title>Zhangjiakou | 2e journée UCI BMX Racing World Cup (11-10-2026 06:13)</title>
+        <desc>Zhangjiakou | 2e journée UCI BMX Racing World Cup (11-10-2026 06:13)</desc>
     </programme>
     <programme channel="Prime FR 11" start="20261011000000 +0000" stop="20261011010000 +0000">
-        <title>Genoa vs. Fiorentina (10-10-2026 15:44)</title>
-        <desc>Genoa vs. Fiorentina (10-10-2026 15:44)</desc>
+        <title>Zhangjiakou | 2e journée UCI BMX Racing World Cup (11-10-2026 06:13)</title>
+        <desc>Zhangjiakou | 2e journée UCI BMX Racing World Cup (11-10-2026 06:13)</desc>
     </programme>
     <programme channel="Prime FR 11" start="20261011010000 +0000" stop="20261011030000 +0000">
-        <title>Genoa vs. Fiorentina (10-10-2026 15:44)</title>
-        <desc>Genoa vs. Fiorentina (10-10-2026 15:44)</desc>
+        <title>Zhangjiakou | 2e journée UCI BMX Racing World Cup (11-10-2026 06:13)</title>
+        <desc>Zhangjiakou | 2e journée UCI BMX Racing World Cup (11-10-2026 06:13)</desc>
     </programme>
     <programme channel="Prime FR 11" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Genoa vs. Fiorentina (10-10-2026 15:44)</title>
-        <desc>Genoa vs. Fiorentina (10-10-2026 15:44)</desc>
-    </programme>
-    <programme channel="Prime FR 12" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Hockenheimring - Race 1 (10-10-2026 15:58)</title>
-        <desc>Hockenheimring - Race 1 (10-10-2026 15:58)</desc>
+        <title>Zhangjiakou | 2e journée UCI BMX Racing World Cup (11-10-2026 06:13)</title>
+        <desc>Zhangjiakou | 2e journée UCI BMX Racing World Cup (11-10-2026 06:13)</desc>
     </programme>
     <programme channel="Prime FR 12" start="20261010170000 +0000" stop="20261010190000 +0000">
-        <title>Hockenheimring - Race 1 (10-10-2026 15:58)</title>
-        <desc>Hockenheimring - Race 1 (10-10-2026 15:58)</desc>
+        <title>Khachanov vs. Mannarino (11-10-2026 06:58)</title>
+        <desc>Khachanov vs. Mannarino (11-10-2026 06:58)</desc>
     </programme>
     <programme channel="Prime FR 12" start="20261010190000 +0000" stop="20261010210000 +0000">
-        <title>Hockenheimring - Race 1 (10-10-2026 15:58)</title>
-        <desc>Hockenheimring - Race 1 (10-10-2026 15:58)</desc>
+        <title>Khachanov vs. Mannarino (11-10-2026 06:58)</title>
+        <desc>Khachanov vs. Mannarino (11-10-2026 06:58)</desc>
     </programme>
     <programme channel="Prime FR 12" start="20261010210000 +0000" stop="20261010230000 +0000">
-        <title>Hockenheimring - Race 1 (10-10-2026 15:58)</title>
-        <desc>Hockenheimring - Race 1 (10-10-2026 15:58)</desc>
+        <title>Khachanov vs. Mannarino (11-10-2026 06:58)</title>
+        <desc>Khachanov vs. Mannarino (11-10-2026 06:58)</desc>
     </programme>
     <programme channel="Prime FR 12" start="20261010230000 +0000" stop="20261011000000 +0000">
-        <title>Hockenheimring - Race 1 (10-10-2026 15:58)</title>
-        <desc>Hockenheimring - Race 1 (10-10-2026 15:58)</desc>
+        <title>Khachanov vs. Mannarino (11-10-2026 06:58)</title>
+        <desc>Khachanov vs. Mannarino (11-10-2026 06:58)</desc>
     </programme>
     <programme channel="Prime FR 12" start="20261011000000 +0000" stop="20261011010000 +0000">
-        <title>Hockenheimring - Race 1 (10-10-2026 15:58)</title>
-        <desc>Hockenheimring - Race 1 (10-10-2026 15:58)</desc>
+        <title>Khachanov vs. Mannarino (11-10-2026 06:58)</title>
+        <desc>Khachanov vs. Mannarino (11-10-2026 06:58)</desc>
     </programme>
     <programme channel="Prime FR 12" start="20261011010000 +0000" stop="20261011030000 +0000">
-        <title>Hockenheimring - Race 1 (10-10-2026 15:58)</title>
-        <desc>Hockenheimring - Race 1 (10-10-2026 15:58)</desc>
+        <title>Khachanov vs. Mannarino (11-10-2026 06:58)</title>
+        <desc>Khachanov vs. Mannarino (11-10-2026 06:58)</desc>
     </programme>
     <programme channel="Prime FR 12" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Hockenheimring - Race 1 (10-10-2026 15:58)</title>
-        <desc>Hockenheimring - Race 1 (10-10-2026 15:58)</desc>
-    </programme>
-    <programme channel="Prime FR 13" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>4 Heures de Portimão | Course European Le Mans Series (10-10-2026 16:03)</title>
-        <desc>4 Heures de Portimão | Course European Le Mans Series (10-10-2026 16:03)</desc>
+        <title>Khachanov vs. Mannarino (11-10-2026 06:58)</title>
+        <desc>Khachanov vs. Mannarino (11-10-2026 06:58)</desc>
     </programme>
     <programme channel="Prime FR 13" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>4 Heures de Portimão | Course European Le Mans Series (10-10-2026 16:03)</title>
@@ -1047,10 +995,6 @@
         <title>4 Heures de Portimão | Course European Le Mans Series (10-10-2026 16:03)</title>
         <desc>4 Heures de Portimão | Course European Le Mans Series (10-10-2026 16:03)</desc>
     </programme>
-    <programme channel="Prime FR 14" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Alavés vs. Atlético Madrid (10-10-2026 16:40)</title>
-        <desc>Alavés vs. Atlético Madrid (10-10-2026 16:40)</desc>
-    </programme>
     <programme channel="Prime FR 14" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Alavés vs. Atlético Madrid (10-10-2026 16:40)</title>
         <desc>Alavés vs. Atlético Madrid (10-10-2026 16:40)</desc>
@@ -1078,10 +1022,6 @@
     <programme channel="Prime FR 14" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Alavés vs. Atlético Madrid (10-10-2026 16:40)</title>
         <desc>Alavés vs. Atlético Madrid (10-10-2026 16:40)</desc>
-    </programme>
-    <programme channel="Prime FR 15" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Cercle Brugge vs. Anderlecht (10-10-2026 16:48)</title>
-        <desc>Cercle Brugge vs. Anderlecht (10-10-2026 16:48)</desc>
     </programme>
     <programme channel="Prime FR 15" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Cercle Brugge vs. Anderlecht (10-10-2026 16:48)</title>
@@ -1111,10 +1051,6 @@
         <title>Cercle Brugge vs. Anderlecht (10-10-2026 16:48)</title>
         <desc>Cercle Brugge vs. Anderlecht (10-10-2026 16:48)</desc>
     </programme>
-    <programme channel="Prime FR 16" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Estoril | SBK – Course 1 World Superbike (10-10-2026 16:58)</title>
-        <desc>Estoril | SBK – Course 1 World Superbike (10-10-2026 16:58)</desc>
-    </programme>
     <programme channel="Prime FR 16" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Estoril | SBK – Course 1 World Superbike (10-10-2026 16:58)</title>
         <desc>Estoril | SBK – Course 1 World Superbike (10-10-2026 16:58)</desc>
@@ -1142,10 +1078,6 @@
     <programme channel="Prime FR 16" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Estoril | SBK – Course 1 World Superbike (10-10-2026 16:58)</title>
         <desc>Estoril | SBK – Course 1 World Superbike (10-10-2026 16:58)</desc>
-    </programme>
-    <programme channel="Prime FR 17" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>IRONMAN World Championship (10-10-2026 17:28)</title>
-        <desc>IRONMAN World Championship (10-10-2026 17:28)</desc>
     </programme>
     <programme channel="Prime FR 17" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>IRONMAN World Championship (10-10-2026 17:28)</title>
@@ -1175,10 +1107,6 @@
         <title>IRONMAN World Championship (10-10-2026 17:28)</title>
         <desc>IRONMAN World Championship (10-10-2026 17:28)</desc>
     </programme>
-    <programme channel="Prime FR 18" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Lille vs. Havre (10-10-2026 17:43)</title>
-        <desc>Lille vs. Havre (10-10-2026 17:43)</desc>
-    </programme>
     <programme channel="Prime FR 18" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Lille vs. Havre (10-10-2026 17:43)</title>
         <desc>Lille vs. Havre (10-10-2026 17:43)</desc>
@@ -1206,10 +1134,6 @@
     <programme channel="Prime FR 18" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Lille vs. Havre (10-10-2026 17:43)</title>
         <desc>Lille vs. Havre (10-10-2026 17:43)</desc>
-    </programme>
-    <programme channel="Prime FR 19" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Hockenheimring - Race 2 (10-10-2026 18:13)</title>
-        <desc>Hockenheimring - Race 2 (10-10-2026 18:13)</desc>
     </programme>
     <programme channel="Prime FR 19" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Hockenheimring - Race 2 (10-10-2026 18:13)</title>
@@ -1239,10 +1163,6 @@
         <title>Hockenheimring - Race 2 (10-10-2026 18:13)</title>
         <desc>Hockenheimring - Race 2 (10-10-2026 18:13)</desc>
     </programme>
-    <programme channel="Prime FR 20" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Inter vs. Parma (10-10-2026 18:44)</title>
-        <desc>Inter vs. Parma (10-10-2026 18:44)</desc>
-    </programme>
     <programme channel="Prime FR 20" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Inter vs. Parma (10-10-2026 18:44)</title>
         <desc>Inter vs. Parma (10-10-2026 18:44)</desc>
@@ -1270,10 +1190,6 @@
     <programme channel="Prime FR 20" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Inter vs. Parma (10-10-2026 18:44)</title>
         <desc>Inter vs. Parma (10-10-2026 18:44)</desc>
-    </programme>
-    <programme channel="Prime FR 21" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Nanterre vs. Gravelines-Dunkerque (10-10-2026 18:47)</title>
-        <desc>Nanterre vs. Gravelines-Dunkerque (10-10-2026 18:47)</desc>
     </programme>
     <programme channel="Prime FR 21" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Nanterre vs. Gravelines-Dunkerque (10-10-2026 18:47)</title>
@@ -1303,10 +1219,6 @@
         <title>Nanterre vs. Gravelines-Dunkerque (10-10-2026 18:47)</title>
         <desc>Nanterre vs. Gravelines-Dunkerque (10-10-2026 18:47)</desc>
     </programme>
-    <programme channel="Prime FR 22" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Cholet vs. Pau-Lacq-Orthez (10-10-2026 18:47)</title>
-        <desc>Cholet vs. Pau-Lacq-Orthez (10-10-2026 18:47)</desc>
-    </programme>
     <programme channel="Prime FR 22" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Cholet vs. Pau-Lacq-Orthez (10-10-2026 18:47)</title>
         <desc>Cholet vs. Pau-Lacq-Orthez (10-10-2026 18:47)</desc>
@@ -1335,41 +1247,33 @@
         <title>Cholet vs. Pau-Lacq-Orthez (10-10-2026 18:47)</title>
         <desc>Cholet vs. Pau-Lacq-Orthez (10-10-2026 18:47)</desc>
     </programme>
-    <programme channel="Prime FR 23" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Red Bull Rampage Men (10-10-2026 18:55)</title>
-        <desc>Red Bull Rampage Men (10-10-2026 18:55)</desc>
-    </programme>
     <programme channel="Prime FR 23" start="20261010170000 +0000" stop="20261010190000 +0000">
-        <title>Red Bull Rampage Men (10-10-2026 18:55)</title>
-        <desc>Red Bull Rampage Men (10-10-2026 18:55)</desc>
+        <title>Red Bull Rampage Men (10-10-2026 18:28)</title>
+        <desc>Red Bull Rampage Men (10-10-2026 18:28)</desc>
     </programme>
     <programme channel="Prime FR 23" start="20261010190000 +0000" stop="20261010210000 +0000">
-        <title>Red Bull Rampage Men (10-10-2026 18:55)</title>
-        <desc>Red Bull Rampage Men (10-10-2026 18:55)</desc>
+        <title>Red Bull Rampage Men (10-10-2026 18:28)</title>
+        <desc>Red Bull Rampage Men (10-10-2026 18:28)</desc>
     </programme>
     <programme channel="Prime FR 23" start="20261010210000 +0000" stop="20261010230000 +0000">
-        <title>Red Bull Rampage Men (10-10-2026 18:55)</title>
-        <desc>Red Bull Rampage Men (10-10-2026 18:55)</desc>
+        <title>Red Bull Rampage Men (10-10-2026 18:28)</title>
+        <desc>Red Bull Rampage Men (10-10-2026 18:28)</desc>
     </programme>
     <programme channel="Prime FR 23" start="20261010230000 +0000" stop="20261011000000 +0000">
-        <title>Red Bull Rampage Men (10-10-2026 18:55)</title>
-        <desc>Red Bull Rampage Men (10-10-2026 18:55)</desc>
+        <title>Red Bull Rampage Men (10-10-2026 18:28)</title>
+        <desc>Red Bull Rampage Men (10-10-2026 18:28)</desc>
     </programme>
     <programme channel="Prime FR 23" start="20261011000000 +0000" stop="20261011010000 +0000">
-        <title>Red Bull Rampage Men (10-10-2026 18:55)</title>
-        <desc>Red Bull Rampage Men (10-10-2026 18:55)</desc>
+        <title>Red Bull Rampage Men (10-10-2026 18:28)</title>
+        <desc>Red Bull Rampage Men (10-10-2026 18:28)</desc>
     </programme>
     <programme channel="Prime FR 23" start="20261011010000 +0000" stop="20261011030000 +0000">
-        <title>Red Bull Rampage Men (10-10-2026 18:55)</title>
-        <desc>Red Bull Rampage Men (10-10-2026 18:55)</desc>
+        <title>Red Bull Rampage Men (10-10-2026 18:28)</title>
+        <desc>Red Bull Rampage Men (10-10-2026 18:28)</desc>
     </programme>
     <programme channel="Prime FR 23" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Red Bull Rampage Men (10-10-2026 18:55)</title>
-        <desc>Red Bull Rampage Men (10-10-2026 18:55)</desc>
-    </programme>
-    <programme channel="Prime FR 24" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>RAAL La Louvière vs. Club Brugge (10-10-2026 19:03)</title>
-        <desc>RAAL La Louvière vs. Club Brugge (10-10-2026 19:03)</desc>
+        <title>Red Bull Rampage Men (10-10-2026 18:28)</title>
+        <desc>Red Bull Rampage Men (10-10-2026 18:28)</desc>
     </programme>
     <programme channel="Prime FR 24" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>RAAL La Louvière vs. Club Brugge (10-10-2026 19:03)</title>
@@ -1399,10 +1303,6 @@
         <title>RAAL La Louvière vs. Club Brugge (10-10-2026 19:03)</title>
         <desc>RAAL La Louvière vs. Club Brugge (10-10-2026 19:03)</desc>
     </programme>
-    <programme channel="Prime FR 25" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Barcelona vs. Getafe (10-10-2026 19:10)</title>
-        <desc>Barcelona vs. Getafe (10-10-2026 19:10)</desc>
-    </programme>
     <programme channel="Prime FR 25" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Barcelona vs. Getafe (10-10-2026 19:10)</title>
         <desc>Barcelona vs. Getafe (10-10-2026 19:10)</desc>
@@ -1430,10 +1330,6 @@
     <programme channel="Prime FR 25" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Barcelona vs. Getafe (10-10-2026 19:10)</title>
         <desc>Barcelona vs. Getafe (10-10-2026 19:10)</desc>
-    </programme>
-    <programme channel="Prime FR 26" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Chalon-sur-Saône vs. Nancy (10-10-2026 19:17)</title>
-        <desc>Chalon-sur-Saône vs. Nancy (10-10-2026 19:17)</desc>
     </programme>
     <programme channel="Prime FR 26" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Chalon-sur-Saône vs. Nancy (10-10-2026 19:17)</title>
@@ -1463,10 +1359,6 @@
         <title>Chalon-sur-Saône vs. Nancy (10-10-2026 19:17)</title>
         <desc>Chalon-sur-Saône vs. Nancy (10-10-2026 19:17)</desc>
     </programme>
-    <programme channel="Prime FR 27" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Feyenoord vs. AZ (10-10-2026 19:33)</title>
-        <desc>Feyenoord vs. AZ (10-10-2026 19:33)</desc>
-    </programme>
     <programme channel="Prime FR 27" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Feyenoord vs. AZ (10-10-2026 19:33)</title>
         <desc>Feyenoord vs. AZ (10-10-2026 19:33)</desc>
@@ -1494,10 +1386,6 @@
     <programme channel="Prime FR 27" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Feyenoord vs. AZ (10-10-2026 19:33)</title>
         <desc>Feyenoord vs. AZ (10-10-2026 19:33)</desc>
-    </programme>
-    <programme channel="Prime FR 28" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Surrey 89ers vs. Liverpool (10-10-2026 19:46)</title>
-        <desc>Surrey 89ers vs. Liverpool (10-10-2026 19:46)</desc>
     </programme>
     <programme channel="Prime FR 28" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Surrey 89ers vs. Liverpool (10-10-2026 19:46)</title>
@@ -1527,10 +1415,6 @@
         <title>Surrey 89ers vs. Liverpool (10-10-2026 19:46)</title>
         <desc>Surrey 89ers vs. Liverpool (10-10-2026 19:46)</desc>
     </programme>
-    <programme channel="Prime FR 29" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Spain vs. Italy (10-10-2026 19:46)</title>
-        <desc>Spain vs. Italy (10-10-2026 19:46)</desc>
-    </programme>
     <programme channel="Prime FR 29" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Spain vs. Italy (10-10-2026 19:46)</title>
         <desc>Spain vs. Italy (10-10-2026 19:46)</desc>
@@ -1559,41 +1443,33 @@
         <title>Spain vs. Italy (10-10-2026 19:46)</title>
         <desc>Spain vs. Italy (10-10-2026 19:46)</desc>
     </programme>
-    <programme channel="Prime FR 30" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>90+1-Journée 6 (10-10-2026 23:37)</title>
-        <desc>90+1-Journée 6 (10-10-2026 23:37)</desc>
-    </programme>
     <programme channel="Prime FR 30" start="20261010170000 +0000" stop="20261010190000 +0000">
-        <title>90+1-Journée 6 (10-10-2026 23:37)</title>
-        <desc>90+1-Journée 6 (10-10-2026 23:37)</desc>
+        <title>90+1-Journée 6 (10-10-2026 20:08)</title>
+        <desc>90+1-Journée 6 (10-10-2026 20:08)</desc>
     </programme>
     <programme channel="Prime FR 30" start="20261010190000 +0000" stop="20261010210000 +0000">
-        <title>90+1-Journée 6 (10-10-2026 23:37)</title>
-        <desc>90+1-Journée 6 (10-10-2026 23:37)</desc>
+        <title>90+1-Journée 6 (10-10-2026 20:08)</title>
+        <desc>90+1-Journée 6 (10-10-2026 20:08)</desc>
     </programme>
     <programme channel="Prime FR 30" start="20261010210000 +0000" stop="20261010230000 +0000">
-        <title>90+1-Journée 6 (10-10-2026 23:37)</title>
-        <desc>90+1-Journée 6 (10-10-2026 23:37)</desc>
+        <title>90+1-Journée 6 (10-10-2026 20:08)</title>
+        <desc>90+1-Journée 6 (10-10-2026 20:08)</desc>
     </programme>
     <programme channel="Prime FR 30" start="20261010230000 +0000" stop="20261011000000 +0000">
-        <title>90+1-Journée 6 (10-10-2026 23:37)</title>
-        <desc>90+1-Journée 6 (10-10-2026 23:37)</desc>
+        <title>90+1-Journée 6 (10-10-2026 20:08)</title>
+        <desc>90+1-Journée 6 (10-10-2026 20:08)</desc>
     </programme>
     <programme channel="Prime FR 30" start="20261011000000 +0000" stop="20261011010000 +0000">
-        <title>90+1-Journée 6 (10-10-2026 23:37)</title>
-        <desc>90+1-Journée 6 (10-10-2026 23:37)</desc>
+        <title>90+1-Journée 6 (10-10-2026 20:08)</title>
+        <desc>90+1-Journée 6 (10-10-2026 20:08)</desc>
     </programme>
     <programme channel="Prime FR 30" start="20261011010000 +0000" stop="20261011030000 +0000">
-        <title>90+1-Journée 6 (10-10-2026 23:37)</title>
-        <desc>90+1-Journée 6 (10-10-2026 23:37)</desc>
+        <title>90+1-Journée 6 (10-10-2026 20:08)</title>
+        <desc>90+1-Journée 6 (10-10-2026 20:08)</desc>
     </programme>
     <programme channel="Prime FR 30" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>90+1-Journée 6 (10-10-2026 23:37)</title>
-        <desc>90+1-Journée 6 (10-10-2026 23:37)</desc>
-    </programme>
-    <programme channel="Prime FR 31" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Al Hilal FC vs. Al Ittihad Club (10-10-2026 20:43)</title>
-        <desc>Al Hilal FC vs. Al Ittihad Club (10-10-2026 20:43)</desc>
+        <title>90+1-Journée 6 (10-10-2026 20:08)</title>
+        <desc>90+1-Journée 6 (10-10-2026 20:08)</desc>
     </programme>
     <programme channel="Prime FR 31" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Al Hilal FC vs. Al Ittihad Club (10-10-2026 20:43)</title>
@@ -1623,10 +1499,6 @@
         <title>Al Hilal FC vs. Al Ittihad Club (10-10-2026 20:43)</title>
         <desc>Al Hilal FC vs. Al Ittihad Club (10-10-2026 20:43)</desc>
     </programme>
-    <programme channel="Prime FR 32" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Boulazac vs. Bourg-en-Bresse (10-10-2026 21:11)</title>
-        <desc>Boulazac vs. Bourg-en-Bresse (10-10-2026 21:11)</desc>
-    </programme>
     <programme channel="Prime FR 32" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Boulazac vs. Bourg-en-Bresse (10-10-2026 21:11)</title>
         <desc>Boulazac vs. Bourg-en-Bresse (10-10-2026 21:11)</desc>
@@ -1654,10 +1526,6 @@
     <programme channel="Prime FR 32" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Boulazac vs. Bourg-en-Bresse (10-10-2026 21:11)</title>
         <desc>Boulazac vs. Bourg-en-Bresse (10-10-2026 21:11)</desc>
-    </programme>
-    <programme channel="Prime FR 33" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>PSG vs. Le Mans (10-10-2026 21:13)</title>
-        <desc>PSG vs. Le Mans (10-10-2026 21:13)</desc>
     </programme>
     <programme channel="Prime FR 33" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>PSG vs. Le Mans (10-10-2026 21:13)</title>
@@ -1687,10 +1555,6 @@
         <title>PSG vs. Le Mans (10-10-2026 21:13)</title>
         <desc>PSG vs. Le Mans (10-10-2026 21:13)</desc>
     </programme>
-    <programme channel="Prime FR 34" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Brest vs. Angers (10-10-2026 21:23)</title>
-        <desc>Brest vs. Angers (10-10-2026 21:23)</desc>
-    </programme>
     <programme channel="Prime FR 34" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Brest vs. Angers (10-10-2026 21:23)</title>
         <desc>Brest vs. Angers (10-10-2026 21:23)</desc>
@@ -1718,10 +1582,6 @@
     <programme channel="Prime FR 34" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Brest vs. Angers (10-10-2026 21:23)</title>
         <desc>Brest vs. Angers (10-10-2026 21:23)</desc>
-    </programme>
-    <programme channel="Prime FR 35" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Monaco vs. Toulouse (10-10-2026 21:23)</title>
-        <desc>Monaco vs. Toulouse (10-10-2026 21:23)</desc>
     </programme>
     <programme channel="Prime FR 35" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Monaco vs. Toulouse (10-10-2026 21:23)</title>
@@ -1751,10 +1611,6 @@
         <title>Monaco vs. Toulouse (10-10-2026 21:23)</title>
         <desc>Monaco vs. Toulouse (10-10-2026 21:23)</desc>
     </programme>
-    <programme channel="Prime FR 36" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Lorient vs. Paris FC (10-10-2026 21:23)</title>
-        <desc>Lorient vs. Paris FC (10-10-2026 21:23)</desc>
-    </programme>
     <programme channel="Prime FR 36" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Lorient vs. Paris FC (10-10-2026 21:23)</title>
         <desc>Lorient vs. Paris FC (10-10-2026 21:23)</desc>
@@ -1782,10 +1638,6 @@
     <programme channel="Prime FR 36" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Lorient vs. Paris FC (10-10-2026 21:23)</title>
         <desc>Lorient vs. Paris FC (10-10-2026 21:23)</desc>
-    </programme>
-    <programme channel="Prime FR 37" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Real Madrid vs. Villarreal (10-10-2026 21:25)</title>
-        <desc>Real Madrid vs. Villarreal (10-10-2026 21:25)</desc>
     </programme>
     <programme channel="Prime FR 37" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Real Madrid vs. Villarreal (10-10-2026 21:25)</title>
@@ -1815,10 +1667,6 @@
         <title>Real Madrid vs. Villarreal (10-10-2026 21:25)</title>
         <desc>Real Madrid vs. Villarreal (10-10-2026 21:25)</desc>
     </programme>
-    <programme channel="Prime FR 38" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Napoli vs. Frosinone (10-10-2026 21:29)</title>
-        <desc>Napoli vs. Frosinone (10-10-2026 21:29)</desc>
-    </programme>
     <programme channel="Prime FR 38" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Napoli vs. Frosinone (10-10-2026 21:29)</title>
         <desc>Napoli vs. Frosinone (10-10-2026 21:29)</desc>
@@ -1846,10 +1694,6 @@
     <programme channel="Prime FR 38" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Napoli vs. Frosinone (10-10-2026 21:29)</title>
         <desc>Napoli vs. Frosinone (10-10-2026 21:29)</desc>
-    </programme>
-    <programme channel="Prime FR 39" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>French Ligue 1 Soccer (10-10-2026 21:35)</title>
-        <desc>French Ligue 1 Soccer (10-10-2026 21:35)</desc>
     </programme>
     <programme channel="Prime FR 39" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>French Ligue 1 Soccer (10-10-2026 21:35)</title>
@@ -1879,10 +1723,6 @@
         <title>French Ligue 1 Soccer (10-10-2026 21:35)</title>
         <desc>French Ligue 1 Soccer (10-10-2026 21:35)</desc>
     </programme>
-    <programme channel="Prime FR 40" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Ajax vs. N.E.C. Nijmegen (10-10-2026 21:48)</title>
-        <desc>Ajax vs. N.E.C. Nijmegen (10-10-2026 21:48)</desc>
-    </programme>
     <programme channel="Prime FR 40" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Ajax vs. N.E.C. Nijmegen (10-10-2026 21:48)</title>
         <desc>Ajax vs. N.E.C. Nijmegen (10-10-2026 21:48)</desc>
@@ -1910,10 +1750,6 @@
     <programme channel="Prime FR 40" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Ajax vs. N.E.C. Nijmegen (10-10-2026 21:48)</title>
         <desc>Ajax vs. N.E.C. Nijmegen (10-10-2026 21:48)</desc>
-    </programme>
-    <programme channel="Prime FR 41" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>90+1-Journée 6 (10-10-2026 23:37)</title>
-        <desc>90+1-Journée 6 (10-10-2026 23:37)</desc>
     </programme>
     <programme channel="Prime FR 41" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>90+1-Journée 6 (10-10-2026 23:37)</title>
@@ -1943,10 +1779,6 @@
         <title>90+1-Journée 6 (10-10-2026 23:37)</title>
         <desc>90+1-Journée 6 (10-10-2026 23:37)</desc>
     </programme>
-    <programme channel="Prime FR 42" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Clippers vs. Raptors (11-10-2026 01:28)</title>
-        <desc>Clippers vs. Raptors (11-10-2026 01:28)</desc>
-    </programme>
     <programme channel="Prime FR 42" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Clippers vs. Raptors (11-10-2026 01:28)</title>
         <desc>Clippers vs. Raptors (11-10-2026 01:28)</desc>
@@ -1974,10 +1806,6 @@
     <programme channel="Prime FR 42" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Clippers vs. Raptors (11-10-2026 01:28)</title>
         <desc>Clippers vs. Raptors (11-10-2026 01:28)</desc>
-    </programme>
-    <programme channel="Prime FR 43" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Hawks vs. Pacers (11-10-2026 01:58)</title>
-        <desc>Hawks vs. Pacers (11-10-2026 01:58)</desc>
     </programme>
     <programme channel="Prime FR 43" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Hawks vs. Pacers (11-10-2026 01:58)</title>
@@ -2007,10 +1835,6 @@
         <title>Hawks vs. Pacers (11-10-2026 01:58)</title>
         <desc>Hawks vs. Pacers (11-10-2026 01:58)</desc>
     </programme>
-    <programme channel="Prime FR 44" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Pistons vs. Wizards (11-10-2026 01:58)</title>
-        <desc>Pistons vs. Wizards (11-10-2026 01:58)</desc>
-    </programme>
     <programme channel="Prime FR 44" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Pistons vs. Wizards (11-10-2026 01:58)</title>
         <desc>Pistons vs. Wizards (11-10-2026 01:58)</desc>
@@ -2038,10 +1862,6 @@
     <programme channel="Prime FR 44" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Pistons vs. Wizards (11-10-2026 01:58)</title>
         <desc>Pistons vs. Wizards (11-10-2026 01:58)</desc>
-    </programme>
-    <programme channel="Prime FR 45" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Timberwolves vs. Heat (11-10-2026 02:58)</title>
-        <desc>Timberwolves vs. Heat (11-10-2026 02:58)</desc>
     </programme>
     <programme channel="Prime FR 45" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Timberwolves vs. Heat (11-10-2026 02:58)</title>
@@ -2071,10 +1891,6 @@
         <title>Timberwolves vs. Heat (11-10-2026 02:58)</title>
         <desc>Timberwolves vs. Heat (11-10-2026 02:58)</desc>
     </programme>
-    <programme channel="Prime FR 46" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>76ers vs. Celtics (11-10-2026 02:58)</title>
-        <desc>76ers vs. Celtics (11-10-2026 02:58)</desc>
-    </programme>
     <programme channel="Prime FR 46" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>76ers vs. Celtics (11-10-2026 02:58)</title>
         <desc>76ers vs. Celtics (11-10-2026 02:58)</desc>
@@ -2102,10 +1918,6 @@
     <programme channel="Prime FR 46" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>76ers vs. Celtics (11-10-2026 02:58)</title>
         <desc>76ers vs. Celtics (11-10-2026 02:58)</desc>
-    </programme>
-    <programme channel="Prime FR 47" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Kings vs. Warriors (11-10-2026 03:28)</title>
-        <desc>Kings vs. Warriors (11-10-2026 03:28)</desc>
     </programme>
     <programme channel="Prime FR 47" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Kings vs. Warriors (11-10-2026 03:28)</title>
@@ -2135,10 +1947,6 @@
         <title>Kings vs. Warriors (11-10-2026 03:28)</title>
         <desc>Kings vs. Warriors (11-10-2026 03:28)</desc>
     </programme>
-    <programme channel="Prime FR 48" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Spurs vs. Suns (11-10-2026 05:28)</title>
-        <desc>Spurs vs. Suns (11-10-2026 05:28)</desc>
-    </programme>
     <programme channel="Prime FR 48" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Spurs vs. Suns (11-10-2026 05:28)</title>
         <desc>Spurs vs. Suns (11-10-2026 05:28)</desc>
@@ -2166,10 +1974,6 @@
     <programme channel="Prime FR 48" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Spurs vs. Suns (11-10-2026 05:28)</title>
         <desc>Spurs vs. Suns (11-10-2026 05:28)</desc>
-    </programme>
-    <programme channel="Prime FR 49" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Mavericks vs. Rockets (11-10-2026 12:58)</title>
-        <desc>Mavericks vs. Rockets (11-10-2026 12:58)</desc>
     </programme>
     <programme channel="Prime FR 49" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Mavericks vs. Rockets (11-10-2026 12:58)</title>
@@ -2199,10 +2003,6 @@
         <title>Mavericks vs. Rockets (11-10-2026 12:58)</title>
         <desc>Mavericks vs. Rockets (11-10-2026 12:58)</desc>
     </programme>
-    <programme channel="Prime FR 50" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Nice vs. Strasbourg (11-10-2026 15:28)</title>
-        <desc>Nice vs. Strasbourg (11-10-2026 15:28)</desc>
-    </programme>
     <programme channel="Prime FR 50" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Nice vs. Strasbourg (11-10-2026 15:28)</title>
         <desc>Nice vs. Strasbourg (11-10-2026 15:28)</desc>
@@ -2230,10 +2030,6 @@
     <programme channel="Prime FR 50" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Nice vs. Strasbourg (11-10-2026 15:28)</title>
         <desc>Nice vs. Strasbourg (11-10-2026 15:28)</desc>
-    </programme>
-    <programme channel="Disney FR 01" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Championnats d'Europe - Course en ligne individuelle hommes cyclisme(09-10-2026 16:43)</title>
-        <desc>Championnats d'Europe - Course en ligne individuelle hommes cyclisme(09-10-2026 16:43)</desc>
     </programme>
     <programme channel="Disney FR 01" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Championnats d'Europe - Course en ligne individuelle hommes cyclisme(09-10-2026 16:43)</title>
@@ -2263,10 +2059,6 @@
         <title>Championnats d'Europe - Course en ligne individuelle hommes cyclisme(09-10-2026 16:43)</title>
         <desc>Championnats d'Europe - Course en ligne individuelle hommes cyclisme(09-10-2026 16:43)</desc>
     </programme>
-    <programme channel="Disney FR 02" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>L'Équipe de choc(09-10-2026 18:00)</title>
-        <desc>L'Équipe de choc(09-10-2026 18:00)</desc>
-    </programme>
     <programme channel="Disney FR 02" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>L'Équipe de choc(09-10-2026 18:00)</title>
         <desc>L'Équipe de choc(09-10-2026 18:00)</desc>
@@ -2294,10 +2086,6 @@
     <programme channel="Disney FR 02" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>L'Équipe de choc(09-10-2026 18:00)</title>
         <desc>L'Équipe de choc(09-10-2026 18:00)</desc>
-    </programme>
-    <programme channel="Disney FR 03" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>L'Équipe de Greg(09-10-2026 19:30)</title>
-        <desc>L'Équipe de Greg(09-10-2026 19:30)</desc>
     </programme>
     <programme channel="Disney FR 03" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>L'Équipe de Greg(09-10-2026 19:30)</title>
@@ -2327,10 +2115,6 @@
         <title>L'Équipe de Greg(09-10-2026 19:30)</title>
         <desc>L'Équipe de Greg(09-10-2026 19:30)</desc>
     </programme>
-    <programme channel="Disney FR 04" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>A toute allure!(09-10-2026 21:05)</title>
-        <desc>A toute allure!(09-10-2026 21:05)</desc>
-    </programme>
     <programme channel="Disney FR 04" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>A toute allure!(09-10-2026 21:05)</title>
         <desc>A toute allure!(09-10-2026 21:05)</desc>
@@ -2358,10 +2142,6 @@
     <programme channel="Disney FR 04" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>A toute allure!(09-10-2026 21:05)</title>
         <desc>A toute allure!(09-10-2026 21:05)</desc>
-    </programme>
-    <programme channel="Disney FR 05" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Spanish LALIGA - R08: Málaga - Espanyol FR(09-10-2026 21:53)</title>
-        <desc>Spanish LALIGA - R08: Málaga - Espanyol FR(09-10-2026 21:53)</desc>
     </programme>
     <programme channel="Disney FR 05" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Spanish LALIGA - R08: Málaga - Espanyol FR(09-10-2026 21:53)</title>
@@ -2391,10 +2171,6 @@
         <title>Spanish LALIGA - R08: Málaga - Espanyol FR(09-10-2026 21:53)</title>
         <desc>Spanish LALIGA - R08: Málaga - Espanyol FR(09-10-2026 21:53)</desc>
     </programme>
-    <programme channel="Disney FR 06" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Laver Cup tennis(09-10-2026 22:10)</title>
-        <desc>Laver Cup tennis(09-10-2026 22:10)</desc>
-    </programme>
     <programme channel="Disney FR 06" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Laver Cup tennis(09-10-2026 22:10)</title>
         <desc>Laver Cup tennis(09-10-2026 22:10)</desc>
@@ -2422,10 +2198,6 @@
     <programme channel="Disney FR 06" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Laver Cup tennis(09-10-2026 22:10)</title>
         <desc>Laver Cup tennis(09-10-2026 22:10)</desc>
-    </programme>
-    <programme channel="Disney FR 07" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>L'Équipe du soir(09-10-2026 23:45)</title>
-        <desc>L'Équipe du soir(09-10-2026 23:45)</desc>
     </programme>
     <programme channel="Disney FR 07" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>L'Équipe du soir(09-10-2026 23:45)</title>
@@ -2455,10 +2227,6 @@
         <title>L'Équipe du soir(09-10-2026 23:45)</title>
         <desc>L'Équipe du soir(09-10-2026 23:45)</desc>
     </programme>
-    <programme channel="Disney FR 08" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>NCAA Women's Volleyball - #14 Stanford vs. Notre Dame(10-10-2026 00:00)</title>
-        <desc>NCAA Women's Volleyball - #14 Stanford vs. Notre Dame(10-10-2026 00:00)</desc>
-    </programme>
     <programme channel="Disney FR 08" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>NCAA Women's Volleyball - #14 Stanford vs. Notre Dame(10-10-2026 00:00)</title>
         <desc>NCAA Women's Volleyball - #14 Stanford vs. Notre Dame(10-10-2026 00:00)</desc>
@@ -2486,10 +2254,6 @@
     <programme channel="Disney FR 08" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>NCAA Women's Volleyball - #14 Stanford vs. Notre Dame(10-10-2026 00:00)</title>
         <desc>NCAA Women's Volleyball - #14 Stanford vs. Notre Dame(10-10-2026 00:00)</desc>
-    </programme>
-    <programme channel="Disney FR 09" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>NCAA Men's Soccer - California vs. Virginia(10-10-2026 01:03)</title>
-        <desc>NCAA Men's Soccer - California vs. Virginia(10-10-2026 01:03)</desc>
     </programme>
     <programme channel="Disney FR 09" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>NCAA Men's Soccer - California vs. Virginia(10-10-2026 01:03)</title>
@@ -2519,10 +2283,6 @@
         <title>NCAA Men's Soccer - California vs. Virginia(10-10-2026 01:03)</title>
         <desc>NCAA Men's Soccer - California vs. Virginia(10-10-2026 01:03)</desc>
     </programme>
-    <programme channel="Disney FR 10" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>L'Équipe du soir(10-10-2026 01:35)</title>
-        <desc>L'Équipe du soir(10-10-2026 01:35)</desc>
-    </programme>
     <programme channel="Disney FR 10" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>L'Équipe du soir(10-10-2026 01:35)</title>
         <desc>L'Équipe du soir(10-10-2026 01:35)</desc>
@@ -2550,10 +2310,6 @@
     <programme channel="Disney FR 10" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>L'Équipe du soir(10-10-2026 01:35)</title>
         <desc>L'Équipe du soir(10-10-2026 01:35)</desc>
-    </programme>
-    <programme channel="Disney FR 11" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>NCAA Women's Volleyball - Harvard vs. Columbia(10-10-2026 02:00)</title>
-        <desc>NCAA Women's Volleyball - Harvard vs. Columbia(10-10-2026 02:00)</desc>
     </programme>
     <programme channel="Disney FR 11" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>NCAA Women's Volleyball - Harvard vs. Columbia(10-10-2026 02:00)</title>
@@ -2583,10 +2339,6 @@
         <title>NCAA Women's Volleyball - Harvard vs. Columbia(10-10-2026 02:00)</title>
         <desc>NCAA Women's Volleyball - Harvard vs. Columbia(10-10-2026 02:00)</desc>
     </programme>
-    <programme channel="Disney FR 12" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>NCAA Women's Volleyball - Duke vs. Virginia(10-10-2026 02:00)</title>
-        <desc>NCAA Women's Volleyball - Duke vs. Virginia(10-10-2026 02:00)</desc>
-    </programme>
     <programme channel="Disney FR 12" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>NCAA Women's Volleyball - Duke vs. Virginia(10-10-2026 02:00)</title>
         <desc>NCAA Women's Volleyball - Duke vs. Virginia(10-10-2026 02:00)</desc>
@@ -2614,10 +2366,6 @@
     <programme channel="Disney FR 12" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>NCAA Women's Volleyball - Duke vs. Virginia(10-10-2026 02:00)</title>
         <desc>NCAA Women's Volleyball - Duke vs. Virginia(10-10-2026 02:00)</desc>
-    </programme>
-    <programme channel="Disney FR 13" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>NCAA Swimming & Diving - College Swimming League: Louisville, Virginia, Michigan, Tennessee(10-10-2026 02:00)</title>
-        <desc>NCAA Swimming & Diving - College Swimming League: Louisville, Virginia, Michigan, Tennessee(10-10-2026 02:00)</desc>
     </programme>
     <programme channel="Disney FR 13" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>NCAA Swimming & Diving - College Swimming League: Louisville, Virginia, Michigan, Tennessee(10-10-2026 02:00)</title>
@@ -2647,10 +2395,6 @@
         <title>NCAA Swimming & Diving - College Swimming League: Louisville, Virginia, Michigan, Tennessee(10-10-2026 02:00)</title>
         <desc>NCAA Swimming & Diving - College Swimming League: Louisville, Virginia, Michigan, Tennessee(10-10-2026 02:00)</desc>
     </programme>
-    <programme channel="Disney FR 14" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>NCAA - Football - Florida State vs. Louisville(10-10-2026 02:00)</title>
-        <desc>NCAA - Football - Florida State vs. Louisville(10-10-2026 02:00)</desc>
-    </programme>
     <programme channel="Disney FR 14" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>NCAA - Football - Florida State vs. Louisville(10-10-2026 02:00)</title>
         <desc>NCAA - Football - Florida State vs. Louisville(10-10-2026 02:00)</desc>
@@ -2678,10 +2422,6 @@
     <programme channel="Disney FR 14" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>NCAA - Football - Florida State vs. Louisville(10-10-2026 02:00)</title>
         <desc>NCAA - Football - Florida State vs. Louisville(10-10-2026 02:00)</desc>
-    </programme>
-    <programme channel="Disney FR 15" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>NCAA Men's Basketball - USC vs. North Carolina(10-10-2026 02:00)</title>
-        <desc>NCAA Men's Basketball - USC vs. North Carolina(10-10-2026 02:00)</desc>
     </programme>
     <programme channel="Disney FR 15" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>NCAA Men's Basketball - USC vs. North Carolina(10-10-2026 02:00)</title>
@@ -2711,10 +2451,6 @@
         <title>NCAA Men's Basketball - USC vs. North Carolina(10-10-2026 02:00)</title>
         <desc>NCAA Men's Basketball - USC vs. North Carolina(10-10-2026 02:00)</desc>
     </programme>
-    <programme channel="Disney FR 16" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>NCAA Women's Volleyball - #5 Florida vs. Missouri(10-10-2026 03:00)</title>
-        <desc>NCAA Women's Volleyball - #5 Florida vs. Missouri(10-10-2026 03:00)</desc>
-    </programme>
     <programme channel="Disney FR 16" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>NCAA Women's Volleyball - #5 Florida vs. Missouri(10-10-2026 03:00)</title>
         <desc>NCAA Women's Volleyball - #5 Florida vs. Missouri(10-10-2026 03:00)</desc>
@@ -2742,10 +2478,6 @@
     <programme channel="Disney FR 16" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>NCAA Women's Volleyball - #5 Florida vs. Missouri(10-10-2026 03:00)</title>
         <desc>NCAA Women's Volleyball - #5 Florida vs. Missouri(10-10-2026 03:00)</desc>
-    </programme>
-    <programme channel="Disney FR 17" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Programme de nuit(10-10-2026 03:05)</title>
-        <desc>Programme de nuit(10-10-2026 03:05)</desc>
     </programme>
     <programme channel="Disney FR 17" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Programme de nuit(10-10-2026 03:05)</title>
@@ -2775,10 +2507,6 @@
         <title>Programme de nuit(10-10-2026 03:05)</title>
         <desc>Programme de nuit(10-10-2026 03:05)</desc>
     </programme>
-    <programme channel="Disney FR 18" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>NCAA - Football - Washington State vs. Utah State(10-10-2026 04:00)</title>
-        <desc>NCAA - Football - Washington State vs. Utah State(10-10-2026 04:00)</desc>
-    </programme>
     <programme channel="Disney FR 18" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>NCAA - Football - Washington State vs. Utah State(10-10-2026 04:00)</title>
         <desc>NCAA - Football - Washington State vs. Utah State(10-10-2026 04:00)</desc>
@@ -2806,10 +2534,6 @@
     <programme channel="Disney FR 18" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>NCAA - Football - Washington State vs. Utah State(10-10-2026 04:00)</title>
         <desc>NCAA - Football - Washington State vs. Utah State(10-10-2026 04:00)</desc>
-    </programme>
-    <programme channel="Disney FR 19" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>NCAA Women's Field Hockey - #8 Wake Forest vs. #14 California(10-10-2026 04:00)</title>
-        <desc>NCAA Women's Field Hockey - #8 Wake Forest vs. #14 California(10-10-2026 04:00)</desc>
     </programme>
     <programme channel="Disney FR 19" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>NCAA Women's Field Hockey - #8 Wake Forest vs. #14 California(10-10-2026 04:00)</title>
@@ -2839,10 +2563,6 @@
         <title>NCAA Women's Field Hockey - #8 Wake Forest vs. #14 California(10-10-2026 04:00)</title>
         <desc>NCAA Women's Field Hockey - #8 Wake Forest vs. #14 California(10-10-2026 04:00)</desc>
     </programme>
-    <programme channel="Disney FR 20" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>NCAA - Football - Iowa State vs. #8 BYU(10-10-2026 05:15)</title>
-        <desc>NCAA - Football - Iowa State vs. #8 BYU(10-10-2026 05:15)</desc>
-    </programme>
     <programme channel="Disney FR 20" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>NCAA - Football - Iowa State vs. #8 BYU(10-10-2026 05:15)</title>
         <desc>NCAA - Football - Iowa State vs. #8 BYU(10-10-2026 05:15)</desc>
@@ -2870,10 +2590,6 @@
     <programme channel="Disney FR 20" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>NCAA - Football - Iowa State vs. #8 BYU(10-10-2026 05:15)</title>
         <desc>NCAA - Football - Iowa State vs. #8 BYU(10-10-2026 05:15)</desc>
-    </programme>
-    <programme channel="Disney FR 21" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Programme de nuit(10-10-2026 06:00)</title>
-        <desc>Programme de nuit(10-10-2026 06:00)</desc>
     </programme>
     <programme channel="Disney FR 21" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Programme de nuit(10-10-2026 06:00)</title>
@@ -2903,10 +2619,6 @@
         <title>Programme de nuit(10-10-2026 06:00)</title>
         <desc>Programme de nuit(10-10-2026 06:00)</desc>
     </programme>
-    <programme channel="Disney FR 22" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>L'Équipe du soir(10-10-2026 07:00)</title>
-        <desc>L'Équipe du soir(10-10-2026 07:00)</desc>
-    </programme>
     <programme channel="Disney FR 22" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>L'Équipe du soir(10-10-2026 07:00)</title>
         <desc>L'Équipe du soir(10-10-2026 07:00)</desc>
@@ -2934,10 +2646,6 @@
     <programme channel="Disney FR 22" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>L'Équipe du soir(10-10-2026 07:00)</title>
         <desc>L'Équipe du soir(10-10-2026 07:00)</desc>
-    </programme>
-    <programme channel="Disney FR 23" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>TRIATHLON - T100 ST RAPHAEL(10-10-2026 09:00)</title>
-        <desc>TRIATHLON - T100 ST RAPHAEL(10-10-2026 09:00)</desc>
     </programme>
     <programme channel="Disney FR 23" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>TRIATHLON - T100 ST RAPHAEL(10-10-2026 09:00)</title>
@@ -2967,10 +2675,6 @@
         <title>TRIATHLON - T100 ST RAPHAEL(10-10-2026 09:00)</title>
         <desc>TRIATHLON - T100 ST RAPHAEL(10-10-2026 09:00)</desc>
     </programme>
-    <programme channel="Disney FR 24" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Programme de stock(10-10-2026 09:30)</title>
-        <desc>Programme de stock(10-10-2026 09:30)</desc>
-    </programme>
     <programme channel="Disney FR 24" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Programme de stock(10-10-2026 09:30)</title>
         <desc>Programme de stock(10-10-2026 09:30)</desc>
@@ -2998,10 +2702,6 @@
     <programme channel="Disney FR 24" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Programme de stock(10-10-2026 09:30)</title>
         <desc>Programme de stock(10-10-2026 09:30)</desc>
-    </programme>
-    <programme channel="Disney FR 25" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>AUTOMOTO(10-10-2026 10:50)</title>
-        <desc>AUTOMOTO(10-10-2026 10:50)</desc>
     </programme>
     <programme channel="Disney FR 25" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>AUTOMOTO(10-10-2026 10:50)</title>
@@ -3031,10 +2731,6 @@
         <title>AUTOMOTO(10-10-2026 10:50)</title>
         <desc>AUTOMOTO(10-10-2026 10:50)</desc>
     </programme>
-    <programme channel="Disney FR 26" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>AUTOMOTO(10-10-2026 11:25)</title>
-        <desc>AUTOMOTO(10-10-2026 11:25)</desc>
-    </programme>
     <programme channel="Disney FR 26" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>AUTOMOTO(10-10-2026 11:25)</title>
         <desc>AUTOMOTO(10-10-2026 11:25)</desc>
@@ -3062,10 +2758,6 @@
     <programme channel="Disney FR 26" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>AUTOMOTO(10-10-2026 11:25)</title>
         <desc>AUTOMOTO(10-10-2026 11:25)</desc>
-    </programme>
-    <programme channel="Disney FR 27" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>World Table Tennis - TENNIS DE TABLE(10-10-2026 12:00)</title>
-        <desc>World Table Tennis - TENNIS DE TABLE(10-10-2026 12:00)</desc>
     </programme>
     <programme channel="Disney FR 27" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>World Table Tennis - TENNIS DE TABLE(10-10-2026 12:00)</title>
@@ -3095,10 +2787,6 @@
         <title>World Table Tennis - TENNIS DE TABLE(10-10-2026 12:00)</title>
         <desc>World Table Tennis - TENNIS DE TABLE(10-10-2026 12:00)</desc>
     </programme>
-    <programme channel="Disney FR 28" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Spanish LALIGA - R08: Rayo Vallecano - Athletic Club FR(10-10-2026 14:53)</title>
-        <desc>Spanish LALIGA - R08: Rayo Vallecano - Athletic Club FR(10-10-2026 14:53)</desc>
-    </programme>
     <programme channel="Disney FR 28" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Spanish LALIGA - R08: Rayo Vallecano - Athletic Club FR(10-10-2026 14:53)</title>
         <desc>Spanish LALIGA - R08: Rayo Vallecano - Athletic Club FR(10-10-2026 14:53)</desc>
@@ -3126,10 +2814,6 @@
     <programme channel="Disney FR 28" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Spanish LALIGA - R08: Rayo Vallecano - Athletic Club FR(10-10-2026 14:53)</title>
         <desc>Spanish LALIGA - R08: Rayo Vallecano - Athletic Club FR(10-10-2026 14:53)</desc>
-    </programme>
-    <programme channel="Disney FR 29" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>CYCLISME GRAVEL(10-10-2026 15:30)</title>
-        <desc>CYCLISME GRAVEL(10-10-2026 15:30)</desc>
     </programme>
     <programme channel="Disney FR 29" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>CYCLISME GRAVEL(10-10-2026 15:30)</title>
@@ -3159,10 +2843,6 @@
         <title>CYCLISME GRAVEL(10-10-2026 15:30)</title>
         <desc>CYCLISME GRAVEL(10-10-2026 15:30)</desc>
     </programme>
-    <programme channel="Disney FR 30" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Spanish LALIGA - R08: Alavés - Atlético de Madrid FR(10-10-2026 17:00)</title>
-        <desc>Spanish LALIGA - R08: Alavés - Atlético de Madrid FR(10-10-2026 17:00)</desc>
-    </programme>
     <programme channel="Disney FR 30" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Spanish LALIGA - R08: Alavés - Atlético de Madrid FR(10-10-2026 17:00)</title>
         <desc>Spanish LALIGA - R08: Alavés - Atlético de Madrid FR(10-10-2026 17:00)</desc>
@@ -3190,10 +2870,6 @@
     <programme channel="Disney FR 30" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Spanish LALIGA - R08: Alavés - Atlético de Madrid FR(10-10-2026 17:00)</title>
         <desc>Spanish LALIGA - R08: Alavés - Atlético de Madrid FR(10-10-2026 17:00)</desc>
-    </programme>
-    <programme channel="MLS 01" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Toronto vs. Montréal (10-10-2026 19:55)</title>
-        <desc>Toronto vs. Montréal (10-10-2026 19:55)</desc>
     </programme>
     <programme channel="MLS 01" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Toronto vs. Montréal (10-10-2026 19:55)</title>
@@ -3223,10 +2899,6 @@
         <title>Toronto vs. Montréal (10-10-2026 19:55)</title>
         <desc>Toronto vs. Montréal (10-10-2026 19:55)</desc>
     </programme>
-    <programme channel="MLS 02" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Toronto vs. Montréal (French) (10-10-2026 19:55)</title>
-        <desc>Toronto vs. Montréal (French) (10-10-2026 19:55)</desc>
-    </programme>
     <programme channel="MLS 02" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Toronto vs. Montréal (French) (10-10-2026 19:55)</title>
         <desc>Toronto vs. Montréal (French) (10-10-2026 19:55)</desc>
@@ -3254,10 +2926,6 @@
     <programme channel="MLS 02" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Toronto vs. Montréal (French) (10-10-2026 19:55)</title>
         <desc>Toronto vs. Montréal (French) (10-10-2026 19:55)</desc>
-    </programme>
-    <programme channel="MLS 03" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Toronto vs. Montréal (Spanish) (10-10-2026 19:55)</title>
-        <desc>Toronto vs. Montréal (Spanish) (10-10-2026 19:55)</desc>
     </programme>
     <programme channel="MLS 03" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Toronto vs. Montréal (Spanish) (10-10-2026 19:55)</title>
@@ -3287,10 +2955,6 @@
         <title>Toronto vs. Montréal (Spanish) (10-10-2026 19:55)</title>
         <desc>Toronto vs. Montréal (Spanish) (10-10-2026 19:55)</desc>
     </programme>
-    <programme channel="MLS 04" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Chicago vs. New_York_City (10-10-2026 21:25)</title>
-        <desc>Chicago vs. New_York_City (10-10-2026 21:25)</desc>
-    </programme>
     <programme channel="MLS 04" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Chicago vs. New_York_City (10-10-2026 21:25)</title>
         <desc>Chicago vs. New_York_City (10-10-2026 21:25)</desc>
@@ -3318,10 +2982,6 @@
     <programme channel="MLS 04" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Chicago vs. New_York_City (10-10-2026 21:25)</title>
         <desc>Chicago vs. New_York_City (10-10-2026 21:25)</desc>
-    </programme>
-    <programme channel="MLS 05" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Chicago vs. New_York_City (Spanish) (10-10-2026 21:25)</title>
-        <desc>Chicago vs. New_York_City (Spanish) (10-10-2026 21:25)</desc>
     </programme>
     <programme channel="MLS 05" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Chicago vs. New_York_City (Spanish) (10-10-2026 21:25)</title>
@@ -3351,10 +3011,6 @@
         <title>Chicago vs. New_York_City (Spanish) (10-10-2026 21:25)</title>
         <desc>Chicago vs. New_York_City (Spanish) (10-10-2026 21:25)</desc>
     </programme>
-    <programme channel="MLS 06" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>MLS La Previa (Spanish) (11-10-2026 01:25)</title>
-        <desc>MLS La Previa (Spanish) (11-10-2026 01:25)</desc>
-    </programme>
     <programme channel="MLS 06" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>MLS La Previa (Spanish) (11-10-2026 01:25)</title>
         <desc>MLS La Previa (Spanish) (11-10-2026 01:25)</desc>
@@ -3382,10 +3038,6 @@
     <programme channel="MLS 06" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>MLS La Previa (Spanish) (11-10-2026 01:25)</title>
         <desc>MLS La Previa (Spanish) (11-10-2026 01:25)</desc>
-    </programme>
-    <programme channel="MLS 07" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>MLS Countdown (11-10-2026 01:25)</title>
-        <desc>MLS Countdown (11-10-2026 01:25)</desc>
     </programme>
     <programme channel="MLS 07" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>MLS Countdown (11-10-2026 01:25)</title>
@@ -3415,10 +3067,6 @@
         <title>MLS Countdown (11-10-2026 01:25)</title>
         <desc>MLS Countdown (11-10-2026 01:25)</desc>
     </programme>
-    <programme channel="MLS 08" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Miami vs. D.C. (11-10-2026 02:25)</title>
-        <desc>Miami vs. D.C. (11-10-2026 02:25)</desc>
-    </programme>
     <programme channel="MLS 08" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Miami vs. D.C. (11-10-2026 02:25)</title>
         <desc>Miami vs. D.C. (11-10-2026 02:25)</desc>
@@ -3446,10 +3094,6 @@
     <programme channel="MLS 08" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Miami vs. D.C. (11-10-2026 02:25)</title>
         <desc>Miami vs. D.C. (11-10-2026 02:25)</desc>
-    </programme>
-    <programme channel="MLS 09" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Miami vs. D.C. (Spanish) (11-10-2026 02:25)</title>
-        <desc>Miami vs. D.C. (Spanish) (11-10-2026 02:25)</desc>
     </programme>
     <programme channel="MLS 09" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Miami vs. D.C. (Spanish) (11-10-2026 02:25)</title>
@@ -3479,10 +3123,6 @@
         <title>Miami vs. D.C. (Spanish) (11-10-2026 02:25)</title>
         <desc>Miami vs. D.C. (Spanish) (11-10-2026 02:25)</desc>
     </programme>
-    <programme channel="MLS 10" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Charlotte vs. Dallas (11-10-2026 02:25)</title>
-        <desc>Charlotte vs. Dallas (11-10-2026 02:25)</desc>
-    </programme>
     <programme channel="MLS 10" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Charlotte vs. Dallas (11-10-2026 02:25)</title>
         <desc>Charlotte vs. Dallas (11-10-2026 02:25)</desc>
@@ -3510,10 +3150,6 @@
     <programme channel="MLS 10" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Charlotte vs. Dallas (11-10-2026 02:25)</title>
         <desc>Charlotte vs. Dallas (11-10-2026 02:25)</desc>
-    </programme>
-    <programme channel="MLS 11" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Charlotte vs. Dallas (Spanish) (11-10-2026 02:25)</title>
-        <desc>Charlotte vs. Dallas (Spanish) (11-10-2026 02:25)</desc>
     </programme>
     <programme channel="MLS 11" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Charlotte vs. Dallas (Spanish) (11-10-2026 02:25)</title>
@@ -3543,10 +3179,6 @@
         <title>Charlotte vs. Dallas (Spanish) (11-10-2026 02:25)</title>
         <desc>Charlotte vs. Dallas (Spanish) (11-10-2026 02:25)</desc>
     </programme>
-    <programme channel="MLS 12" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>MLS 360 (11-10-2026 02:25)</title>
-        <desc>MLS 360 (11-10-2026 02:25)</desc>
-    </programme>
     <programme channel="MLS 12" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>MLS 360 (11-10-2026 02:25)</title>
         <desc>MLS 360 (11-10-2026 02:25)</desc>
@@ -3574,10 +3206,6 @@
     <programme channel="MLS 12" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>MLS 360 (11-10-2026 02:25)</title>
         <desc>MLS 360 (11-10-2026 02:25)</desc>
-    </programme>
-    <programme channel="MLS 13" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>New England vs. Seattle (11-10-2026 02:25)</title>
-        <desc>New England vs. Seattle (11-10-2026 02:25)</desc>
     </programme>
     <programme channel="MLS 13" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>New England vs. Seattle (11-10-2026 02:25)</title>
@@ -3607,10 +3235,6 @@
         <title>New England vs. Seattle (11-10-2026 02:25)</title>
         <desc>New England vs. Seattle (11-10-2026 02:25)</desc>
     </programme>
-    <programme channel="MLS 14" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>New England vs. Seattle (Spanish) (11-10-2026 02:25)</title>
-        <desc>New England vs. Seattle (Spanish) (11-10-2026 02:25)</desc>
-    </programme>
     <programme channel="MLS 14" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>New England vs. Seattle (Spanish) (11-10-2026 02:25)</title>
         <desc>New England vs. Seattle (Spanish) (11-10-2026 02:25)</desc>
@@ -3638,10 +3262,6 @@
     <programme channel="MLS 14" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>New England vs. Seattle (Spanish) (11-10-2026 02:25)</title>
         <desc>New England vs. Seattle (Spanish) (11-10-2026 02:25)</desc>
-    </programme>
-    <programme channel="MLS 15" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Philadelphia vs. Salt Lake (11-10-2026 02:25)</title>
-        <desc>Philadelphia vs. Salt Lake (11-10-2026 02:25)</desc>
     </programme>
     <programme channel="MLS 15" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Philadelphia vs. Salt Lake (11-10-2026 02:25)</title>
@@ -3671,10 +3291,6 @@
         <title>Philadelphia vs. Salt Lake (11-10-2026 02:25)</title>
         <desc>Philadelphia vs. Salt Lake (11-10-2026 02:25)</desc>
     </programme>
-    <programme channel="MLS 16" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Philadelphia vs. Salt Lake (Spanish) (11-10-2026 02:25)</title>
-        <desc>Philadelphia vs. Salt Lake (Spanish) (11-10-2026 02:25)</desc>
-    </programme>
     <programme channel="MLS 16" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Philadelphia vs. Salt Lake (Spanish) (11-10-2026 02:25)</title>
         <desc>Philadelphia vs. Salt Lake (Spanish) (11-10-2026 02:25)</desc>
@@ -3702,10 +3318,6 @@
     <programme channel="MLS 16" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Philadelphia vs. Salt Lake (Spanish) (11-10-2026 02:25)</title>
         <desc>Philadelphia vs. Salt Lake (Spanish) (11-10-2026 02:25)</desc>
-    </programme>
-    <programme channel="MLS 17" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Orlando vs. Columbus (11-10-2026 02:25)</title>
-        <desc>Orlando vs. Columbus (11-10-2026 02:25)</desc>
     </programme>
     <programme channel="MLS 17" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Orlando vs. Columbus (11-10-2026 02:25)</title>
@@ -3735,10 +3347,6 @@
         <title>Orlando vs. Columbus (11-10-2026 02:25)</title>
         <desc>Orlando vs. Columbus (11-10-2026 02:25)</desc>
     </programme>
-    <programme channel="MLS 18" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Orlando vs. Columbus (Spanish) (11-10-2026 02:25)</title>
-        <desc>Orlando vs. Columbus (Spanish) (11-10-2026 02:25)</desc>
-    </programme>
     <programme channel="MLS 18" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Orlando vs. Columbus (Spanish) (11-10-2026 02:25)</title>
         <desc>Orlando vs. Columbus (Spanish) (11-10-2026 02:25)</desc>
@@ -3766,10 +3374,6 @@
     <programme channel="MLS 18" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Orlando vs. Columbus (Spanish) (11-10-2026 02:25)</title>
         <desc>Orlando vs. Columbus (Spanish) (11-10-2026 02:25)</desc>
-    </programme>
-    <programme channel="MLS 19" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>New_York vs. San Diego (11-10-2026 02:25)</title>
-        <desc>New_York vs. San Diego (11-10-2026 02:25)</desc>
     </programme>
     <programme channel="MLS 19" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>New_York vs. San Diego (11-10-2026 02:25)</title>
@@ -3799,10 +3403,6 @@
         <title>New_York vs. San Diego (11-10-2026 02:25)</title>
         <desc>New_York vs. San Diego (11-10-2026 02:25)</desc>
     </programme>
-    <programme channel="MLS 20" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>New_York vs. San Diego (Spanish) (11-10-2026 02:25)</title>
-        <desc>New_York vs. San Diego (Spanish) (11-10-2026 02:25)</desc>
-    </programme>
     <programme channel="MLS 20" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>New_York vs. San Diego (Spanish) (11-10-2026 02:25)</title>
         <desc>New_York vs. San Diego (Spanish) (11-10-2026 02:25)</desc>
@@ -3830,10 +3430,6 @@
     <programme channel="MLS 20" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>New_York vs. San Diego (Spanish) (11-10-2026 02:25)</title>
         <desc>New_York vs. San Diego (Spanish) (11-10-2026 02:25)</desc>
-    </programme>
-    <programme channel="MLS 21" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Atlanta vs. Cincinnati (11-10-2026 02:26)</title>
-        <desc>Atlanta vs. Cincinnati (11-10-2026 02:26)</desc>
     </programme>
     <programme channel="MLS 21" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Atlanta vs. Cincinnati (11-10-2026 02:26)</title>
@@ -3863,10 +3459,6 @@
         <title>Atlanta vs. Cincinnati (11-10-2026 02:26)</title>
         <desc>Atlanta vs. Cincinnati (11-10-2026 02:26)</desc>
     </programme>
-    <programme channel="MLS 22" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Atlanta vs. Cincinnati (Spanish) (11-10-2026 02:26)</title>
-        <desc>Atlanta vs. Cincinnati (Spanish) (11-10-2026 02:26)</desc>
-    </programme>
     <programme channel="MLS 22" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Atlanta vs. Cincinnati (Spanish) (11-10-2026 02:26)</title>
         <desc>Atlanta vs. Cincinnati (Spanish) (11-10-2026 02:26)</desc>
@@ -3894,10 +3486,6 @@
     <programme channel="MLS 22" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Atlanta vs. Cincinnati (Spanish) (11-10-2026 02:26)</title>
         <desc>Atlanta vs. Cincinnati (Spanish) (11-10-2026 02:26)</desc>
-    </programme>
-    <programme channel="MLS 23" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Austin vs. Nashville (11-10-2026 03:25)</title>
-        <desc>Austin vs. Nashville (11-10-2026 03:25)</desc>
     </programme>
     <programme channel="MLS 23" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Austin vs. Nashville (11-10-2026 03:25)</title>
@@ -3927,10 +3515,6 @@
         <title>Austin vs. Nashville (11-10-2026 03:25)</title>
         <desc>Austin vs. Nashville (11-10-2026 03:25)</desc>
     </programme>
-    <programme channel="MLS 24" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Austin vs. Nashville (Spanish) (11-10-2026 03:25)</title>
-        <desc>Austin vs. Nashville (Spanish) (11-10-2026 03:25)</desc>
-    </programme>
     <programme channel="MLS 24" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Austin vs. Nashville (Spanish) (11-10-2026 03:25)</title>
         <desc>Austin vs. Nashville (Spanish) (11-10-2026 03:25)</desc>
@@ -3958,10 +3542,6 @@
     <programme channel="MLS 24" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Austin vs. Nashville (Spanish) (11-10-2026 03:25)</title>
         <desc>Austin vs. Nashville (Spanish) (11-10-2026 03:25)</desc>
-    </programme>
-    <programme channel="MLS 25" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Minnesota vs. Houston (11-10-2026 03:25)</title>
-        <desc>Minnesota vs. Houston (11-10-2026 03:25)</desc>
     </programme>
     <programme channel="MLS 25" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Minnesota vs. Houston (11-10-2026 03:25)</title>
@@ -3991,10 +3571,6 @@
         <title>Minnesota vs. Houston (11-10-2026 03:25)</title>
         <desc>Minnesota vs. Houston (11-10-2026 03:25)</desc>
     </programme>
-    <programme channel="MLS 26" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Minnesota vs. Houston (Spanish) (11-10-2026 03:25)</title>
-        <desc>Minnesota vs. Houston (Spanish) (11-10-2026 03:25)</desc>
-    </programme>
     <programme channel="MLS 26" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Minnesota vs. Houston (Spanish) (11-10-2026 03:25)</title>
         <desc>Minnesota vs. Houston (Spanish) (11-10-2026 03:25)</desc>
@@ -4022,10 +3598,6 @@
     <programme channel="MLS 26" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Minnesota vs. Houston (Spanish) (11-10-2026 03:25)</title>
         <desc>Minnesota vs. Houston (Spanish) (11-10-2026 03:25)</desc>
-    </programme>
-    <programme channel="MLS 27" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Kansas City vs. Portland (11-10-2026 03:25)</title>
-        <desc>Kansas City vs. Portland (11-10-2026 03:25)</desc>
     </programme>
     <programme channel="MLS 27" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Kansas City vs. Portland (11-10-2026 03:25)</title>
@@ -4055,10 +3627,6 @@
         <title>Kansas City vs. Portland (11-10-2026 03:25)</title>
         <desc>Kansas City vs. Portland (11-10-2026 03:25)</desc>
     </programme>
-    <programme channel="MLS 28" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Kansas City vs. Portland (Spanish) (11-10-2026 03:25)</title>
-        <desc>Kansas City vs. Portland (Spanish) (11-10-2026 03:25)</desc>
-    </programme>
     <programme channel="MLS 28" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Kansas City vs. Portland (Spanish) (11-10-2026 03:25)</title>
         <desc>Kansas City vs. Portland (Spanish) (11-10-2026 03:25)</desc>
@@ -4086,10 +3654,6 @@
     <programme channel="MLS 28" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Kansas City vs. Portland (Spanish) (11-10-2026 03:25)</title>
         <desc>Kansas City vs. Portland (Spanish) (11-10-2026 03:25)</desc>
-    </programme>
-    <programme channel="MLS 29" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Colorado vs. San Jose (11-10-2026 04:25)</title>
-        <desc>Colorado vs. San Jose (11-10-2026 04:25)</desc>
     </programme>
     <programme channel="MLS 29" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Colorado vs. San Jose (11-10-2026 04:25)</title>
@@ -4119,10 +3683,6 @@
         <title>Colorado vs. San Jose (11-10-2026 04:25)</title>
         <desc>Colorado vs. San Jose (11-10-2026 04:25)</desc>
     </programme>
-    <programme channel="MLS 30" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Colorado vs. San Jose (Spanish) (11-10-2026 04:25)</title>
-        <desc>Colorado vs. San Jose (Spanish) (11-10-2026 04:25)</desc>
-    </programme>
     <programme channel="MLS 30" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Colorado vs. San Jose (Spanish) (11-10-2026 04:25)</title>
         <desc>Colorado vs. San Jose (Spanish) (11-10-2026 04:25)</desc>
@@ -4150,10 +3710,6 @@
     <programme channel="MLS 30" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Colorado vs. San Jose (Spanish) (11-10-2026 04:25)</title>
         <desc>Colorado vs. San Jose (Spanish) (11-10-2026 04:25)</desc>
-    </programme>
-    <programme channel="MLS 31" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>LAFC vs. Vancouver (11-10-2026 05:25)</title>
-        <desc>LAFC vs. Vancouver (11-10-2026 05:25)</desc>
     </programme>
     <programme channel="MLS 31" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>LAFC vs. Vancouver (11-10-2026 05:25)</title>
@@ -4183,10 +3739,6 @@
         <title>LAFC vs. Vancouver (11-10-2026 05:25)</title>
         <desc>LAFC vs. Vancouver (11-10-2026 05:25)</desc>
     </programme>
-    <programme channel="MLS 32" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>LAFC vs. Vancouver (Spanish) (11-10-2026 05:25)</title>
-        <desc>LAFC vs. Vancouver (Spanish) (11-10-2026 05:25)</desc>
-    </programme>
     <programme channel="MLS 32" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>LAFC vs. Vancouver (Spanish) (11-10-2026 05:25)</title>
         <desc>LAFC vs. Vancouver (Spanish) (11-10-2026 05:25)</desc>
@@ -4214,10 +3766,6 @@
     <programme channel="MLS 32" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>LAFC vs. Vancouver (Spanish) (11-10-2026 05:25)</title>
         <desc>LAFC vs. Vancouver (Spanish) (11-10-2026 05:25)</desc>
-    </programme>
-    <programme channel="MLS 33" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>St. Louis vs. LA (12-10-2026 01:25)</title>
-        <desc>St. Louis vs. LA (12-10-2026 01:25)</desc>
     </programme>
     <programme channel="MLS 33" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>St. Louis vs. LA (12-10-2026 01:25)</title>
@@ -4247,10 +3795,6 @@
         <title>St. Louis vs. LA (12-10-2026 01:25)</title>
         <desc>St. Louis vs. LA (12-10-2026 01:25)</desc>
     </programme>
-    <programme channel="MLS 34" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>St. Louis vs. LA (Spanish) (12-10-2026 01:25)</title>
-        <desc>St. Louis vs. LA (Spanish) (12-10-2026 01:25)</desc>
-    </programme>
     <programme channel="MLS 34" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>St. Louis vs. LA (Spanish) (12-10-2026 01:25)</title>
         <desc>St. Louis vs. LA (Spanish) (12-10-2026 01:25)</desc>
@@ -4278,10 +3822,6 @@
     <programme channel="MLS 34" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>St. Louis vs. LA (Spanish) (12-10-2026 01:25)</title>
         <desc>St. Louis vs. LA (Spanish) (12-10-2026 01:25)</desc>
-    </programme>
-    <programme channel="MLS 35" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>MLS Wrap_Up (12-10-2026 04:25)</title>
-        <desc>MLS Wrap_Up (12-10-2026 04:25)</desc>
     </programme>
     <programme channel="MLS 35" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>MLS Wrap_Up (12-10-2026 04:25)</title>
@@ -4311,10 +3851,6 @@
         <title>MLS Wrap_Up (12-10-2026 04:25)</title>
         <desc>MLS Wrap_Up (12-10-2026 04:25)</desc>
     </programme>
-    <programme channel="Max FR 01" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Jakub Mensik vs Learner Tien @ Sep 6 07:03</title>
-        <desc>Tennis: Jakub Mensik vs Learner Tien @ Sep 6 07:03</desc>
-    </programme>
     <programme channel="Max FR 01" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Jakub Mensik vs Learner Tien @ Sep 6 07:03</title>
         <desc>Tennis: Jakub Mensik vs Learner Tien @ Sep 6 07:03</desc>
@@ -4342,10 +3878,6 @@
     <programme channel="Max FR 01" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Jakub Mensik vs Learner Tien @ Sep 6 07:03</title>
         <desc>Tennis: Jakub Mensik vs Learner Tien @ Sep 6 07:03</desc>
-    </programme>
-    <programme channel="Max FR 02" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Alexander Zverev vs Alejandro Tabilo @ Sep 6 07:31</title>
-        <desc>Tennis: Alexander Zverev vs Alejandro Tabilo @ Sep 6 07:31</desc>
     </programme>
     <programme channel="Max FR 02" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Alexander Zverev vs Alejandro Tabilo @ Sep 6 07:31</title>
@@ -4375,10 +3907,6 @@
         <title>Tennis: Alexander Zverev vs Alejandro Tabilo @ Sep 6 07:31</title>
         <desc>Tennis: Alexander Zverev vs Alejandro Tabilo @ Sep 6 07:31</desc>
     </programme>
-    <programme channel="Max FR 03" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Moto Racing: France: Course 2 @ Sep 6 13:05</title>
-        <desc>Moto Racing: France: Course 2 @ Sep 6 13:05</desc>
-    </programme>
     <programme channel="Max FR 03" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Moto Racing: France: Course 2 @ Sep 6 13:05</title>
         <desc>Moto Racing: France: Course 2 @ Sep 6 13:05</desc>
@@ -4406,10 +3934,6 @@
     <programme channel="Max FR 03" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Moto Racing: France: Course 2 @ Sep 6 13:05</title>
         <desc>Moto Racing: France: Course 2 @ Sep 6 13:05</desc>
-    </programme>
-    <programme channel="Max FR 04" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Superbike: France: Superpole @ Sep 6 13:55</title>
-        <desc>Superbike: France: Superpole @ Sep 6 13:55</desc>
     </programme>
     <programme channel="Max FR 04" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Superbike: France: Superpole @ Sep 6 13:55</title>
@@ -4439,10 +3963,6 @@
         <title>Superbike: France: Superpole @ Sep 6 13:55</title>
         <desc>Superbike: France: Superpole @ Sep 6 13:55</desc>
     </programme>
-    <programme channel="Max FR 05" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Motocross: Turquie: MX2 – Course 1 @ Sep 6 15:00</title>
-        <desc>Motocross: Turquie: MX2 – Course 1 @ Sep 6 15:00</desc>
-    </programme>
     <programme channel="Max FR 05" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Motocross: Turquie: MX2 – Course 1 @ Sep 6 15:00</title>
         <desc>Motocross: Turquie: MX2 – Course 1 @ Sep 6 15:00</desc>
@@ -4470,10 +3990,6 @@
     <programme channel="Max FR 05" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Motocross: Turquie: MX2 – Course 1 @ Sep 6 15:00</title>
         <desc>Motocross: Turquie: MX2 – Course 1 @ Sep 6 15:00</desc>
-    </programme>
-    <programme channel="Max FR 06" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Superbike: France: SSP – Course 2 @ Sep 6 15:02</title>
-        <desc>Superbike: France: SSP – Course 2 @ Sep 6 15:02</desc>
     </programme>
     <programme channel="Max FR 06" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Superbike: France: SSP – Course 2 @ Sep 6 15:02</title>
@@ -4503,10 +4019,6 @@
         <title>Superbike: France: SSP – Course 2 @ Sep 6 15:02</title>
         <desc>Superbike: France: SSP – Course 2 @ Sep 6 15:02</desc>
     </programme>
-    <programme channel="Max FR 07" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Motocross: Turquie: MXGP – Course 1 @ Sep 6 16:00</title>
-        <desc>Motocross: Turquie: MXGP – Course 1 @ Sep 6 16:00</desc>
-    </programme>
     <programme channel="Max FR 07" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Motocross: Turquie: MXGP – Course 1 @ Sep 6 16:00</title>
         <desc>Motocross: Turquie: MXGP – Course 1 @ Sep 6 16:00</desc>
@@ -4534,10 +4046,6 @@
     <programme channel="Max FR 07" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Motocross: Turquie: MXGP – Course 1 @ Sep 6 16:00</title>
         <desc>Motocross: Turquie: MXGP – Course 1 @ Sep 6 16:00</desc>
-    </programme>
-    <programme channel="Max FR 08" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Superbike: France: Course 1 @ Sep 6 16:12</title>
-        <desc>Superbike: France: Course 1 @ Sep 6 16:12</desc>
     </programme>
     <programme channel="Max FR 08" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Superbike: France: Course 1 @ Sep 6 16:12</title>
@@ -4567,10 +4075,6 @@
         <title>Superbike: France: Course 1 @ Sep 6 16:12</title>
         <desc>Superbike: France: Course 1 @ Sep 6 16:12</desc>
     </programme>
-    <programme channel="Max FR 09" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Sports équestres: Valkenswaard: Saut dobstacles @ Sep 6 16:37</title>
-        <desc>Sports équestres: Valkenswaard: Saut dobstacles @ Sep 6 16:37</desc>
-    </programme>
     <programme channel="Max FR 09" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Sports équestres: Valkenswaard: Saut dobstacles @ Sep 6 16:37</title>
         <desc>Sports équestres: Valkenswaard: Saut dobstacles @ Sep 6 16:37</desc>
@@ -4598,10 +4102,6 @@
     <programme channel="Max FR 09" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Sports équestres: Valkenswaard: Saut dobstacles @ Sep 6 16:37</title>
         <desc>Sports équestres: Valkenswaard: Saut dobstacles @ Sep 6 16:37</desc>
-    </programme>
-    <programme channel="Max FR 10" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Cyclisme: GP Industria & Artigianato @ Sep 6 17:30</title>
-        <desc>Cyclisme: GP Industria & Artigianato @ Sep 6 17:30</desc>
     </programme>
     <programme channel="Max FR 10" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Cyclisme: GP Industria & Artigianato @ Sep 6 17:30</title>
@@ -4631,10 +4131,6 @@
         <title>Cyclisme: GP Industria & Artigianato @ Sep 6 17:30</title>
         <desc>Cyclisme: GP Industria & Artigianato @ Sep 6 17:30</desc>
     </programme>
-    <programme channel="Max FR 11" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Superbike: France: Sportbike – Course 2 @ Sep 6 17:42</title>
-        <desc>Superbike: France: Sportbike – Course 2 @ Sep 6 17:42</desc>
-    </programme>
     <programme channel="Max FR 11" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Superbike: France: Sportbike – Course 2 @ Sep 6 17:42</title>
         <desc>Superbike: France: Sportbike – Course 2 @ Sep 6 17:42</desc>
@@ -4662,10 +4158,6 @@
     <programme channel="Max FR 11" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Superbike: France: Sportbike – Course 2 @ Sep 6 17:42</title>
         <desc>Superbike: France: Sportbike – Course 2 @ Sep 6 17:42</desc>
-    </programme>
-    <programme channel="Max FR 12" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Cyclisme: La Vuelta: 15e étape @ Sep 6 17:45</title>
-        <desc>Cyclisme: La Vuelta: 15e étape @ Sep 6 17:45</desc>
     </programme>
     <programme channel="Max FR 12" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Cyclisme: La Vuelta: 15e étape @ Sep 6 17:45</title>
@@ -4695,10 +4187,6 @@
         <title>Cyclisme: La Vuelta: 15e étape @ Sep 6 17:45</title>
         <desc>Cyclisme: La Vuelta: 15e étape @ Sep 6 17:45</desc>
     </programme>
-    <programme channel="Max FR 13" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Cyclisme: Pointe du Raz Classic F @ Sep 6 18:00</title>
-        <desc>Cyclisme: Pointe du Raz Classic F @ Sep 6 18:00</desc>
-    </programme>
     <programme channel="Max FR 13" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Cyclisme: Pointe du Raz Classic F @ Sep 6 18:00</title>
         <desc>Cyclisme: Pointe du Raz Classic F @ Sep 6 18:00</desc>
@@ -4726,10 +4214,6 @@
     <programme channel="Max FR 13" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Cyclisme: Pointe du Raz Classic F @ Sep 6 18:00</title>
         <desc>Cyclisme: Pointe du Raz Classic F @ Sep 6 18:00</desc>
-    </programme>
-    <programme channel="Max FR 14" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Motocross: Turquie: MX2 – Course 2 @ Sep 6 18:00</title>
-        <desc>Motocross: Turquie: MX2 – Course 2 @ Sep 6 18:00</desc>
     </programme>
     <programme channel="Max FR 14" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Motocross: Turquie: MX2 – Course 2 @ Sep 6 18:00</title>
@@ -4759,10 +4243,6 @@
         <title>Motocross: Turquie: MX2 – Course 2 @ Sep 6 18:00</title>
         <desc>Motocross: Turquie: MX2 – Course 2 @ Sep 6 18:00</desc>
     </programme>
-    <programme channel="Max FR 15" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Motocross: Turquie: MXGP – Course 2 @ Sep 6 19:00</title>
-        <desc>Motocross: Turquie: MXGP – Course 2 @ Sep 6 19:00</desc>
-    </programme>
     <programme channel="Max FR 15" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Motocross: Turquie: MXGP – Course 2 @ Sep 6 19:00</title>
         <desc>Motocross: Turquie: MXGP – Course 2 @ Sep 6 19:00</desc>
@@ -4790,10 +4270,6 @@
     <programme channel="Max FR 15" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Motocross: Turquie: MXGP – Course 2 @ Sep 6 19:00</title>
         <desc>Motocross: Turquie: MXGP – Course 2 @ Sep 6 19:00</desc>
-    </programme>
-    <programme channel="Max FR 16" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Courtside @ Sep 6 19:30</title>
-        <desc>Tennis: Courtside @ Sep 6 19:30</desc>
     </programme>
     <programme channel="Max FR 16" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Courtside @ Sep 6 19:30</title>
@@ -4823,10 +4299,6 @@
         <title>Tennis: Courtside @ Sep 6 19:30</title>
         <desc>Tennis: Courtside @ Sep 6 19:30</desc>
     </programme>
-    <programme channel="Max FR 17" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Ryan Cozad vs Thilo Behrmann @ Sep 6 20:00</title>
-        <desc>Tennis: Ryan Cozad vs Thilo Behrmann @ Sep 6 20:00</desc>
-    </programme>
     <programme channel="Max FR 17" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Ryan Cozad vs Thilo Behrmann @ Sep 6 20:00</title>
         <desc>Tennis: Ryan Cozad vs Thilo Behrmann @ Sep 6 20:00</desc>
@@ -4854,10 +4326,6 @@
     <programme channel="Max FR 17" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Ryan Cozad vs Thilo Behrmann @ Sep 6 20:00</title>
         <desc>Tennis: Ryan Cozad vs Thilo Behrmann @ Sep 6 20:00</desc>
-    </programme>
-    <programme channel="Max FR 18" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Daniel Jovanovski vs Dan Brand @ Sep 6 20:00</title>
-        <desc>Tennis: Daniel Jovanovski vs Dan Brand @ Sep 6 20:00</desc>
     </programme>
     <programme channel="Max FR 18" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Daniel Jovanovski vs Dan Brand @ Sep 6 20:00</title>
@@ -4887,10 +4355,6 @@
         <title>Tennis: Daniel Jovanovski vs Dan Brand @ Sep 6 20:00</title>
         <desc>Tennis: Daniel Jovanovski vs Dan Brand @ Sep 6 20:00</desc>
     </programme>
-    <programme channel="Max FR 19" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Michael Antonius vs Leonardo Storck Franca @ Sep 6 20:00</title>
-        <desc>Tennis: Michael Antonius vs Leonardo Storck Franca @ Sep 6 20:00</desc>
-    </programme>
     <programme channel="Max FR 19" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Michael Antonius vs Leonardo Storck Franca @ Sep 6 20:00</title>
         <desc>Tennis: Michael Antonius vs Leonardo Storck Franca @ Sep 6 20:00</desc>
@@ -4918,10 +4382,6 @@
     <programme channel="Max FR 19" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Michael Antonius vs Leonardo Storck Franca @ Sep 6 20:00</title>
         <desc>Tennis: Michael Antonius vs Leonardo Storck Franca @ Sep 6 20:00</desc>
-    </programme>
-    <programme channel="Max FR 20" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Andrew Johnson vs Arnav Vijay Paparkar @ Sep 6 20:00</title>
-        <desc>Tennis: Andrew Johnson vs Arnav Vijay Paparkar @ Sep 6 20:00</desc>
     </programme>
     <programme channel="Max FR 20" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Andrew Johnson vs Arnav Vijay Paparkar @ Sep 6 20:00</title>
@@ -4951,10 +4411,6 @@
         <title>Tennis: Andrew Johnson vs Arnav Vijay Paparkar @ Sep 6 20:00</title>
         <desc>Tennis: Andrew Johnson vs Arnav Vijay Paparkar @ Sep 6 20:00</desc>
     </programme>
-    <programme channel="Max FR 21" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: M González A Molteni vs P Nouza N Oberleitner @ Sep 6 20:00</title>
-        <desc>Tennis: M González A Molteni vs P Nouza N Oberleitner @ Sep 6 20:00</desc>
-    </programme>
     <programme channel="Max FR 21" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: M González A Molteni vs P Nouza N Oberleitner @ Sep 6 20:00</title>
         <desc>Tennis: M González A Molteni vs P Nouza N Oberleitner @ Sep 6 20:00</desc>
@@ -4982,10 +4438,6 @@
     <programme channel="Max FR 21" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: M González A Molteni vs P Nouza N Oberleitner @ Sep 6 20:00</title>
         <desc>Tennis: M González A Molteni vs P Nouza N Oberleitner @ Sep 6 20:00</desc>
-    </programme>
-    <programme channel="Max FR 22" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Koki Nara vs Mathys Domenc @ Sep 6 20:00</title>
-        <desc>Tennis: Koki Nara vs Mathys Domenc @ Sep 6 20:00</desc>
     </programme>
     <programme channel="Max FR 22" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Koki Nara vs Mathys Domenc @ Sep 6 20:00</title>
@@ -5015,10 +4467,6 @@
         <title>Tennis: Koki Nara vs Mathys Domenc @ Sep 6 20:00</title>
         <desc>Tennis: Koki Nara vs Mathys Domenc @ Sep 6 20:00</desc>
     </programme>
-    <programme channel="Max FR 23" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: US Open: Multiview @ Sep 6 20:00</title>
-        <desc>Tennis: US Open: Multiview @ Sep 6 20:00</desc>
-    </programme>
     <programme channel="Max FR 23" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: US Open: Multiview @ Sep 6 20:00</title>
         <desc>Tennis: US Open: Multiview @ Sep 6 20:00</desc>
@@ -5046,10 +4494,6 @@
     <programme channel="Max FR 23" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: US Open: Multiview @ Sep 6 20:00</title>
         <desc>Tennis: US Open: Multiview @ Sep 6 20:00</desc>
-    </programme>
-    <programme channel="Max FR 24" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Tanishk Konduri vs Jakub Kusy @ Sep 6 20:00</title>
-        <desc>Tennis: Tanishk Konduri vs Jakub Kusy @ Sep 6 20:00</desc>
     </programme>
     <programme channel="Max FR 24" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Tanishk Konduri vs Jakub Kusy @ Sep 6 20:00</title>
@@ -5079,10 +4523,6 @@
         <title>Tennis: Tanishk Konduri vs Jakub Kusy @ Sep 6 20:00</title>
         <desc>Tennis: Tanishk Konduri vs Jakub Kusy @ Sep 6 20:00</desc>
     </programme>
-    <programme channel="Max FR 25" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Maia Ilinca Burcescu vs Yael Saffar @ Sep 6 20:00</title>
-        <desc>Tennis: Maia Ilinca Burcescu vs Yael Saffar @ Sep 6 20:00</desc>
-    </programme>
     <programme channel="Max FR 25" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Maia Ilinca Burcescu vs Yael Saffar @ Sep 6 20:00</title>
         <desc>Tennis: Maia Ilinca Burcescu vs Yael Saffar @ Sep 6 20:00</desc>
@@ -5110,10 +4550,6 @@
     <programme channel="Max FR 25" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Maia Ilinca Burcescu vs Yael Saffar @ Sep 6 20:00</title>
         <desc>Tennis: Maia Ilinca Burcescu vs Yael Saffar @ Sep 6 20:00</desc>
-    </programme>
-    <programme channel="Max FR 26" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Ekaterina Dotsenko vs Nadia Lagaev @ Sep 6 20:00</title>
-        <desc>Tennis: Ekaterina Dotsenko vs Nadia Lagaev @ Sep 6 20:00</desc>
     </programme>
     <programme channel="Max FR 26" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Ekaterina Dotsenko vs Nadia Lagaev @ Sep 6 20:00</title>
@@ -5143,10 +4579,6 @@
         <title>Tennis: Ekaterina Dotsenko vs Nadia Lagaev @ Sep 6 20:00</title>
         <desc>Tennis: Ekaterina Dotsenko vs Nadia Lagaev @ Sep 6 20:00</desc>
     </programme>
-    <programme channel="Max FR 27" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: H Heliövaara H Patten vs M Arnaldi vs J Struff @ Sep 6 20:00</title>
-        <desc>Tennis: H Heliövaara H Patten vs M Arnaldi vs J Struff @ Sep 6 20:00</desc>
-    </programme>
     <programme channel="Max FR 27" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: H Heliövaara H Patten vs M Arnaldi vs J Struff @ Sep 6 20:00</title>
         <desc>Tennis: H Heliövaara H Patten vs M Arnaldi vs J Struff @ Sep 6 20:00</desc>
@@ -5174,10 +4606,6 @@
     <programme channel="Max FR 27" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: H Heliövaara H Patten vs M Arnaldi vs J Struff @ Sep 6 20:00</title>
         <desc>Tennis: H Heliövaara H Patten vs M Arnaldi vs J Struff @ Sep 6 20:00</desc>
-    </programme>
-    <programme channel="Max FR 28" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Jordyn Hazelitt vs Lujza Beviz @ Sep 6 20:00</title>
-        <desc>Tennis: Jordyn Hazelitt vs Lujza Beviz @ Sep 6 20:00</desc>
     </programme>
     <programme channel="Max FR 28" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Jordyn Hazelitt vs Lujza Beviz @ Sep 6 20:00</title>
@@ -5207,10 +4635,6 @@
         <title>Tennis: Jordyn Hazelitt vs Lujza Beviz @ Sep 6 20:00</title>
         <desc>Tennis: Jordyn Hazelitt vs Lujza Beviz @ Sep 6 20:00</desc>
     </programme>
-    <programme channel="Max FR 29" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Renee Alame vs Kristina Penickova @ Sep 6 20:00</title>
-        <desc>Tennis: Renee Alame vs Kristina Penickova @ Sep 6 20:00</desc>
-    </programme>
     <programme channel="Max FR 29" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Renee Alame vs Kristina Penickova @ Sep 6 20:00</title>
         <desc>Tennis: Renee Alame vs Kristina Penickova @ Sep 6 20:00</desc>
@@ -5238,10 +4662,6 @@
     <programme channel="Max FR 29" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Renee Alame vs Kristina Penickova @ Sep 6 20:00</title>
         <desc>Tennis: Renee Alame vs Kristina Penickova @ Sep 6 20:00</desc>
-    </programme>
-    <programme channel="Max FR 30" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: B Carpico N Filin vs M Melo J Peers @ Sep 6 20:00</title>
-        <desc>Tennis: B Carpico N Filin vs M Melo J Peers @ Sep 6 20:00</desc>
     </programme>
     <programme channel="Max FR 30" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: B Carpico N Filin vs M Melo J Peers @ Sep 6 20:00</title>
@@ -5271,10 +4691,6 @@
         <title>Tennis: B Carpico N Filin vs M Melo J Peers @ Sep 6 20:00</title>
         <desc>Tennis: B Carpico N Filin vs M Melo J Peers @ Sep 6 20:00</desc>
     </programme>
-    <programme channel="Max FR 31" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Yu Jun Lin vs Kokona Ishii @ Sep 6 20:00</title>
-        <desc>Tennis: Yu Jun Lin vs Kokona Ishii @ Sep 6 20:00</desc>
-    </programme>
     <programme channel="Max FR 31" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Yu Jun Lin vs Kokona Ishii @ Sep 6 20:00</title>
         <desc>Tennis: Yu Jun Lin vs Kokona Ishii @ Sep 6 20:00</desc>
@@ -5302,10 +4718,6 @@
     <programme channel="Max FR 31" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Yu Jun Lin vs Kokona Ishii @ Sep 6 20:00</title>
         <desc>Tennis: Yu Jun Lin vs Kokona Ishii @ Sep 6 20:00</desc>
-    </programme>
-    <programme channel="Max FR 32" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Tereza Hermanova vs Paola Pinera Celorio @ Sep 6 20:00</title>
-        <desc>Tennis: Tereza Hermanova vs Paola Pinera Celorio @ Sep 6 20:00</desc>
     </programme>
     <programme channel="Max FR 32" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Tereza Hermanova vs Paola Pinera Celorio @ Sep 6 20:00</title>
@@ -5335,10 +4747,6 @@
         <title>Tennis: Tereza Hermanova vs Paola Pinera Celorio @ Sep 6 20:00</title>
         <desc>Tennis: Tereza Hermanova vs Paola Pinera Celorio @ Sep 6 20:00</desc>
     </programme>
-    <programme channel="Max FR 33" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Aryna Sabalenka vs Taylor Townsend @ Sep 6 20:30</title>
-        <desc>Tennis: Aryna Sabalenka vs Taylor Townsend @ Sep 6 20:30</desc>
-    </programme>
     <programme channel="Max FR 33" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Aryna Sabalenka vs Taylor Townsend @ Sep 6 20:30</title>
         <desc>Tennis: Aryna Sabalenka vs Taylor Townsend @ Sep 6 20:30</desc>
@@ -5366,10 +4774,6 @@
     <programme channel="Max FR 33" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Aryna Sabalenka vs Taylor Townsend @ Sep 6 20:30</title>
         <desc>Tennis: Aryna Sabalenka vs Taylor Townsend @ Sep 6 20:30</desc>
-    </programme>
-    <programme channel="Max FR 34" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Cyclisme: Les Rois de la Pédale: Le débrief @ Sep 6 20:30</title>
-        <desc>Cyclisme: Les Rois de la Pédale: Le débrief @ Sep 6 20:30</desc>
     </programme>
     <programme channel="Max FR 34" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Cyclisme: Les Rois de la Pédale: Le débrief @ Sep 6 20:30</title>
@@ -5399,10 +4803,6 @@
         <title>Cyclisme: Les Rois de la Pédale: Le débrief @ Sep 6 20:30</title>
         <desc>Cyclisme: Les Rois de la Pédale: Le débrief @ Sep 6 20:30</desc>
     </programme>
-    <programme channel="Max FR 35" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Annika Penickova vs Victoria Luiza Barros @ Sep 6 22:30</title>
-        <desc>Tennis: Annika Penickova vs Victoria Luiza Barros @ Sep 6 22:30</desc>
-    </programme>
     <programme channel="Max FR 35" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Annika Penickova vs Victoria Luiza Barros @ Sep 6 22:30</title>
         <desc>Tennis: Annika Penickova vs Victoria Luiza Barros @ Sep 6 22:30</desc>
@@ -5430,10 +4830,6 @@
     <programme channel="Max FR 35" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Annika Penickova vs Victoria Luiza Barros @ Sep 6 22:30</title>
         <desc>Tennis: Annika Penickova vs Victoria Luiza Barros @ Sep 6 22:30</desc>
-    </programme>
-    <programme channel="Max FR 36" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Ntungamili Raguin vs Simone Massellani @ Sep 6 22:30</title>
-        <desc>Tennis: Ntungamili Raguin vs Simone Massellani @ Sep 6 22:30</desc>
     </programme>
     <programme channel="Max FR 36" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Ntungamili Raguin vs Simone Massellani @ Sep 6 22:30</title>
@@ -5463,10 +4859,6 @@
         <title>Tennis: Ntungamili Raguin vs Simone Massellani @ Sep 6 22:30</title>
         <desc>Tennis: Ntungamili Raguin vs Simone Massellani @ Sep 6 22:30</desc>
     </programme>
-    <programme channel="Max FR 37" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Antonina Sushkova vs Yu Chen Lin @ Sep 6 22:30</title>
-        <desc>Tennis: Antonina Sushkova vs Yu Chen Lin @ Sep 6 22:30</desc>
-    </programme>
     <programme channel="Max FR 37" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Antonina Sushkova vs Yu Chen Lin @ Sep 6 22:30</title>
         <desc>Tennis: Antonina Sushkova vs Yu Chen Lin @ Sep 6 22:30</desc>
@@ -5494,10 +4886,6 @@
     <programme channel="Max FR 37" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Antonina Sushkova vs Yu Chen Lin @ Sep 6 22:30</title>
         <desc>Tennis: Antonina Sushkova vs Yu Chen Lin @ Sep 6 22:30</desc>
-    </programme>
-    <programme channel="Max FR 38" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Daniel Jade vs Mason Vaughan @ Sep 6 22:30</title>
-        <desc>Tennis: Daniel Jade vs Mason Vaughan @ Sep 6 22:30</desc>
     </programme>
     <programme channel="Max FR 38" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Daniel Jade vs Mason Vaughan @ Sep 6 22:30</title>
@@ -5527,10 +4915,6 @@
         <title>Tennis: Daniel Jade vs Mason Vaughan @ Sep 6 22:30</title>
         <desc>Tennis: Daniel Jade vs Mason Vaughan @ Sep 6 22:30</desc>
     </programme>
-    <programme channel="Max FR 39" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Dante Pagani vs Nicolas Baena @ Sep 6 22:30</title>
-        <desc>Tennis: Dante Pagani vs Nicolas Baena @ Sep 6 22:30</desc>
-    </programme>
     <programme channel="Max FR 39" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Dante Pagani vs Nicolas Baena @ Sep 6 22:30</title>
         <desc>Tennis: Dante Pagani vs Nicolas Baena @ Sep 6 22:30</desc>
@@ -5558,10 +4942,6 @@
     <programme channel="Max FR 39" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Dante Pagani vs Nicolas Baena @ Sep 6 22:30</title>
         <desc>Tennis: Dante Pagani vs Nicolas Baena @ Sep 6 22:30</desc>
-    </programme>
-    <programme channel="Max FR 40" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Yushan Shao vs Sofia Meabe @ Sep 6 22:30</title>
-        <desc>Tennis: Yushan Shao vs Sofia Meabe @ Sep 6 22:30</desc>
     </programme>
     <programme channel="Max FR 40" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Yushan Shao vs Sofia Meabe @ Sep 6 22:30</title>
@@ -5591,10 +4971,6 @@
         <title>Tennis: Yushan Shao vs Sofia Meabe @ Sep 6 22:30</title>
         <desc>Tennis: Yushan Shao vs Sofia Meabe @ Sep 6 22:30</desc>
     </programme>
-    <programme channel="Max FR 41" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Marta Kostyuk vs Linda Nosková @ Sep 6 22:30</title>
-        <desc>Tennis: Marta Kostyuk vs Linda Nosková @ Sep 6 22:30</desc>
-    </programme>
     <programme channel="Max FR 41" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Marta Kostyuk vs Linda Nosková @ Sep 6 22:30</title>
         <desc>Tennis: Marta Kostyuk vs Linda Nosková @ Sep 6 22:30</desc>
@@ -5622,10 +4998,6 @@
     <programme channel="Max FR 41" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Marta Kostyuk vs Linda Nosková @ Sep 6 22:30</title>
         <desc>Tennis: Marta Kostyuk vs Linda Nosková @ Sep 6 22:30</desc>
-    </programme>
-    <programme channel="Max FR 42" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Raffaele Ciurnelli vs Jordan Lee @ Sep 6 22:30</title>
-        <desc>Tennis: Raffaele Ciurnelli vs Jordan Lee @ Sep 6 22:30</desc>
     </programme>
     <programme channel="Max FR 42" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Raffaele Ciurnelli vs Jordan Lee @ Sep 6 22:30</title>
@@ -5655,10 +5027,6 @@
         <title>Tennis: Raffaele Ciurnelli vs Jordan Lee @ Sep 6 22:30</title>
         <desc>Tennis: Raffaele Ciurnelli vs Jordan Lee @ Sep 6 22:30</desc>
     </programme>
-    <programme channel="Max FR 43" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Endurance Auto: Lone Star Le Mans: Course @ Sep 6 22:30</title>
-        <desc>Endurance Auto: Lone Star Le Mans: Course @ Sep 6 22:30</desc>
-    </programme>
     <programme channel="Max FR 43" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Endurance Auto: Lone Star Le Mans: Course @ Sep 6 22:30</title>
         <desc>Endurance Auto: Lone Star Le Mans: Course @ Sep 6 22:30</desc>
@@ -5686,10 +5054,6 @@
     <programme channel="Max FR 43" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Endurance Auto: Lone Star Le Mans: Course @ Sep 6 22:30</title>
         <desc>Endurance Auto: Lone Star Le Mans: Course @ Sep 6 22:30</desc>
-    </programme>
-    <programme channel="Max FR 44" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Thara Gowda vs Emily Victoria Eigelsbach @ Sep 6 22:30</title>
-        <desc>Tennis: Thara Gowda vs Emily Victoria Eigelsbach @ Sep 6 22:30</desc>
     </programme>
     <programme channel="Max FR 44" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Thara Gowda vs Emily Victoria Eigelsbach @ Sep 6 22:30</title>
@@ -5719,10 +5083,6 @@
         <title>Tennis: Thara Gowda vs Emily Victoria Eigelsbach @ Sep 6 22:30</title>
         <desc>Tennis: Thara Gowda vs Emily Victoria Eigelsbach @ Sep 6 22:30</desc>
     </programme>
-    <programme channel="Max FR 45" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: A Muhammad F Stollár vs E Hozumi A Klepac @ Sep 6 22:30</title>
-        <desc>Tennis: A Muhammad F Stollár vs E Hozumi A Klepac @ Sep 6 22:30</desc>
-    </programme>
     <programme channel="Max FR 45" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: A Muhammad F Stollár vs E Hozumi A Klepac @ Sep 6 22:30</title>
         <desc>Tennis: A Muhammad F Stollár vs E Hozumi A Klepac @ Sep 6 22:30</desc>
@@ -5750,10 +5110,6 @@
     <programme channel="Max FR 45" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: A Muhammad F Stollár vs E Hozumi A Klepac @ Sep 6 22:30</title>
         <desc>Tennis: A Muhammad F Stollár vs E Hozumi A Klepac @ Sep 6 22:30</desc>
-    </programme>
-    <programme channel="Max FR 46" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Kayden Colombo vs Matei Victor Chelemen @ Sep 6 22:30</title>
-        <desc>Tennis: Kayden Colombo vs Matei Victor Chelemen @ Sep 6 22:30</desc>
     </programme>
     <programme channel="Max FR 46" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Kayden Colombo vs Matei Victor Chelemen @ Sep 6 22:30</title>
@@ -5783,10 +5139,6 @@
         <title>Tennis: Kayden Colombo vs Matei Victor Chelemen @ Sep 6 22:30</title>
         <desc>Tennis: Kayden Colombo vs Matei Victor Chelemen @ Sep 6 22:30</desc>
     </programme>
-    <programme channel="Max FR 47" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Anna Pushkareva vs Shristi Selvan @ Sep 6 22:30</title>
-        <desc>Tennis: Anna Pushkareva vs Shristi Selvan @ Sep 6 22:30</desc>
-    </programme>
     <programme channel="Max FR 47" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Anna Pushkareva vs Shristi Selvan @ Sep 6 22:30</title>
         <desc>Tennis: Anna Pushkareva vs Shristi Selvan @ Sep 6 22:30</desc>
@@ -5814,10 +5166,6 @@
     <programme channel="Max FR 47" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Anna Pushkareva vs Shristi Selvan @ Sep 6 22:30</title>
         <desc>Tennis: Anna Pushkareva vs Shristi Selvan @ Sep 6 22:30</desc>
-    </programme>
-    <programme channel="Max FR 48" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: T Maria Z Sönmez vs A Danilina A Krunic @ Sep 6 22:30</title>
-        <desc>Tennis: T Maria Z Sönmez vs A Danilina A Krunic @ Sep 6 22:30</desc>
     </programme>
     <programme channel="Max FR 48" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: T Maria Z Sönmez vs A Danilina A Krunic @ Sep 6 22:30</title>
@@ -5847,10 +5195,6 @@
         <title>Tennis: T Maria Z Sönmez vs A Danilina A Krunic @ Sep 6 22:30</title>
         <desc>Tennis: T Maria Z Sönmez vs A Danilina A Krunic @ Sep 6 22:30</desc>
     </programme>
-    <programme channel="Max FR 49" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: US Open @ Sep 6 22:30</title>
-        <desc>Tennis: US Open @ Sep 6 22:30</desc>
-    </programme>
     <programme channel="Max FR 49" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: US Open @ Sep 6 22:30</title>
         <desc>Tennis: US Open @ Sep 6 22:30</desc>
@@ -5878,10 +5222,6 @@
     <programme channel="Max FR 49" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: US Open @ Sep 6 22:30</title>
         <desc>Tennis: US Open @ Sep 6 22:30</desc>
-    </programme>
-    <programme channel="Max FR 50" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Allison Wang vs Mariia Makarova @ Sep 6 22:30</title>
-        <desc>Tennis: Allison Wang vs Mariia Makarova @ Sep 6 22:30</desc>
     </programme>
     <programme channel="Max FR 50" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Allison Wang vs Mariia Makarova @ Sep 6 22:30</title>
@@ -5911,10 +5251,6 @@
         <title>Tennis: Allison Wang vs Mariia Makarova @ Sep 6 22:30</title>
         <desc>Tennis: Allison Wang vs Mariia Makarova @ Sep 6 22:30</desc>
     </programme>
-    <programme channel="Max FR 51" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Snooker: Mark Selby vs Jak Jones @ Sep 6 23:00</title>
-        <desc>Snooker: Mark Selby vs Jak Jones @ Sep 6 23:00</desc>
-    </programme>
     <programme channel="Max FR 51" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Snooker: Mark Selby vs Jak Jones @ Sep 6 23:00</title>
         <desc>Snooker: Mark Selby vs Jak Jones @ Sep 6 23:00</desc>
@@ -5942,10 +5278,6 @@
     <programme channel="Max FR 51" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Snooker: Mark Selby vs Jak Jones @ Sep 6 23:00</title>
         <desc>Snooker: Mark Selby vs Jak Jones @ Sep 6 23:00</desc>
-    </programme>
-    <programme channel="Max FR 52" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Tommy Paul vs Carlos Alcaraz @ Sep 6 23:00</title>
-        <desc>Tennis: Tommy Paul vs Carlos Alcaraz @ Sep 6 23:00</desc>
     </programme>
     <programme channel="Max FR 52" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Tommy Paul vs Carlos Alcaraz @ Sep 6 23:00</title>
@@ -5975,10 +5307,6 @@
         <title>Tennis: Tommy Paul vs Carlos Alcaraz @ Sep 6 23:00</title>
         <desc>Tennis: Tommy Paul vs Carlos Alcaraz @ Sep 6 23:00</desc>
     </programme>
-    <programme channel="Max FR 53" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Sol Ailin Larraya Guidi vs Natalie Kha @ Sep 7 01:00</title>
-        <desc>Tennis: Sol Ailin Larraya Guidi vs Natalie Kha @ Sep 7 01:00</desc>
-    </programme>
     <programme channel="Max FR 53" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Sol Ailin Larraya Guidi vs Natalie Kha @ Sep 7 01:00</title>
         <desc>Tennis: Sol Ailin Larraya Guidi vs Natalie Kha @ Sep 7 01:00</desc>
@@ -6006,10 +5334,6 @@
     <programme channel="Max FR 53" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Sol Ailin Larraya Guidi vs Natalie Kha @ Sep 7 01:00</title>
         <desc>Tennis: Sol Ailin Larraya Guidi vs Natalie Kha @ Sep 7 01:00</desc>
-    </programme>
-    <programme channel="Max FR 54" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: A Pavlásek P Rikl vs J Cash L Glasspool @ Sep 7 01:00</title>
-        <desc>Tennis: A Pavlásek P Rikl vs J Cash L Glasspool @ Sep 7 01:00</desc>
     </programme>
     <programme channel="Max FR 54" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: A Pavlásek P Rikl vs J Cash L Glasspool @ Sep 7 01:00</title>
@@ -6039,10 +5363,6 @@
         <title>Tennis: A Pavlásek P Rikl vs J Cash L Glasspool @ Sep 7 01:00</title>
         <desc>Tennis: A Pavlásek P Rikl vs J Cash L Glasspool @ Sep 7 01:00</desc>
     </programme>
-    <programme channel="Max FR 55" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: L Miedler M Polmans vs R Cash A Erler @ Sep 7 01:00</title>
-        <desc>Tennis: L Miedler M Polmans vs R Cash A Erler @ Sep 7 01:00</desc>
-    </programme>
     <programme channel="Max FR 55" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: L Miedler M Polmans vs R Cash A Erler @ Sep 7 01:00</title>
         <desc>Tennis: L Miedler M Polmans vs R Cash A Erler @ Sep 7 01:00</desc>
@@ -6070,10 +5390,6 @@
     <programme channel="Max FR 55" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: L Miedler M Polmans vs R Cash A Erler @ Sep 7 01:00</title>
         <desc>Tennis: L Miedler M Polmans vs R Cash A Erler @ Sep 7 01:00</desc>
-    </programme>
-    <programme channel="Max FR 56" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Mark Ceban vs Yoshihiro Sakurai @ Sep 7 01:00</title>
-        <desc>Tennis: Mark Ceban vs Yoshihiro Sakurai @ Sep 7 01:00</desc>
     </programme>
     <programme channel="Max FR 56" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Mark Ceban vs Yoshihiro Sakurai @ Sep 7 01:00</title>
@@ -6103,10 +5419,6 @@
         <title>Tennis: Mark Ceban vs Yoshihiro Sakurai @ Sep 7 01:00</title>
         <desc>Tennis: Mark Ceban vs Yoshihiro Sakurai @ Sep 7 01:00</desc>
     </programme>
-    <programme channel="Max FR 57" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Vincent Jakob Reisach vs Vihaan Reddy @ Sep 7 01:00</title>
-        <desc>Tennis: Vincent Jakob Reisach vs Vihaan Reddy @ Sep 7 01:00</desc>
-    </programme>
     <programme channel="Max FR 57" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Vincent Jakob Reisach vs Vihaan Reddy @ Sep 7 01:00</title>
         <desc>Tennis: Vincent Jakob Reisach vs Vihaan Reddy @ Sep 7 01:00</desc>
@@ -6134,10 +5446,6 @@
     <programme channel="Max FR 57" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Vincent Jakob Reisach vs Vihaan Reddy @ Sep 7 01:00</title>
         <desc>Tennis: Vincent Jakob Reisach vs Vihaan Reddy @ Sep 7 01:00</desc>
-    </programme>
-    <programme channel="Max FR 58" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: H Dart M Lumsden vs C Bucsa N Melichar Martinez @ Sep 7 01:00</title>
-        <desc>Tennis: H Dart M Lumsden vs C Bucsa N Melichar Martinez @ Sep 7 01:00</desc>
     </programme>
     <programme channel="Max FR 58" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: H Dart M Lumsden vs C Bucsa N Melichar Martinez @ Sep 7 01:00</title>
@@ -6167,10 +5475,6 @@
         <title>Tennis: H Dart M Lumsden vs C Bucsa N Melichar Martinez @ Sep 7 01:00</title>
         <desc>Tennis: H Dart M Lumsden vs C Bucsa N Melichar Martinez @ Sep 7 01:00</desc>
     </programme>
-    <programme channel="Max FR 59" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: H Su Wei J Ostapenko vs M Bouzková S Sorribes @ Sep 7 01:00</title>
-        <desc>Tennis: H Su Wei J Ostapenko vs M Bouzková S Sorribes @ Sep 7 01:00</desc>
-    </programme>
     <programme channel="Max FR 59" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: H Su Wei J Ostapenko vs M Bouzková S Sorribes @ Sep 7 01:00</title>
         <desc>Tennis: H Su Wei J Ostapenko vs M Bouzková S Sorribes @ Sep 7 01:00</desc>
@@ -6198,10 +5502,6 @@
     <programme channel="Max FR 59" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: H Su Wei J Ostapenko vs M Bouzková S Sorribes @ Sep 7 01:00</title>
         <desc>Tennis: H Su Wei J Ostapenko vs M Bouzková S Sorribes @ Sep 7 01:00</desc>
-    </programme>
-    <programme channel="Max FR 60" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Clemence Mercier vs Anita Tu @ Sep 7 01:00</title>
-        <desc>Tennis: Clemence Mercier vs Anita Tu @ Sep 7 01:00</desc>
     </programme>
     <programme channel="Max FR 60" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Clemence Mercier vs Anita Tu @ Sep 7 01:00</title>
@@ -6231,10 +5531,6 @@
         <title>Tennis: Clemence Mercier vs Anita Tu @ Sep 7 01:00</title>
         <desc>Tennis: Clemence Mercier vs Anita Tu @ Sep 7 01:00</desc>
     </programme>
-    <programme channel="Max FR 61" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Xinran Sun vs Alisa Terentyeva @ Sep 7 01:00</title>
-        <desc>Tennis: Xinran Sun vs Alisa Terentyeva @ Sep 7 01:00</desc>
-    </programme>
     <programme channel="Max FR 61" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Xinran Sun vs Alisa Terentyeva @ Sep 7 01:00</title>
         <desc>Tennis: Xinran Sun vs Alisa Terentyeva @ Sep 7 01:00</desc>
@@ -6262,10 +5558,6 @@
     <programme channel="Max FR 61" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Xinran Sun vs Alisa Terentyeva @ Sep 7 01:00</title>
         <desc>Tennis: Xinran Sun vs Alisa Terentyeva @ Sep 7 01:00</desc>
-    </programme>
-    <programme channel="Max FR 62" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Juan Miguel Bolivar Idarraga vs Valentin Gonzalez Galino @ Sep 7 01:00</title>
-        <desc>Tennis: Juan Miguel Bolivar Idarraga vs Valentin Gonzalez Galino @ Sep 7 01:00</desc>
     </programme>
     <programme channel="Max FR 62" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Juan Miguel Bolivar Idarraga vs Valentin Gonzalez Galino @ Sep 7 01:00</title>
@@ -6295,10 +5587,6 @@
         <title>Tennis: Juan Miguel Bolivar Idarraga vs Valentin Gonzalez Galino @ Sep 7 01:00</title>
         <desc>Tennis: Juan Miguel Bolivar Idarraga vs Valentin Gonzalez Galino @ Sep 7 01:00</desc>
     </programme>
-    <programme channel="Max FR 63" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Navneet Raghuram vs Kai Thompson @ Sep 7 01:00</title>
-        <desc>Tennis: Navneet Raghuram vs Kai Thompson @ Sep 7 01:00</desc>
-    </programme>
     <programme channel="Max FR 63" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Navneet Raghuram vs Kai Thompson @ Sep 7 01:00</title>
         <desc>Tennis: Navneet Raghuram vs Kai Thompson @ Sep 7 01:00</desc>
@@ -6326,10 +5614,6 @@
     <programme channel="Max FR 63" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Navneet Raghuram vs Kai Thompson @ Sep 7 01:00</title>
         <desc>Tennis: Navneet Raghuram vs Kai Thompson @ Sep 7 01:00</desc>
-    </programme>
-    <programme channel="Max FR 64" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Daniil Medvedev vs Frances Tiafoe @ Sep 7 01:00</title>
-        <desc>Tennis: Daniil Medvedev vs Frances Tiafoe @ Sep 7 01:00</desc>
     </programme>
     <programme channel="Max FR 64" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Daniil Medvedev vs Frances Tiafoe @ Sep 7 01:00</title>
@@ -6359,10 +5643,6 @@
         <title>Tennis: Daniil Medvedev vs Frances Tiafoe @ Sep 7 01:00</title>
         <desc>Tennis: Daniil Medvedev vs Frances Tiafoe @ Sep 7 01:00</desc>
     </programme>
-    <programme channel="Max FR 65" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Alex Michelsen vs Tomás Etcheverry @ Sep 7 01:00</title>
-        <desc>Tennis: Alex Michelsen vs Tomás Etcheverry @ Sep 7 01:00</desc>
-    </programme>
     <programme channel="Max FR 65" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Alex Michelsen vs Tomás Etcheverry @ Sep 7 01:00</title>
         <desc>Tennis: Alex Michelsen vs Tomás Etcheverry @ Sep 7 01:00</desc>
@@ -6390,10 +5670,6 @@
     <programme channel="Max FR 65" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Alex Michelsen vs Tomás Etcheverry @ Sep 7 01:00</title>
         <desc>Tennis: Alex Michelsen vs Tomás Etcheverry @ Sep 7 01:00</desc>
-    </programme>
-    <programme channel="Max FR 66" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Luis Guto Miguel vs Daniel Malacek @ Sep 7 01:00</title>
-        <desc>Tennis: Luis Guto Miguel vs Daniel Malacek @ Sep 7 01:00</desc>
     </programme>
     <programme channel="Max FR 66" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Luis Guto Miguel vs Daniel Malacek @ Sep 7 01:00</title>
@@ -6423,10 +5699,6 @@
         <title>Tennis: Luis Guto Miguel vs Daniel Malacek @ Sep 7 01:00</title>
         <desc>Tennis: Luis Guto Miguel vs Daniel Malacek @ Sep 7 01:00</desc>
     </programme>
-    <programme channel="Max FR 67" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Ilary Pistola vs Anna Pircher @ Sep 7 01:00</title>
-        <desc>Tennis: Ilary Pistola vs Anna Pircher @ Sep 7 01:00</desc>
-    </programme>
     <programme channel="Max FR 67" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Ilary Pistola vs Anna Pircher @ Sep 7 01:00</title>
         <desc>Tennis: Ilary Pistola vs Anna Pircher @ Sep 7 01:00</desc>
@@ -6454,10 +5726,6 @@
     <programme channel="Max FR 67" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: Ilary Pistola vs Anna Pircher @ Sep 7 01:00</title>
         <desc>Tennis: Ilary Pistola vs Anna Pircher @ Sep 7 01:00</desc>
-    </programme>
-    <programme channel="Max FR 68" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Eurosport Tennis Club @ Sep 7 02:00</title>
-        <desc>Tennis: Eurosport Tennis Club @ Sep 7 02:00</desc>
     </programme>
     <programme channel="Max FR 68" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Eurosport Tennis Club @ Sep 7 02:00</title>
@@ -6487,10 +5755,6 @@
         <title>Tennis: Eurosport Tennis Club @ Sep 7 02:00</title>
         <desc>Tennis: Eurosport Tennis Club @ Sep 7 02:00</desc>
     </programme>
-    <programme channel="Max FR 69" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: N Fossa Huergo T Korpatsch vs C Hao Ching M Joint @ Sep 7 03:30</title>
-        <desc>Tennis: N Fossa Huergo T Korpatsch vs C Hao Ching M Joint @ Sep 7 03:30</desc>
-    </programme>
     <programme channel="Max FR 69" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: N Fossa Huergo T Korpatsch vs C Hao Ching M Joint @ Sep 7 03:30</title>
         <desc>Tennis: N Fossa Huergo T Korpatsch vs C Hao Ching M Joint @ Sep 7 03:30</desc>
@@ -6518,10 +5782,6 @@
     <programme channel="Max FR 69" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Tennis: N Fossa Huergo T Korpatsch vs C Hao Ching M Joint @ Sep 7 03:30</title>
         <desc>Tennis: N Fossa Huergo T Korpatsch vs C Hao Ching M Joint @ Sep 7 03:30</desc>
-    </programme>
-    <programme channel="Max FR 70" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Tennis: Jessica Pegula vs Sorana Cîrstea @ Sep 7 03:30</title>
-        <desc>Tennis: Jessica Pegula vs Sorana Cîrstea @ Sep 7 03:30</desc>
     </programme>
     <programme channel="Max FR 70" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Tennis: Jessica Pegula vs Sorana Cîrstea @ Sep 7 03:30</title>
@@ -6551,10 +5811,6 @@
         <title>Tennis: Jessica Pegula vs Sorana Cîrstea @ Sep 7 03:30</title>
         <desc>Tennis: Jessica Pegula vs Sorana Cîrstea @ Sep 7 03:30</desc>
     </programme>
-    <programme channel="Nba 01" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Dallas Mavericks vs Houston Rockets @ Oct 9 15:00</title>
-        <desc>Dallas Mavericks vs Houston Rockets @ Oct 9 15:00</desc>
-    </programme>
     <programme channel="Nba 01" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Dallas Mavericks vs Houston Rockets @ Oct 9 15:00</title>
         <desc>Dallas Mavericks vs Houston Rockets @ Oct 9 15:00</desc>
@@ -6582,10 +5838,6 @@
     <programme channel="Nba 01" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Dallas Mavericks vs Houston Rockets @ Oct 9 15:00</title>
         <desc>Dallas Mavericks vs Houston Rockets @ Oct 9 15:00</desc>
-    </programme>
-    <programme channel="Nba 02" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Chicago Bulls vs Memphis Grizzlies @ Oct 10 03:00</title>
-        <desc>Chicago Bulls vs Memphis Grizzlies @ Oct 10 03:00</desc>
     </programme>
     <programme channel="Nba 02" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Chicago Bulls vs Memphis Grizzlies @ Oct 10 03:00</title>
@@ -6615,10 +5867,6 @@
         <title>Chicago Bulls vs Memphis Grizzlies @ Oct 10 03:00</title>
         <desc>Chicago Bulls vs Memphis Grizzlies @ Oct 10 03:00</desc>
     </programme>
-    <programme channel="Nba 03" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Brooklyn Nets vs Philadelphia 76ers @ Oct 9 02:30</title>
-        <desc>Brooklyn Nets vs Philadelphia 76ers @ Oct 9 02:30</desc>
-    </programme>
     <programme channel="Nba 03" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Brooklyn Nets vs Philadelphia 76ers @ Oct 9 02:30</title>
         <desc>Brooklyn Nets vs Philadelphia 76ers @ Oct 9 02:30</desc>
@@ -6646,10 +5894,6 @@
     <programme channel="Nba 03" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Brooklyn Nets vs Philadelphia 76ers @ Oct 9 02:30</title>
         <desc>Brooklyn Nets vs Philadelphia 76ers @ Oct 9 02:30</desc>
-    </programme>
-    <programme channel="Nba 04" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>New York Knicks vs Washington Wizards @ Oct 9 02:30</title>
-        <desc>New York Knicks vs Washington Wizards @ Oct 9 02:30</desc>
     </programme>
     <programme channel="Nba 04" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>New York Knicks vs Washington Wizards @ Oct 9 02:30</title>
@@ -6679,10 +5923,6 @@
         <title>New York Knicks vs Washington Wizards @ Oct 9 02:30</title>
         <desc>New York Knicks vs Washington Wizards @ Oct 9 02:30</desc>
     </programme>
-    <programme channel="Nba 05" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>San Antonio Spurs vs Atlanta Hawks @ Oct 9 03:00</title>
-        <desc>San Antonio Spurs vs Atlanta Hawks @ Oct 9 03:00</desc>
-    </programme>
     <programme channel="Nba 05" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>San Antonio Spurs vs Atlanta Hawks @ Oct 9 03:00</title>
         <desc>San Antonio Spurs vs Atlanta Hawks @ Oct 9 03:00</desc>
@@ -6710,10 +5950,6 @@
     <programme channel="Nba 05" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>San Antonio Spurs vs Atlanta Hawks @ Oct 9 03:00</title>
         <desc>San Antonio Spurs vs Atlanta Hawks @ Oct 9 03:00</desc>
-    </programme>
-    <programme channel="Nba 06" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Los Angeles Lakers vs Sacramento Kings @ Oct 9 05:30</title>
-        <desc>Los Angeles Lakers vs Sacramento Kings @ Oct 9 05:30</desc>
     </programme>
     <programme channel="Nba 06" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Los Angeles Lakers vs Sacramento Kings @ Oct 9 05:30</title>
@@ -6743,10 +5979,6 @@
         <title>Los Angeles Lakers vs Sacramento Kings @ Oct 9 05:30</title>
         <desc>Los Angeles Lakers vs Sacramento Kings @ Oct 9 05:30</desc>
     </programme>
-    <programme channel="Nba 07" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Programme à communiquer </title>
-        <desc>Programme à communiquer </desc>
-    </programme>
     <programme channel="Nba 07" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Programme à communiquer </title>
         <desc>Programme à communiquer </desc>
@@ -6772,10 +6004,6 @@
         <desc>Programme à communiquer </desc>
     </programme>
     <programme channel="Nba 07" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Programme à communiquer </title>
-        <desc>Programme à communiquer </desc>
-    </programme>
-    <programme channel="Nba 08" start="20261010150000 +0000" stop="20261010170000 +0000">
         <title>Programme à communiquer </title>
         <desc>Programme à communiquer </desc>
     </programme>
@@ -6807,10 +6035,6 @@
         <title>Programme à communiquer </title>
         <desc>Programme à communiquer </desc>
     </programme>
-    <programme channel="Nba 09" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Programme à communiquer </title>
-        <desc>Programme à communiquer </desc>
-    </programme>
     <programme channel="Nba 09" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Programme à communiquer </title>
         <desc>Programme à communiquer </desc>
@@ -6836,10 +6060,6 @@
         <desc>Programme à communiquer </desc>
     </programme>
     <programme channel="Nba 09" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Programme à communiquer </title>
-        <desc>Programme à communiquer </desc>
-    </programme>
-    <programme channel="Nba 10" start="20261010150000 +0000" stop="20261010170000 +0000">
         <title>Programme à communiquer </title>
         <desc>Programme à communiquer </desc>
     </programme>
@@ -6871,10 +6091,6 @@
         <title>Programme à communiquer </title>
         <desc>Programme à communiquer </desc>
     </programme>
-    <programme channel="Nba 11" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Programme à communiquer </title>
-        <desc>Programme à communiquer </desc>
-    </programme>
     <programme channel="Nba 11" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Programme à communiquer </title>
         <desc>Programme à communiquer </desc>
@@ -6900,10 +6116,6 @@
         <desc>Programme à communiquer </desc>
     </programme>
     <programme channel="Nba 11" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Programme à communiquer </title>
-        <desc>Programme à communiquer </desc>
-    </programme>
-    <programme channel="Nba 12" start="20261010150000 +0000" stop="20261010170000 +0000">
         <title>Programme à communiquer </title>
         <desc>Programme à communiquer </desc>
     </programme>
@@ -6935,10 +6147,6 @@
         <title>Programme à communiquer </title>
         <desc>Programme à communiquer </desc>
     </programme>
-    <programme channel="Nba 13" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Programme à communiquer </title>
-        <desc>Programme à communiquer </desc>
-    </programme>
     <programme channel="Nba 13" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Programme à communiquer </title>
         <desc>Programme à communiquer </desc>
@@ -6964,10 +6172,6 @@
         <desc>Programme à communiquer </desc>
     </programme>
     <programme channel="Nba 13" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Programme à communiquer </title>
-        <desc>Programme à communiquer </desc>
-    </programme>
-    <programme channel="Nba 14" start="20261010150000 +0000" stop="20261010170000 +0000">
         <title>Programme à communiquer </title>
         <desc>Programme à communiquer </desc>
     </programme>
@@ -6999,10 +6203,6 @@
         <title>Programme à communiquer </title>
         <desc>Programme à communiquer </desc>
     </programme>
-    <programme channel="Nba 15" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Programme à communiquer </title>
-        <desc>Programme à communiquer </desc>
-    </programme>
     <programme channel="Nba 15" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Programme à communiquer </title>
         <desc>Programme à communiquer </desc>
@@ -7030,10 +6230,6 @@
     <programme channel="Nba 15" start="20261011030000 +0000" stop="20261011050000 +0000">
         <title>Programme à communiquer </title>
         <desc>Programme à communiquer </desc>
-    </programme>
-    <programme channel="Wnba 01" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Atlanta Dream x New York Liberty(08-10-2026 03:20)</title>
-        <desc>Atlanta Dream x New York Liberty(08-10-2026 03:20)</desc>
     </programme>
     <programme channel="Wnba 01" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Atlanta Dream x New York Liberty(08-10-2026 03:20)</title>
@@ -7063,10 +6259,6 @@
         <title>Atlanta Dream x New York Liberty(08-10-2026 03:20)</title>
         <desc>Atlanta Dream x New York Liberty(08-10-2026 03:20)</desc>
     </programme>
-    <programme channel="Wnba 02" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Golden State Valkyries x Las Vegas Aces(08-10-2026 05:20)</title>
-        <desc>Golden State Valkyries x Las Vegas Aces(08-10-2026 05:20)</desc>
-    </programme>
     <programme channel="Wnba 02" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Golden State Valkyries x Las Vegas Aces(08-10-2026 05:20)</title>
         <desc>Golden State Valkyries x Las Vegas Aces(08-10-2026 05:20)</desc>
@@ -7095,10 +6287,6 @@
         <title>Golden State Valkyries x Las Vegas Aces(08-10-2026 05:20)</title>
         <desc>Golden State Valkyries x Las Vegas Aces(08-10-2026 05:20)</desc>
     </programme>
-    <programme channel="Wnba 03" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Programme à communiquer()</title>
-        <desc>Programme à communiquer()</desc>
-    </programme>
     <programme channel="Wnba 03" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Programme à communiquer()</title>
         <desc>Programme à communiquer()</desc>
@@ -7124,10 +6312,6 @@
         <desc>Programme à communiquer()</desc>
     </programme>
     <programme channel="Wnba 03" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Programme à communiquer()</title>
-        <desc>Programme à communiquer()</desc>
-    </programme>
-    <programme channel="Wnba 04" start="20261010150000 +0000" stop="20261010170000 +0000">
         <title>Programme à communiquer()</title>
         <desc>Programme à communiquer()</desc>
     </programme>
@@ -7159,10 +6343,6 @@
         <title>Programme à communiquer()</title>
         <desc>Programme à communiquer()</desc>
     </programme>
-    <programme channel="Wnba 05" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Programme à communiquer()</title>
-        <desc>Programme à communiquer()</desc>
-    </programme>
     <programme channel="Wnba 05" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Programme à communiquer()</title>
         <desc>Programme à communiquer()</desc>
@@ -7188,10 +6368,6 @@
         <desc>Programme à communiquer()</desc>
     </programme>
     <programme channel="Wnba 05" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Programme à communiquer()</title>
-        <desc>Programme à communiquer()</desc>
-    </programme>
-    <programme channel="Wnba 06" start="20261010150000 +0000" stop="20261010170000 +0000">
         <title>Programme à communiquer()</title>
         <desc>Programme à communiquer()</desc>
     </programme>
@@ -7223,10 +6399,6 @@
         <title>Programme à communiquer()</title>
         <desc>Programme à communiquer()</desc>
     </programme>
-    <programme channel="Wnba 07" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Programme à communiquer()</title>
-        <desc>Programme à communiquer()</desc>
-    </programme>
     <programme channel="Wnba 07" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Programme à communiquer()</title>
         <desc>Programme à communiquer()</desc>
@@ -7252,10 +6424,6 @@
         <desc>Programme à communiquer()</desc>
     </programme>
     <programme channel="Wnba 07" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Programme à communiquer()</title>
-        <desc>Programme à communiquer()</desc>
-    </programme>
-    <programme channel="Wnba 08" start="20261010150000 +0000" stop="20261010170000 +0000">
         <title>Programme à communiquer()</title>
         <desc>Programme à communiquer()</desc>
     </programme>
@@ -7287,10 +6455,6 @@
         <title>Programme à communiquer()</title>
         <desc>Programme à communiquer()</desc>
     </programme>
-    <programme channel="Wnba 09" start="20261010150000 +0000" stop="20261010170000 +0000">
-        <title>Programme à communiquer()</title>
-        <desc>Programme à communiquer()</desc>
-    </programme>
     <programme channel="Wnba 09" start="20261010170000 +0000" stop="20261010190000 +0000">
         <title>Programme à communiquer()</title>
         <desc>Programme à communiquer()</desc>
@@ -7316,10 +6480,6 @@
         <desc>Programme à communiquer()</desc>
     </programme>
     <programme channel="Wnba 09" start="20261011030000 +0000" stop="20261011050000 +0000">
-        <title>Programme à communiquer()</title>
-        <desc>Programme à communiquer()</desc>
-    </programme>
-    <programme channel="Wnba 10" start="20261010150000 +0000" stop="20261010170000 +0000">
         <title>Programme à communiquer()</title>
         <desc>Programme à communiquer()</desc>
     </programme>
