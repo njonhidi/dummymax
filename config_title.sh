@@ -1,10 +1,10 @@
-#!/bin/bash
+﻿#!/bin/bash
 
 ## VARIABLES
 
 ##declare Program Tittle
 
-declare -a ttl0="Tennis: Masters 1000 - Shanghai: Quart de finale (15-10-2026 09:28)"
+declare -a ttl0="Gea vs. Davidovich Fokina (15-10-2026 09:28)"
 declare -a ttl1="Eneco Tour (F) | 2e étape Tilburg – Tilburg (CLM – 13,6km) (15-10-2026 11:33)"
 declare -a ttl2="Zverev vs. de Minaur (15-10-2026 12:58)"
 declare -a ttl3="Dubois vs. Wardley 2: Weigh-In (16-10-2026 19:55)"
@@ -25,7 +25,7 @@ declare -a ttl17="Thunder vs. Rockets (16-10-2026 03:28)"
 declare -a ttl18="Boxe Poids super welters | Hommes (15-10-2026 18:58)"
 declare -a ttl19="Cyclisme : Eneco Tour: 2e étape, Messieurs (15-10-2026 14:18)"
 declare -a ttl20="Strasbourg vs. Roanne (16-10-2026 20:47)"
-declare -a ttl21="Harrison/Skupski vs. Schnaitter/Wallner (15-10-2026 06:58)"
+declare -a ttl21="Harrison/Skupski vs. Schnaitter/Wallner (15-10-2026 06:57)"
 declare -a ttl22="Grand Prix of Italy - Pole Position (16-10-2026 15:28)"
 declare -a ttl23="Victoria, BC - Day 3, Session 4 (16-10-2026 04:50)"
 declare -a ttl24="Al Qadsiah FC vs. Abha FC (16-10-2026 16:03)"
@@ -40,13 +40,13 @@ declare -a ttl32="Caledonia Gladiators vs. Sheffield Sharks (16-10-2026 21:16)"
 declare -a ttl33="Oct 14 - UTR PTT Newport Beach (14-10-2026 20:58)"
 declare -a ttl34="Victoria, BC - Day 4, Session 2 (16-10-2026 21:20)"
 declare -a ttl35="Oct 16 - UTR PTT Norman Men (16-10-2026 21:28)"
-declare -a ttl36="Victoria, BC - Day 2, Session 2 (15-10-2026 01:20)"
-declare -a ttl37="Hornets vs. Celtics (15-10-2026 02:28)"
-declare -a ttl38="Nets vs. Heat (15-10-2026 02:28)"
-declare -a ttl39="Pelicans vs. Mavericks (15-10-2026 02:58)"
-declare -a ttl40="Pistons vs. Timberwolves (15-10-2026 02:58)"
-declare -a ttl41="Bulls vs. Bucks (15-10-2026 02:58)"
-declare -a ttl42="Suns vs. Spurs (15-10-2026 02:58)"
+declare -a ttl36="Deportivo vs. Levante (16-10-2026 21:36)"
+declare -a ttl37="Fundora vs. Hadribeaj: Weigh-In (16-10-2026 22:55)"
+declare -a ttl38="Victoria, BC - Day 4, Session 3 (17-10-2026 01:20)"
+declare -a ttl39="Herring vs. Dodson: Weigh-In (17-10-2026 01:55)"
+declare -a ttl40="Celtics vs. 76ers (17-10-2026 01:58)"
+declare -a ttl41="Heat vs. Magic (17-10-2026 01:58)"
+declare -a ttl42="Raptors vs. Pistons (17-10-2026 01:58)"
 declare -a ttl43="Victoria, BC - Day 2, Session 3 (15-10-2026 04:50)"
 declare -a ttl44="Nuggets vs. Clippers (15-10-2026 05:28)"
 declare -a ttl45="Dubois vs. Wardley 2: Press Conference (15-10-2026 14:25)"
